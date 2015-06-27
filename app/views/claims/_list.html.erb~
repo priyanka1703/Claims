@@ -19,7 +19,13 @@
     <% total=0 %>
     <% claims.each do |c| %>
       <tr>
-        <td><%= c.user.email %></td>
+        <td>
+               <% if c.find_user_by_id(c.user.id)!= nil %>  
+               <%= c.user.email %>
+               <% else %>
+                  User deactivated
+               <% end %>     
+        </td>
         <td><%= c.title %></td>
          <td><%= c.created_at.strftime("%d/%m/%Y") %></td>
          <td><%= c.amount %></td>

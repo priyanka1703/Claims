@@ -77,7 +77,8 @@ class ClaimsController < ApplicationController
         def pay
               @claim = Claim.find(params[:id])
               @claim.status="Paid"
-           
+               
+               
               if @claim.save
                  redirect_to '/claims'
               else
