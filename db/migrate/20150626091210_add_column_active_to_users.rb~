@@ -1,0 +1,4 @@
+class AddColumnActiveToUsers < ActiveRecord::Migration
+  def change
+  end
+end

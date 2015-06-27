@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Claims</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+  <style type="text/css">
+	.footer{
+		background: #D0D0D0;
+		height: 50px;
+		font-size: 20px;
+		padding-left: 5%;
+		padding-top: 10px;
+		
+	}
+	.alert {
+  	 	height:30px;
+                padding-top: 5px;
+               
+	}
+	</style>
+
+</head>
+<body>
+
+<div class="container">
+
+
+<div class="navbar navbar-fixed-top custom-header">
+<nav class="navbar navbar-default" role="navigation">
+
+
+<div class="navbar-collapse collapse">
+<% if notice %>
+  <p class="alert alert-success"><%= notice %></p>
+<% end %>
+<% if alert %>
+  <p class="alert alert-danger"><%= alert %></p>
+<% end %>
+
+
+    <% if user_signed_in? %>
+   <ul class="nav navbar-nav navbar-left">
+        <li><%= link_to "HOME", "/users/show", :class => 'active' %></li>
+        <li><a href="/claims/new">Create a Claim</a> </li>
+	<% if current_user && current_user.admin? %>       
+	<li><a  href="/claims">Manage Claims</a> </li>
+       <li><a  href="/users">Manage Users</a> </li>
+       <li><%= link_to "Invite User", new_user_invitation_path  %> </li>
+       <% end %> 
+      <li> <%= link_to "Change your password", edit_user_registration_path %></li>      
+     </ul>
+	  <ul class="nav navbar-nav navbar-right">
+      <li><a href="#">Logged in as <strong><%= current_user.email %></strong></a></li>
+ 	<li><%= link_to 'Logout', destroy_user_session_path, method: :delete %></li>
+          
+        </ul>
+  
+     <% else %>
+    <ul class="nav navbar-nav navbar-right">
+     <li> <%= link_to "Login", new_user_session_path, :class => 'navbar-link'  %></li>
+     
+     </ul>
+	
+    <% end %>	
+  </div>
+</nav>
+
+</div>
+
+</div>
+<br/><br/></br></br>
+<%= yield %>
+
+<div class="container">
+	
+    <div class="navbar navbar-fixed-bottom custom-footer">
+	      
+	
+	<div class="footer">        
+	<span class="glyphicon glyphicon-copyright-mark"></span> Powered by Mapunity
+	</div>
+    
+  </div>
+</div>
+
+</body>
+</html>
