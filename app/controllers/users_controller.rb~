@@ -45,12 +45,12 @@ end
 
 def destroy
                 #Claim.find_by_user_id(params[:id]).destroy
-		if User.find(params[:id]).destroy
-    			flash[:notice] = "User deleted"
+		if User.find(params[:id]).update_attribute(:active, false)
+    			flash[:notice] = "User account deactivated"
 		        redirect_to '/users'
 	                
 		else
-			flash[:notice] = "Unable to delete User"
+			flash[:notice] = "Unable to deactivate User"
 		end
 end
 
@@ -73,5 +73,6 @@ def check_admin?
 		end
 	end
 
-
+		
+	
 end
