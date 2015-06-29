@@ -1,5 +1,5 @@
 class AddColumnActiveToUsers < ActiveRecord::Migration
   def change
-    add_column :users, :active, :boolean
+    add_column :users, :active, :boolean, default: true
   end
 end

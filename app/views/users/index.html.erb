@@ -11,28 +11,34 @@
 <th> Email Id </th>
 <th> Delete </th>
 <th> Admin</th>
-
+</tr>
 
 <% @users.each do |u| %>
 
 
-<% if !u.admin? %> 
+<% if !u.admin? && u.active? %> 
 <tr class="info">
 <td> <%= u.email %> </td>
 <td><%= button_to 'Deactivate Account', u,{method: :delete, class: "btn btn-primary btn-sm", data: { confirm: "Are you sure?" }}  %></td>
 <td><%= button_to 'Make Admin ',make_admin_path(u.id),{ method: :get, class: "btn btn-primary btn-sm", data: { confirm: "Are you sure?" }}  %></td>
 </tr>
-<% else %> 
+<% elsif u.admin? %>
 <tr class="info">
 <td> <%= u.email %> </td>
 <td> Cannot Delete </td>
 <td> Already Admin</td>
 </tr>
+<% else %>
+<tr class="info">
+<td> <%= u.email %> </td>
+<td colspan="2"> Account Deactivated </td>
+</tr>
+<% end %> 
+
+	
 <% end %>
 
 
-
-<% end %>
 </table>
 </div>
 
