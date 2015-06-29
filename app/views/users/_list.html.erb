@@ -41,9 +41,11 @@
 		<dt> Summary:  </dt>		<dd><%= c.summary %>	      </dd>
 	  	<dt> Amount: </dt> 		<dd>Rs. <%= c.amount %>	      </dd>
 	  	<dt> Status: </dt>		<dd><%= c.status %>	      </dd>
-		<% if c.file? %>
-		</br> <dd> <%= link_to "View Attachment" , c.file_url %> </dd>
-		<% end %>
+		</br> <dd> <% c.bills.all.each do |p| %>
+                            <%= link_to "View Attachment" , p.file_url %> </br>
+          
+                              <% end %>
+		 </dd>
                 </dl>
 	</div>
         <div class="modal-footer">
@@ -62,10 +64,17 @@
      <td><%= button_to 'Delete', c,{class: "btn btn-primary btn-sm",method: :delete, data: { confirm: "Are you sure?" } }  %></td>
        <% else %> <td colspan= 2></td>
        <% end %>
-       <% if c.file? %>
-        <td><%= link_to "View Attachment" , c.file_url %></td>
-        <% else %> <td></td> 
+
+
+      
+         <td>
+           <% c.bills.all.each do |p| %>
+           <%= link_to "View Attachment" , p.file_url %> </br>
+          
        <% end %>
+</td>
+
+        
     
       </tr>
        <% total=total+c.amount %> 

@@ -8,7 +8,7 @@ class User < ActiveRecord::Base
   validates :email, presence: true
   validates :email, uniqueness: true
   
-  #validates :password, :presence => true, :confirmation => true, :length => {:within => 6..40}
+  validates :password, :presence => true, :confirmation => true, :length => {:within => 6..40}
 
  def after_password_reset
   # self.update_attribute(:invite_code, nil)

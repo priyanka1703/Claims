@@ -34,7 +34,7 @@
 
 <div class="form-group" >
 	 <%= f.label :Upload_file %>
-	 <%= f.file_field :file %>
+	 <%= f.file_field :file, :multiple => true, name: "bills[file][]" %>
 </div>
 
   <div class="actions">

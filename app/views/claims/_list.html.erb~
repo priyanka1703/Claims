@@ -20,7 +20,7 @@
     <% claims.each do |c| %>
       <tr>
         <td>
-               <% if c.find_user_by_id(c.user.id)!= nil %>  
+               <% if c.user!= nil %>  
                <%= c.user.email %>
                <% else %>
                   User deactivated
@@ -47,8 +47,8 @@
 		<dt> Summary:  </dt>		<dd><%= c.summary %>	      </dd>
 	  	<dt> Amount: </dt> 		<dd>Rs. <%= c.amount %>	      </dd>
 	  	<dt> Status: </dt>		<dd><%= c.status %>	      </dd>
-		<% if c.file? %>
-		</br> <dd> <%= link_to "View Attachment" , c.file_url %> </dd>
+		<% if c.bills.all %>
+		</br> <dd> <%= link_to "View Attachment"  %> </dd>
 		<% end %>
                 </dl>
 	</div>
@@ -63,15 +63,21 @@
 
         <% if c.status=="Unpaid" %>
         <td><%= button_to 'Pay Now', pay_claim_path(c.id), {class: "btn btn-primary btn-sm",method: :get, data: { confirm: "Are you sure?" } } %>
-</td>
+    </td>
        <td> <%= button_to 'Update Claim', edit_claim_path(c.id), {class: "btn btn-primary btn-sm",method: :get} %></td>
        <td> <%= button_to 'Delete', c,{class: "btn btn-primary btn-sm",method: :delete, data: { confirm: "Are you sure?" } }  %></td>
        <% else %>
         <td></td> <td></td> <td></td>
        <% end %>
-       <% if c.file? %>
-        <td><%= link_to "View Attachment" , c.file_url %></td><% else %><td></td>
-        <% end %>
+
+
+       
+        
+         <td>
+           <% c.bills.all.each do |p| %>
+           <%= link_to "View Attachment" , p.file_url %> </br>
+           <% end %>
+        
         
       </tr>
        <% total=total+c.amount %> 

@@ -1,5 +1,6 @@
 class Claim < ActiveRecord::Base
  belongs_to :user
+  has_many :bills
 	
   validates :title, presence: true
   validates :amount, presence: true
@@ -8,7 +9,7 @@ class Claim < ActiveRecord::Base
   validates :file, :presence => true,
    :if => lambda {self.amount>1000}
 
-	mount_uploader :file, FileUploader
+	
 filterrific(
   default_filter_params: {  },
   available_filters: [

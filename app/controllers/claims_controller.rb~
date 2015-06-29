@@ -34,17 +34,31 @@ class ClaimsController < ApplicationController
 	end
 
 	def create
+        
 	@claim=Claim.new(claim_params)
 	@claim.exp_date= params[:date_expenditure][:year]+"/"+params[:date_expenditure][:month]+"/" + params[:date_expenditure][:day]
 	
 	@claim.status = "Unpaid"
 	@claim.user=current_user
+
+  
+       
+        logger.info "file  #{params[:claim][:file]}"
+        
+       
 	if @claim.save
-             
+               unless params[:bills].nil?
+	                params[:bills][:file].each do |a|
+	                	@bill = @claim.bills.create(:file => a, :claim_id => @claim.id)
+	                end
+	            end 
 		redirect_to '/users/show'
-	else
+                
+	
+         else
 		render 'new'
-	end
+	
+        end
 	end
 
 
@@ -56,6 +70,18 @@ class ClaimsController < ApplicationController
 		
 		@claim = Claim.find(params[:id])
     		if @claim.update_attributes(claim_params)
+                   #destroy old attachments
+                   while Bill.find_by_claim_id(params[:id])!= nil  do
+		   Bill.find_by_claim_id(params[:id]).destroy
+                   end  
+
+
+                   #create new attachments
+                   unless params[:bills].nil?
+	                params[:bills][:file].each do |a|
+	                	@bill = @claim.bills.create(:file => a, :claim_id => @claim.id)
+	                end
+	            end 
 			flash[:notice] = "Claim updated"
 			redirect_back_or_default("/users/show")
     		else
@@ -64,7 +90,9 @@ class ClaimsController < ApplicationController
 	end
 
 	def destroy 
-		
+                  while Bill.find_by_claim_id(params[:id])!= nil  do
+		   Bill.find_by_claim_id(params[:id]).destroy
+                   end
 		if @claim.destroy
     			flash[:notice] = "Claim deleted"
 			
@@ -77,7 +105,7 @@ class ClaimsController < ApplicationController
         def pay
               @claim = Claim.find(params[:id])
               @claim.status="Paid"
-               
+              @claim.reiumbersed_at=Time.current 
                
               if @claim.save
                  redirect_to '/claims'
@@ -95,6 +123,8 @@ class ClaimsController < ApplicationController
 		end	
 	end
 
+
+
 	def check_admin?
 		if current_user && !current_user.admin?
 			flash[:notice] = "You do not have permission to perform this action."
@@ -103,8 +133,10 @@ class ClaimsController < ApplicationController
 		end
 	end
 
+
+
 	private
 	def claim_params
-		params.require(:claim).permit(:title, :summary, :amount, :date_expenditure, :file)
+		params.require(:claim).permit(:title, :summary, :amount, :date_expenditure, bills_attributes: [:id, :claim_id, :file])
 	end
 end
