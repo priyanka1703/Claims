@@ -1,7 +1,11 @@
+<%= form_tag :action => 'pay' do %>  
+
+<%= submit_tag "PAY NOW", {class: "btn btn-primary btn-sm" ,data: { confirm: "Are you sure?" } } %>
+
+</br></br>
+
 <div id="filterrific_results">
-   <div>
-    <%= page_entries_info claims %>
-  </div>
+   
   <table class="table striped">
     <tr>
       <th>User email</th>
@@ -20,6 +24,10 @@
     <% claims.each do |c| %>
       <tr>
         <td>
+                 <% if c.status=="Unpaid" %>
+                  <%= check_box_tag  "claims[]",c.id %> 
+                  <% end %>
+             
                <% if c.user!= nil %>  
                <%= c.user.email %>
                <% else %>
@@ -32,7 +40,7 @@
         <td><%= c.status %></td>
 
 
-<td> <button class="btn btn-primary btn-sm" data-toggle="modal" data-target="#claim-<%= c.id %>"> View Claim </button>	
+<td> <button class="btn btn-primary btn-sm" data-toggle="modal" data-target="#claim-<%= c.id %>" type="button"> View Claim </button>	
 	
 	<div class="modal fade" id="claim-<%= c.id %>" tabindex="-1" role="dialog" aria-labelledby="claim-<%= c.id %>-label" aria-hidden="true">
     <div class="modal-dialog">
@@ -51,6 +59,7 @@
                             <%= link_to "View Attachment" , p.file_url %> </br>
           
                               <% end %>
+		 </dd>
                 </dl>
 	</div>
         <div class="modal-footer">
@@ -62,29 +71,34 @@
 
 	</td>
 
+
         <% if c.status=="Unpaid" %>
-        <td><%= button_to 'Pay Now', pay_claim_path(c.id), {class: "btn btn-primary btn-sm",method: :get, data: { confirm: "Are you sure?" } } %>
-    </td>
+        
        <td> <%= button_to 'Update Claim', edit_claim_path(c.id), {class: "btn btn-primary btn-sm",method: :get} %></td>
+       
        <td> <%= button_to 'Delete', c,{class: "btn btn-primary btn-sm",method: :delete, data: { confirm: "Are you sure?" } }  %></td>
+       
+
        <% else %>
-        <td></td> <td></td> <td></td>
+        <td></td> <td></td>
        <% end %>
 
 
        
         
          <td>
+            
            <% c.bills.all.each do |p| %>
            <%= link_to "View Attachment" , p.file_url %> </br>
            <% end %>
-        
+        </td>
         
       </tr>
        <% total=total+c.amount %> 
     <% end %>
+    <tr><td></td> <td></td> <td></td> <td>  <h4> Total: <%= total.round(2) %> </h4></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
   </table>
-   <h3> Total: <%= total %> </h3>
+   <% end %>
 </div>
 <div style="font-size: 20px">
 <%= will_paginate claims %></div>

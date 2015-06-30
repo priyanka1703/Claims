@@ -1,15 +1,14 @@
 class Claim < ActiveRecord::Base
  belongs_to :user
-  has_many :bills
+ # has_many :bills, dependent: :destroy
 	
   validates :title, presence: true
   validates :amount, presence: true
-  validates :amount, numericality: { greater_than: 0 }
- validates :exp_date, presence: true 
-  validates :file, :presence => true,
-   :if => lambda {self.amount>1000}
+  #validates :amount, numericality: { greater_than: 0 }
+ #validates :exp_date, presence: true 
+ # validates :file, :presence => true, :if => lambda {self.amount>1000}
 
-	mount_uploader :file, FileUploader
+	
 filterrific(
   default_filter_params: {  },
   available_filters: [

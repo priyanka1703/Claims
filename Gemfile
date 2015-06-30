@@ -20,6 +20,7 @@ gem 'will_paginate-bootstrap'
 gem 'carrierwave'
 gem 'mini_magick'
 
+
 gem 'validates_email_format_of'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'

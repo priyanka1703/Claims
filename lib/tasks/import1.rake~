@@ -5,11 +5,17 @@ namespace :import1 do
         filename=File.join Rails.root, "myclaims.csv"
         counter=0; 
  	CSV.foreach(filename) do |row|
-    
-          user= User.create(id: id, username: username, email: email , encrypted_password: encrypted_password,
-sign_in_count: sign_in_count,current_sign_in_at: current_sign_in_at, last_sign_in_at: last_sign_in_at, current_sign_in_ip: current_sign_in_ip, last_sign_in_ip: last_sign_in_ip, created_at: created_at, updated_at: updated_at, fname: fname, active: active)	 
-         puts "#{user.errors.full_messages.join(",")}" if user.errors.any?
-         counter+=1 if user.persisted?
+           
+           id,title,exp_date,amount,summary, created_at,updated_at,user_id,status,dummy1,reiumbersed_at=row
+           if status==true
+              status= "Paid"
+           else
+              status= "Unpaid"
+           end   
+     
+          claim= Claim.create(id: id,title: title,exp_date: exp_date,amount: amount,summary: summary, created_at: created_at,updated_at: updated_at,user_id: user_id,status: status,reiumbersed_at: reiumbersed_at)	 
+         puts "#{claim.errors.full_messages.join(",")}" if claim.errors.any?
+         counter+=1 if claim.persisted?
          end
         puts counter
      end

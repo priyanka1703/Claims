@@ -22,6 +22,11 @@ class ClaimsController < ApplicationController
 		    format.html
 		    format.js
 		  end
+
+
+
+
+
 	    rescue ActiveRecord::RecordNotFound => e
 	    # There is an issue with the persisted param_set. Reset it.
 	    puts "Had to reset filterrific params: #{ e.message }"
@@ -43,16 +48,18 @@ class ClaimsController < ApplicationController
 
   
        
-        logger.info "file  #{params[:claim][:file]}"
+        
         
        
 	if @claim.save
                unless params[:bills].nil?
 	                params[:bills][:file].each do |a|
-	                	@bill = @claim.bills.create(:file => a, :claim_id => @claim.id)
+                                logger.info "hhhhhhhhh"
+	                	@bill = @claim.bills.create!(:file => a, :claim_id => @claim.id)
 	                end
 	            end 
-		redirect_to '/users/show'
+		 redirect_back_or_default("/users/show") 
+                
                 
 	
          else
@@ -71,10 +78,7 @@ class ClaimsController < ApplicationController
 		@claim = Claim.find(params[:id])
     		if @claim.update_attributes(claim_params)
                    
-                   #destroy old attachments
-                   while Bill.find_by_claim_id(params[:id])!= nil  do
-		   Bill.find_by_claim_id(params[:id]).destroy
-                   end  
+                  
 
 
                    #create new attachments
@@ -91,9 +95,7 @@ class ClaimsController < ApplicationController
 	end
 
 	def destroy 
-                  while Bill.find_by_claim_id(params[:id])!= nil  do
-		   Bill.find_by_claim_id(params[:id]).destroy
-                   end
+                  
 		if @claim.destroy
     			flash[:notice] = "Claim deleted"
 			
@@ -103,7 +105,42 @@ class ClaimsController < ApplicationController
 		end
 	end
 
-        def pay
+       
+
+ def pay
+     
+    unless params[:claims].nil?
+
+
+    params[:claims].each do |id|
+       claim_id = id
+      c = Claim.find_by_id(claim_id)
+        #code to update the status here
+         c.status="Paid"
+          c.reiumbersed_at=Time.current 
+               
+              if c.save
+                 flash[:notice] = "Claims Paid"
+                redirect_back_or_default("/claims") and return
+                
+              else
+                 flash[:notice] = "Unable to pay Claims"
+              end  
+        end 
+
+    else
+      
+       flash[:notice] = "Please select claims to pay"      
+        redirect_back_or_default("/claims") and return
+                
+   end
+     
+end
+
+    
+=begin              
+
+
               @claim = Claim.find(params[:id])
               @claim.status="Paid"
               @claim.reiumbersed_at=Time.current 
@@ -113,7 +150,10 @@ class ClaimsController < ApplicationController
               else
                  flash[:notice] = "Unable to pay Claim"
               end  
-        end
+
+=end
+
+        
 
 	def can_delete_or_edit?
 		@claim = Claim.find(params[:id])
