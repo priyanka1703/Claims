@@ -121,6 +121,7 @@ $(document).ready(function(){
       <% counter2 = 0 %>
        <% c.bills.all.each do |p| %>
          <li data-target="#myCarousel" data-slide-to=<%= counter2 %> ></li>
+         <% counter2+=1 %>
        <% end %>
 
             <!--li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -134,20 +135,32 @@ $(document).ready(function(){
              <div class="active item">
                     
                   <% p=c.bills.first %>
+                  <% if p.content_type == "application/pdf" %>       
+                 
+                 <a href="<%= p.file_url %>" target="_blank">
+                      <img src ="../images/pdf.jpg" alt="it is a pdf" width="250px" height="250px" /> 
+                 </a>
+                  <% else %>
                   <%= image_tag p.file_url(:medium) %>
+                   <% end %>
                    
-          		<div class="carousel-caption">
-                  
-                </div>
+          	<div class="carousel-caption"></div>
             </div>
        <% counter= 0 %>
          <% c.bills.all.each do |p| %>
            <% if counter==0 %>
-             
+          
            <% else %>
+              
              <div class= "item" >
+                 <% if p.content_type == "application/pdf" %>       
+                 
+                 <a href="<%= p.file_url %>" target="_blank">
+                      <img src ="../images/pdf2.jpg" alt="it is a pdf" width="250px" height="250px" /> 
+                 </a>
+                  <% else %>
                 <%= image_tag p.file_url(:medium) %>
-                
+                <% end %>
                 <div class="carousel-caption">
                  
                 </div>
