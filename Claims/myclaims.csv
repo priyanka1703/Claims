@@ -1,0 +1,1147 @@
+id,summary,exp_date,amount,description,created_at,updated_at,user_id,status,draft,reiumbersed_at
+367,Unfuddle Payment 08-2010,2010-09-08,2370.0,"",2010-09-29 07:11:20.085799,2010-10-25 14:41:26.976215,6,t,f,2010-10-25 14:41:26.974702
+365,Hetzner Payment 08-2010,2010-09-06,7246.35,"",2010-09-29 07:10:10.21064,2010-10-25 14:41:26.982096,6,t,f,2010-10-25 14:41:26.980627
+366,Amazon Payment 08-2010,2010-09-03,4437.0,"",2010-09-29 07:10:41.96699,2010-10-25 14:41:26.988287,6,t,f,2010-10-25 14:41:26.986748
+389,BSNL J.P nagar,2010-10-26,10035.0,​paid at the Bangalore One centre in 6th phase. receipt given to mamata.&nbsp;,2010-10-26 13:39:57.761747,2010-10-28 04:46:01.516588,4,t,f,2010-10-28 04:46:01.515071
+388,Slicehost,2010-10-18,4150.0,​,2010-10-26 13:36:09.087277,2010-10-28 04:46:01.522676,4,t,f,2010-10-28 04:46:01.521484
+399,Materials for electricity work at JPNR office,2010-11-23,350.0,"",2010-11-23 20:20:00.200704,2010-12-01 05:00:01.401016,2,t,f,2010-12-01 05:00:01.399706
+430,Taxi to BCIL factory,2011-01-04,500.0,"",2011-01-05 07:19:10.584831,2011-01-26 06:12:45.206528,2,t,f,2011-01-26 06:12:45.205291
+410,Electricity and Water Bill,2010-12-21,1100.0,"",2010-12-21 15:36:17.34612,2011-01-26 06:14:24.281686,5,t,f,2011-01-26 06:14:24.280333
+464,Tea expenses for JPNR office for the month of Feb 2011,2011-03-04,1694.0,"",2011-03-04 06:34:03.314767,2011-03-06 12:26:24.076706,2,t,f,2011-03-06 12:26:24.075566
+453,Amazon Payment 2011/01,2011-02-09,4386.0,"",2011-02-27 02:24:55.542983,2011-03-06 12:27:40.051614,6,t,f,2011-03-06 12:27:40.050442
+455,Unfuddle Payment 2011/01,2011-02-08,2310.0,"",2011-02-27 02:27:05.464593,2011-03-06 12:27:40.055827,6,t,f,2011-03-06 12:27:40.054546
+454,Hetzner Payment 2011/01,2011-02-03,7569.0,"",2011-02-27 02:26:20.453194,2011-03-06 12:27:40.060073,6,t,f,2011-03-06 12:27:40.05902
+451,Data recovery from faulty laptop,2011-01-04,350.0,"Since the Compaq laptop failed to boot, the data had to be recovered. The recovery process was carried out at a Private Computer Services compay (Amogha Computer Services) at Banshankari 2nd Stage.",2011-02-10 06:29:30.261382,2011-03-06 12:30:27.957878,22,t,f,2011-03-06 12:30:27.956443
+441,Renewal of Dreamhost account for an year $119.40,2011-01-28,5467.0,​Dreamhost provides DNS for many of our domains. The account was renewed for an year.&nbsp;,2011-01-28 09:40:53.048072,2011-03-06 12:32:12.690759,7,t,f,2011-03-06 12:32:12.689221
+442,Renewal ktis.in and ptis.in,2011-01-28,1502.0,"<meta charset=""utf-8""><span style=""font-family: Times; font-size: medium; border-collapse: collapse; ""><table class=""input7"" width=""600"" border=""1"" borderwidth=""1"" align=""center"" cellpadding=""0"" cellspacing=""0"" style=""background-color: rgb(248, 248, 248); color: rgb(17, 17, 17); font-family: Verdana, Tahoma; font-size: 13px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(97, 97, 97); border-right-color: rgb(97, 97, 97); border-bottom-color: rgb(97, 97, 97); border-left-color: rgb(97, 97, 97); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-collapse: collapse; ""><tbody><tr><td width=""100"" align=""CENTER""><b>Invoice No.</b></td><td width=""120"" align=""CENTER""><b>Dated</b></td><td width=""100"" align=""CENTER""><b>Category</b></td><td width=""160"" align=""CENTER""><b>Particulars</b></td><td width=""100"" align=""CENTER""><b>Amount</b></td></tr><tr class=""input9"" style=""background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Verdana, Tahoma; font-size: 12px; ""><td>&nbsp;DOM56782</td><td>&nbsp;2011-01-22</td><td>&nbsp;Domain</td><td>&nbsp;ktis.in</td><td>&nbsp;Rs. &nbsp; 751</td></tr><tr class=""input9"" style=""background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Verdana, Tahoma; font-size: 12px; ""><td>&nbsp;DOM56806</td><td>&nbsp;2011-01-23</td><td>&nbsp;Domain</td><td>&nbsp;ptis.in</td><td>&nbsp;Rs. &nbsp; 751</td></tr><tr class=""input9"" style=""background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Verdana, Tahoma; font-size: 12px; ""><td colspan=""4"" align=""right"">&nbsp;<b>Total</b>&nbsp;&nbsp;</td><td>&nbsp;Rs. &nbsp;1502</td></tr></tbody></table></span>",2011-01-28 09:46:52.12233,2011-03-06 12:32:12.696286,7,t,f,2011-03-06 12:32:12.694241
+535,Slicehost,2011-07-18,4164.0,​slicehost,2011-08-02 05:16:07.326579,2011-08-06 11:31:08.718112,4,t,f,2011-08-06 11:31:08.716929
+475,Unfuddle 2011/02,2011-03-08,2291.0,"",2011-03-26 05:40:54.184569,2011-04-19 05:34:02.797987,6,t,f,2011-04-19 05:34:02.795919
+474,Amazon Payment 2011/02,2011-03-04,14457.0,"",2011-03-26 05:40:03.83873,2011-04-19 05:34:02.804886,6,t,f,2011-04-19 05:34:02.802684
+473,Hetzner payment 2011/02,2011-03-03,7549.0,"",2011-03-26 05:39:16.666556,2011-04-19 05:34:02.810763,6,t,f,2011-04-19 05:34:02.809198
+486,Renewal of ctis.in,2011-04-19,734.0,​,2011-04-19 07:09:41.013775,2011-04-29 11:24:07.195384,7,t,f,2011-04-29 11:24:07.19303
+521,BWSSB bill for JPNR office for May 2011,2011-06-28,2243.0,"",2011-06-27 05:32:18.590059,2011-07-06 13:32:49.77864,2,t,f,2011-07-06 13:32:49.777472
+520,BESCOM bill for JPNR office for May 2011,2011-06-28,1090.0,"",2011-06-27 05:31:53.667317,2011-07-06 13:32:49.783633,2,t,f,2011-07-06 13:32:49.782429
+522,BSNL bill for JPNR office for May 2011,2011-06-28,10126.0,"",2011-06-27 05:32:42.81717,2011-07-06 13:32:49.801131,2,t,f,2011-07-06 13:32:49.799735
+519,Utilities for JP Nagar office,2011-06-16,850.0,<br>,2011-06-27 05:28:34.224241,2011-07-06 13:32:49.810077,2,t,f,2011-07-06 13:32:49.808712
+536,Slicehost June2011,2011-06-18,4199.0,slicehost,2011-08-02 05:23:56.060459,2011-08-06 11:31:08.726878,4,t,f,2011-08-06 11:31:08.725489
+498,Maid's salary for April 2011,2011-05-04,2750.0,"",2011-05-04 05:40:29.074783,2011-07-06 13:33:52.522401,2,t,f,2011-07-06 13:33:52.520059
+499,Gardener Salary for April 2011,2011-05-04,1000.0,"",2011-05-04 05:41:14.758833,2011-07-06 13:33:52.545706,2,t,f,2011-07-06 13:33:52.543296
+543,Conference - PHPCloud: Scaling Web Applications for the Cloud,2011-07-06,800.0,​,2011-08-23 08:09:17.770181,2011-09-08 04:32:00.298737,22,t,f,2011-09-08 04:32:00.297107
+508,Unfuddle 2011/04,2011-05-08,2273.0,"",2011-05-31 09:47:13.798313,2011-07-06 13:35:09.773094,6,t,f,2011-07-06 13:35:09.771866
+506,amazon 2011/04,2011-05-04,3981.0,"",2011-05-31 09:44:47.394789,2011-07-06 13:35:09.77796,6,t,f,2011-07-06 13:35:09.776876
+507,Hetzner 2011/04,2011-05-03,7956.0,"",2011-05-31 09:45:42.81259,2011-07-06 13:35:09.78188,6,t,f,2011-07-06 13:35:09.780789
+556,BESCOM BILL for Aug 2011,2011-09-14,1096.0,"",2011-09-15 06:26:12.307974,2011-11-01 16:38:35.98014,2,t,f,2011-11-01 16:38:35.978936
+557,BWSSB bill for the month of Aug 2011,2011-09-14,566.0,"",2011-09-15 06:27:12.805154,2011-11-01 16:38:35.985231,2,t,f,2011-11-01 16:38:35.983589
+567,Office Accessories,2011-10-10,550.0,"Handwash, toilet cleaner, etc<br>",2011-10-10 11:06:41.251352,2011-11-01 16:41:15.926044,5,t,f,2011-11-01 16:41:15.924772
+578,Company lunch,2011-10-12,4500.0,​,2011-10-31 12:47:48.276886,2011-11-01 16:42:56.736956,3,t,f,2011-11-01 16:42:56.735792
+547,Unfuddle 2011/07,2011-08-08,2303.0,"",2011-08-30 04:46:00.956872,2011-09-08 04:29:25.256322,6,t,f,2011-09-08 04:29:25.254848
+368,renewal of urbanaffairs.in,2010-10-01,736.0,​,2010-10-01 08:32:02.980561,2010-10-25 14:43:44.377014,7,t,f,2010-10-25 14:43:44.375676
+400,Travel to Bombay BAVTEQ,2010-11-23,12800.0,"​tix 9800, taxis 3000<br>",2010-11-25 01:52:05.930496,2010-12-01 04:53:51.958598,3,t,f,2010-12-01 04:53:51.95735
+390,Toilet accessories for JPNR office,2010-10-29,335.0,"",2010-10-29 06:42:33.040696,2010-12-01 05:00:01.414494,2,t,f,2010-12-01 05:00:01.413019
+431,laptop for Shreyas,2011-01-06,35450.0,​some chance of getting money back from sale of older machines.<br>,2011-01-08 17:23:03.604293,2011-01-26 06:10:49.27461,3,t,f,2011-01-26 06:10:49.273442
+432,maid salary for Dec,2011-01-03,2500.0,"usually paid by Surekha, but I did this time.<br>",2011-01-08 17:23:55.036089,2011-01-26 06:10:49.30396,3,t,f,2011-01-26 06:10:49.302567
+411,Renewal of safebangalore.in,2010-12-29,751.0,"",2010-12-29 16:09:08.279866,2011-01-26 06:17:06.872178,7,t,f,2011-01-26 06:17:06.870875
+443,Tea @ JPNR office for the month of December 2010,2011-01-07,2024.0,​,2011-01-30 13:34:36.016049,2011-03-06 12:26:24.11598,2,t,f,2011-03-06 12:26:24.114859
+462,Renewal of btis.in and purchase of tnelections.in,2011-03-02,970.0,​Renewal of btis.in and purchase of tnelections.in,2011-03-02 03:05:08.878912,2011-03-06 12:32:12.683733,7,t,f,2011-03-06 12:32:12.677294
+456,auto fare - BCIL meeting,2011-02-09,100.0,auto fare to and fro from Majestic to Sadashivnagar<br>,2011-02-28 06:05:05.884848,2011-03-06 12:32:50.767422,21,t,f,2011-03-06 12:32:50.765974
+546,Android App Hosting,2011-08-05,1162.0,"",2011-08-30 04:44:28.693405,2011-09-08 04:29:25.261734,6,t,f,2011-09-08 04:29:25.260383
+476,WeGraphics subscription,2011-03-31,1383.0,"$30, - annual subscription to Wegraphics.net a nice source for icons, textures, brushes vector layers and others stuff that will be useful to Bindu.<div>She confirmed it was useful and so I subscribed to it as there was a 50% discount sale going on for one day.<br><div><br></div></div>",2011-04-01 09:48:31.596046,2011-04-29 07:19:02.18171,4,t,f,2011-04-29 07:19:02.180274
+487,Water bill for JPNR office for March 2011,2011-04-26,5366.0,"",2011-04-27 07:07:36.839158,2011-04-29 07:21:05.718154,2,t,f,2011-04-29 07:21:05.716732
+488,BESCOM bill for JPNR office for March 2011,2011-04-26,1256.0,"",2011-04-27 07:09:23.804505,2011-04-29 07:21:05.727468,2,t,f,2011-04-29 07:21:05.726091
+489,Office utilities,2011-04-13,490.0,"",2011-04-27 07:14:48.74725,2011-04-29 07:21:05.736703,2,t,f,2011-04-29 07:21:05.735364
+524,Maid Salary for the month of June 2011,2011-07-05,2750.0,"",2011-07-05 05:35:09.616049,2011-07-06 13:32:49.763511,2,t,f,2011-07-06 13:32:49.762174
+526,Gardener salary for the month of June 2011,2011-07-05,1000.0,"",2011-07-05 05:37:30.728358,2011-07-06 13:32:49.769311,2,t,f,2011-07-06 13:32:49.768143
+525,Tea expenses for the month of June 2011,2011-07-05,1183.0,"",2011-07-05 05:36:21.542506,2011-07-06 13:32:49.773856,2,t,f,2011-07-06 13:32:49.772673
+523,Tea expenses - served by new person ,2011-06-15,150.0,"",2011-07-05 05:33:31.047899,2011-07-06 13:32:49.816005,2,t,f,2011-07-06 13:32:49.814639
+509,BSNL bill for the month of April 2011,2011-05-31,10035.0,"",2011-06-01 11:47:04.33295,2011-07-06 13:32:49.859215,2,t,f,2011-07-06 13:32:49.857309
+510,Printer cartridge refill,2011-05-31,836.0,​Refill of 4 printer cartridges.<br>,2011-06-01 11:47:37.11071,2011-07-06 13:32:49.864583,2,t,f,2011-07-06 13:32:49.863388
+545,Amazon 2011/07,2011-08-03,3672.0,"",2011-08-30 04:43:53.301078,2011-09-08 04:29:25.266541,6,t,f,2011-09-08 04:29:25.265329
+500,Sump Motor repair,2011-05-10,500.0,​Paid to electrician to repair the sump motor. He changed the capacitor.,2011-05-11 11:31:31.550394,2011-07-06 13:36:57.419115,4,t,f,2011-07-06 13:36:57.417847
+537,nwmindia.org domain renewal,2011-08-02,499.0,domain name ​renewed through bigrock.in.&nbsp;,2011-08-02 06:11:54.170672,2011-08-06 11:31:08.696449,4,t,f,2011-08-06 11:31:08.695212
+544,Hetzner 2011/07,2011-08-02,7600.0,"",2011-08-30 04:43:09.756272,2011-09-08 04:29:25.270996,6,t,f,2011-09-08 04:29:25.26969
+558,"Renewal of vaccidate, dtis and mapservices domains",2011-09-17,2870.0,​Renewed<div><br></div><div>vaccidate.in</div><div>vaccidate.com</div><div>dtis.in</div><div>and</div><div>mapservices.in</div><div><br></div><div>for an year.</div>,2011-09-17 17:45:12.699197,2011-11-01 16:40:32.727677,7,t,f,2011-11-01 16:40:32.726448
+568,travel reimbursements - 3 flights,2011-10-12,50000.0,"​one flight to Mumbai tomorrow, and 2 flights to Delhi for Plan Comm and MoUD meetings in Jul/Aug. The actual tickets and local travel cost about 100K together, and I am claiming half reimbursement from the company (the other half either paid by myself, or reimbursed by gov - if it happens!)<br>",2011-10-12 01:50:23.831059,2011-11-01 16:42:56.740946,3,t,f,2011-11-01 16:42:56.739923
+581,Gardener salary for Oct 2011,2011-11-03,1500.0,"",2011-11-03 06:56:43.609376,2011-12-07 12:51:25.474117,2,t,f,2011-12-07 12:51:25.472833
+580,Tea expenses for the month of Oct 2011,2011-11-02,1872.0,"",2011-11-03 06:55:42.200976,2011-12-07 12:51:25.482529,2,t,f,2011-12-07 12:51:25.481235
+579,Maid Salary for Oct 2011,2011-11-02,4000.0,"",2011-11-03 06:55:07.806349,2011-12-07 12:51:25.492212,2,t,f,2011-12-07 12:51:25.490878
+55,XLHOST- Feb Invoice,2009-01-22,18455.63,"Payment details
+Amount: $363.00 USD
+Transaction Date: 22-Jan-2009
+PAYPAL Transaction ID: 2DB67172EG9611236
+
+Subject: Feb-Payment for servers Serial: 33170 and Serial: 34953
+",2009-01-27 12:52:04.017112,2009-02-12 15:42:17.466777,6,t,f,2009-02-12 15:42:17.466777
+370,Tea @ JPNR office for month of Sep 2010,2010-10-07,1573.0,"",2010-10-07 07:01:25.157244,2010-10-25 14:40:41.862262,2,t,f,2010-10-25 14:40:41.86049
+369,Mapunity board for JPNR office,2010-10-06,650.0,Company name board for the office<br>,2010-10-07 06:57:06.504691,2010-10-25 14:40:41.871011,2,t,f,2010-10-25 14:40:41.869569
+401,Slicehost ,2010-11-18,4236.0,​,2010-11-26 08:50:07.84755,2010-12-01 04:57:45.707884,4,t,f,2010-12-01 04:57:45.706483
+391,Salary for gardener,2010-11-03,1000.0,"",2010-11-03 08:43:01.494586,2010-12-01 05:01:13.589163,5,t,f,2010-12-01 05:01:13.587774
+529,BSNL internet bill for the month of June 2011,2011-07-19,10126.0,"",2011-07-19 06:40:12.03786,2011-08-06 11:29:38.256981,2,t,f,2011-08-06 11:29:38.255636
+490,Slicehost,2011-04-18,4168.0,​,2011-04-27 09:44:43.817041,2011-04-29 07:19:02.173432,4,t,f,2011-04-29 07:19:02.171965
+466,Office utilities for JPNR office,2011-03-07,330.0,"",2011-03-07 09:12:36.161182,2011-04-29 07:21:05.802892,2,t,f,2011-04-29 07:21:05.801529
+420,Unfuddle payment 11/2010,2010-12-08,2300.0,"",2010-12-31 15:27:47.128726,2011-01-26 06:08:38.362938,6,t,f,2011-01-26 06:08:38.361711
+418,Amazon Payment 11/2010,2010-12-04,4140.0,"",2010-12-31 15:26:33.349083,2011-01-26 06:08:38.366909,6,t,f,2011-01-26 06:08:38.36574
+419,Hetzner Payment 11/2010,2010-12-02,7194.0,"",2010-12-31 15:27:03.706456,2011-01-26 06:08:38.370964,6,t,f,2011-01-26 06:08:38.369809
+417,Unfuddle Payment 10/2010,2010-11-08,2258.0,"",2010-12-31 15:24:55.797293,2011-01-26 06:08:38.374889,6,t,f,2011-01-26 06:08:38.373724
+416,Hetzner Payment 10/2010,2010-11-04,7596.0,"",2010-12-31 15:24:26.288268,2011-01-26 06:08:38.380456,6,t,f,2011-01-26 06:08:38.379211
+415,Amazon Payment 10/2010,2010-11-03,5640.0,"",2010-12-31 15:23:52.549953,2011-01-26 06:08:38.390202,6,t,f,2011-01-26 06:08:38.388987
+527,BESCOM Bill for the month of June 2011,2011-07-18,1220.0,"",2011-07-19 06:38:46.086241,2011-08-06 11:29:38.263834,2,t,f,2011-08-06 11:29:38.26172
+528,BWSSB bill for the month of June 2011,2011-07-18,1321.0,"",2011-07-19 06:39:30.221296,2011-08-06 11:29:38.272357,2,t,f,2011-08-06 11:29:38.271176
+538,Paid to bring down coconuts @ JP Nagar office,2011-07-29,350.0,"",2011-08-02 10:06:16.823687,2011-08-06 11:33:46.189897,12,t,f,2011-08-06 11:33:46.188237
+414,Unfuddle Payment 09/2010,2010-10-08,2258.0,"",2010-12-31 15:20:07.384042,2011-01-26 06:09:00.833944,6,t,f,2011-01-26 06:09:00.832298
+413,Hetzner Payment 09/2010,2010-10-05,7439.0,Hetzner payment for october 2010<br>,2010-12-31 15:19:25.643802,2011-01-26 06:09:00.854879,6,t,f,2011-01-26 06:09:00.847534
+412,Amazon 09/2010 Payment,2010-10-04,4241.0,​Payment for amazon server for October 2010.<br>,2010-12-31 15:18:04.898386,2011-01-26 06:09:00.860719,6,t,f,2011-01-26 06:09:00.859236
+433,Renewal of various domains,2011-01-10,5145.0,"<font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">​Invoice No.<span class=""Apple-tab-span"" style=""white-space: pre; "">	</span> Dated<span class=""Apple-tab-span"" style=""white-space: pre; "">	</span> Category<span class=""Apple-tab-span"" style=""white-space: pre; "">	</span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Particulars&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Amount</span></font><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55715<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2010-12-29<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;abidebengaluru.com<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Rs. &nbsp; 480</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55716<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2010-12-29<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;abidebengaluru.in<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Rs. &nbsp; 741</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55719<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2010-12-29<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;abidebangalore.com<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Rs. &nbsp; 480</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55720<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2010-12-29<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;abidebangalore.in<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Rs. &nbsp; 741</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55879<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2011-01-01<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;livetraffic.in<span class=""Apple-tab-span"" style=""white-space:pre"">	</span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rs. &nbsp; 741</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55926<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2011-01-03<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;mtis.in<span class=""Apple-tab-span"" style=""white-space:pre"">	</span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rs. &nbsp; 741</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM55931<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2011-01-03<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;mysoretransport.in<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Rs. &nbsp; 741</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;DOM56243<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;2011-01-10<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Domain<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;opensocialmap.org<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> &nbsp;Rs. &nbsp; 480</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">&nbsp;Total &nbsp;<span class=""Apple-tab-span"" style=""white-space:pre"">	</span>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rs. &nbsp;5145</span></font></div><div style=""font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px; ""><br></div>",2011-01-10 03:14:57.063981,2011-01-26 06:17:06.856054,7,t,f,2011-01-26 06:17:06.854702
+444,Domain renewal - CoinsCloud,2011-02-02,500.0,​~ $11.&nbsp;<div><br></div>,2011-02-02 11:01:52.713327,2011-03-06 12:28:56.474822,4,t,f,2011-03-06 12:28:56.47364
+445,Domain renewal - mobileforms.in,2011-02-02,705.0,~$15,2011-02-02 11:05:58.316965,2011-03-06 12:28:56.479611,4,t,f,2011-03-06 12:28:56.478447
+479,Airtel IIIT Bill - 17/Feb/2011 - 16/Mar/2011,2011-04-04,4411.0,Paid it online.<br>,2011-04-04 07:21:37.190384,2011-04-29 11:22:38.309893,13,t,f,2011-04-29 11:22:38.304716
+478,Airtel IIIT Bill - 17/Jan/2011 - 16/Feb/2011,2011-03-09,4411.0,Paid it online.<br>,2011-04-04 07:21:17.43728,2011-04-29 11:22:38.31901,13,t,f,2011-04-29 11:22:38.316737
+477,Airtel IIIT Bill - 17/Dec/2010 - 17/Jan/2011,2011-02-04,4411.0,​Paid it online.<br>,2011-04-04 07:20:51.539318,2011-04-29 11:22:38.328948,13,t,f,2011-04-29 11:22:38.326545
+458,NTDPC Delhi,2011-02-12,7800.0,"Out of 28500, a big chunk 20700 was reimbursed by NTDPC.<br>",2011-02-28 16:48:09.071279,2011-04-29 11:26:19.165379,3,t,f,2011-04-29 11:26:19.163795
+457,Cancelled ticket to Del - MLAs ppt,2011-02-07,15500.0,​Not sure how much of this will be refunded by Kingfisher. Need to keep checking for a while.<br>,2011-02-28 16:47:17.645549,2011-05-02 04:33:56.556169,3,t,f,2011-05-02 04:33:56.554964
+512,Maid Salary for the month of May 2011,2011-06-06,2750.0,"",2011-06-06 07:48:05.042989,2011-07-06 13:32:49.827456,2,t,f,2011-07-06 13:32:49.826055
+513,Gardener salary for the month of May 2011,2011-06-06,1000.0,"",2011-06-06 07:48:33.137072,2011-07-06 13:32:49.839216,2,t,f,2011-07-06 13:32:49.83784
+511,Tea expenses for the month of May 2011,2011-06-06,2184.0,"",2011-06-06 07:47:43.142932,2011-07-06 13:32:49.852504,2,t,f,2011-07-06 13:32:49.850974
+501,Purchase of Laptop Power Adapter,2011-05-11,1260.0,​Huntkey 65W Laptop Power Adapter from Pinnacle Infotech.<br>,2011-05-16 06:14:16.060759,2011-07-06 13:39:08.36906,23,t,f,2011-07-06 13:39:08.367785
+569,"renewal of urbanafairs.in, personalmap.in and indoretransport.in",2011-10-13,2448.0,​,2011-10-13 12:03:37.110664,2011-11-01 16:40:32.73349,7,t,f,2011-11-01 16:40:32.732185
+548,Internet Bill for JPNR office for the month of July,2011-08-26,10126.0,"",2011-08-30 05:58:19.32946,2011-09-08 04:30:48.00808,2,t,f,2011-09-08 04:30:48.006978
+549,BESCOM bill for the month of July 2011,2011-08-17,1161.0,"",2011-08-30 06:01:54.355131,2011-09-08 04:30:48.012775,2,t,f,2011-09-08 04:30:48.011564
+550,BWSSB bill for July 2011,2011-08-17,566.0,"",2011-08-30 06:02:34.662471,2011-09-08 04:30:48.017026,2,t,f,2011-09-08 04:30:48.015818
+583,BESCOM bill for October 2011,2011-11-21,1202.0,"",2011-11-22 06:42:20.675889,2011-12-07 12:51:25.457405,2,t,f,2011-12-07 12:51:25.456082
+559,Harddisk Change for Lenovo Laptop (G55),2011-09-15,3125.0,"​Hard disk : 2625.00<br>Service Charge - Fixing HDD, Installing OS etc - 500.00<br>",2011-09-19 07:09:34.814042,2011-11-01 16:38:35.975784,2,t,f,2011-11-01 16:38:35.974575
+582,BWSSB bill for October 2011,2011-11-21,867.0,"",2011-11-22 06:41:01.711406,2011-12-07 12:51:25.465784,2,t,f,2011-12-07 12:51:25.464473
+126,Slicehost May09,2009-05-19,4441.36,"",2009-07-20 10:27:02.220107,2009-09-30 04:48:45.606562,4,t,f,2009-09-30 04:48:45.606562
+116,Gardener salary for June 2009,2009-07-07,800.0,"",2009-07-07 13:15:03.746727,2009-09-30 04:49:20.362569,2,t,f,2009-09-30 04:49:20.362569
+112,laptop - Lenovo,2009-06-19,33500.0,laptop has been assigned to Ragul.,2009-06-27 20:15:11.904153,2009-09-30 04:49:20.379201,4,t,f,2009-09-30 04:49:20.379201
+145,Payment for amazon - July,2009-08-02,8736.71,"",2009-08-27 06:53:12.979184,2009-09-30 04:47:27.335525,6,t,f,2009-09-30 04:47:27.335525
+371,"renewal of personalmap.in, donateme.in and indoretransport.in",2010-10-17,2180.46,"​Renewed domains personalmap.in, donateme.in and indoretransport.in",2010-10-17 17:32:28.146433,2010-10-25 14:40:41.85159,7,t,f,2010-10-25 14:40:41.850202
+152,Renewal of domains,2009-09-17,2886.0,"vaccidate.in, vaccidate.com, mapservices.in, dtis.in",2009-09-17 07:25:18,2009-09-30 05:16:16.882739,7,,f,
+402,LCD Display changed,2010-11-22,6248.0,"​Due to power fluctuations on the first floor, my LCD display burned out.<br>",2010-11-27 10:18:45.505827,2010-12-01 04:55:05.537969,12,t,f,2010-12-01 04:55:05.536235
+392,Tea expenses,2010-11-03,1770.0,"",2010-11-03 10:23:12.91765,2010-12-01 05:01:13.594444,5,t,f,2010-12-01 05:01:13.593116
+434,Commute to BCIL office,2011-01-10,280.0,​,2011-01-11 06:34:43.415882,2011-01-26 06:14:24.276777,5,t,f,2011-01-26 06:14:24.275285
+421,Bought groupvote.in,2011-01-03,223.0,​,2011-01-03 10:06:55.243693,2011-01-26 06:17:06.867106,7,t,f,2011-01-26 06:17:06.866001
+446,j.p nagar gardener,2011-02-04,1000.0,​paid in cash.,2011-02-07 07:05:43.681476,2011-03-06 12:28:56.469487,4,t,f,2011-03-06 12:28:56.468149
+459,Android Phone,2011-01-14,6500.0,"​The total amount for my android phone (LG Optimus One) was Rs 13,396 out of which Rs 396 was for insurance. I understand I will be using my phone for Android based development in the near future.&nbsp;",2011-02-28 18:37:14.947681,2011-03-06 12:30:27.943405,22,t,f,2011-03-06 12:30:27.941811
+573,BSNL bill for September 2011,2011-10-18,10126.0,"",2011-10-19 06:11:13.277634,2011-11-01 16:38:35.947996,2,t,f,2011-11-01 16:38:35.946607
+572,BWSSB bill for September 2011,2011-10-18,1600.0,"",2011-10-19 06:09:38.198067,2011-11-01 16:38:35.952665,2,t,f,2011-11-01 16:38:35.951461
+560,BSNL bill for August 2011,2011-09-19,10126.0,"",2011-09-20 05:51:01.167516,2011-11-01 16:38:35.970848,2,t,f,2011-11-01 16:38:35.969649
+494,BSNL j.p nagar,2011-04-27,10035.0,"",2011-04-27 10:26:25.586794,2011-04-29 07:19:02.166825,4,t,f,2011-04-29 07:19:02.165141
+493,Slicehost,2011-03-18,4217.0,"",2011-04-27 10:20:12.81914,2011-04-29 07:19:02.190794,4,t,f,2011-04-29 07:19:02.189365
+492,Slicehost,2011-02-18,4231.0,"",2011-04-27 10:18:41.814659,2011-04-29 07:19:02.203605,4,t,f,2011-04-29 07:19:02.20235
+491,Slicehost,2011-01-18,4248.0,"",2011-04-27 10:17:35.054418,2011-04-29 07:19:02.209083,4,t,f,2011-04-29 07:19:02.207822
+467,Bombay TiE trip,2011-03-04,10000.0,some adjustment against FF miles used here and in Delhi trip is needed.<br>,2011-03-08 05:22:26.07678,2011-04-29 11:26:19.170979,3,t,f,2011-04-29 11:26:19.169688
+481,2 mats for the office,2011-04-05,500.0,Sapana got these at some exhibition<br>,2011-04-05 09:17:39.236624,2011-04-29 11:26:19.17689,3,t,f,2011-04-29 11:26:19.175591
+480,Garderner salary for March,2011-04-05,1000.0,​paid in cash on premises<br>,2011-04-05 09:17:03.995852,2011-04-29 11:26:19.181814,3,t,f,2011-04-29 11:26:19.180658
+514,slicehost,2011-05-18,4206.0,​citibank credit card.,2011-06-08 12:52:55.536149,2011-07-06 13:36:30.05502,4,t,f,2011-07-06 13:36:30.053337
+502,Airtel IIIT Bill - 17/Mar/2011 - 16/Apr/2011,2011-05-16,4411.0,​Paid it online.<br>,2011-05-16 11:31:03.463808,2011-07-06 13:38:06.15181,13,t,f,2011-07-06 13:38:06.1505
+539,Gardener Salary for the month of July 2011,2011-08-03,1000.0,"",2011-08-03 09:27:40.761895,2011-08-06 11:29:38.240031,2,t,f,2011-08-06 11:29:38.238545
+541,Tea expenses for July 2011,2011-08-03,2099.0,"",2011-08-03 09:33:02.310545,2011-08-06 11:29:38.245593,2,t,f,2011-08-06 11:29:38.24423
+540,Salary for Maid for the month of July 2011,2011-08-02,2750.0,"",2011-08-03 09:31:44.296423,2011-08-06 11:29:38.251609,2,t,f,2011-08-06 11:29:38.250246
+530,Wood work,2011-07-20,1200.0,​,2011-07-21 07:23:49.798183,2011-08-06 11:33:46.195364,12,t,f,2011-08-06 11:33:46.19406
+551,Slicehost,2011-08-18,2862.0,<br>,2011-09-05 09:09:03.250996,2011-09-08 04:32:58.327353,4,t,f,2011-09-08 04:32:58.326009
+570,Tea cups for Office,2011-10-18,650.0,"",2011-10-19 06:06:37.001822,2011-11-01 16:38:31.220066,2,t,f,2011-11-01 16:38:31.218716
+571,BESCOM bill for the month of September 2011,2011-10-18,1059.0,"",2011-10-19 06:08:12.588565,2011-11-01 16:38:31.236294,2,t,f,2011-11-01 16:38:31.232856
+135,Indore Trip Mar 11 - Bangalore to Mumbai,2009-03-11,2820.82,​First Indore Trip.<br>Bangalore to Mumbai.<br>,2009-08-06 06:52:51.9054,2009-09-30 04:47:27.154685,13,t,f,2009-09-30 04:47:27.154685
+503,Office utilities ,2011-05-24,338.0,"",2011-05-24 05:25:41.80192,2011-07-06 13:32:49.911668,2,t,f,2011-07-06 13:32:49.910488
+375,Slicehost,2010-07-18,4394.0,"",2010-10-18 10:25:05.5747,2010-10-28 04:46:01.62304,4,t,f,2010-10-28 04:46:01.621968
+374,J.P NAGAR BSNL,2010-07-05,10035.0,"",2010-10-18 10:21:30.595748,2010-10-28 04:46:09.143375,4,t,f,2010-10-28 04:46:09.142049
+373,J.P nagar - Gardener Salary ,2010-07-02,1000.0,"",2010-10-18 10:20:51.724569,2010-10-28 04:46:09.148807,4,t,f,2010-10-28 04:46:09.147494
+372,Maid Salary,2010-07-02,2500.0,​,2010-10-18 10:20:17.156141,2010-10-28 04:46:09.153292,4,t,f,2010-10-28 04:46:09.152127
+249,BSNL JPnagar office,2010-03-13,10035.0,​paid through citibank bill pay.,2010-03-13 03:24:50.135003,2010-10-28 04:46:17.675503,4,t,f,2010-10-28 04:46:17.674083
+248,reachyourdoc.com domain.,2010-03-10,445.0,​through paypal. Answerable. gokul@mapunity.in account.,2010-03-10 12:10:25.538434,2010-10-28 04:46:17.681194,4,t,f,2010-10-28 04:46:17.679819
+245,Rails upgrade e-book,2010-03-01,572.75,​bought via paypal (citibank).,2010-03-01 05:59:56.91724,2010-10-28 04:46:17.693812,4,t,f,2010-10-28 04:46:17.691391
+241,mobileforms.in Domain registration 1 year. ,2010-02-24,280.0,​Done through answerable.com using gokul@mapunity.in account.,2010-02-24 11:15:43.398484,2010-10-28 04:46:17.706772,4,t,f,2010-10-28 04:46:17.704797
+234,BSNL JP Nagar Office - Jan month,2010-02-12,10037.0,​citibank online.,2010-02-12 13:05:18.695177,2010-10-28 04:46:17.724254,4,t,f,2010-10-28 04:46:17.722777
+517,Unfuddle 2011/05,2011-06-08,2276.0,"",2011-06-17 06:37:05.810008,2011-07-06 13:35:01.582321,6,t,f,2011-07-06 13:35:01.580955
+515,Hetzner 2011/05,2011-06-03,7881.0,"",2011-06-17 06:35:53.690814,2011-07-06 13:35:01.591752,6,t,f,2011-07-06 13:35:01.590507
+516,Amazon 2011/05,2011-06-03,4180.0,"",2011-06-17 06:36:21.312863,2011-07-06 13:35:01.598822,6,t,f,2011-07-06 13:35:01.59763
+403,Writing boards for JPNR office,2010-11-30,11800.0,​11564.00 is the price of the board and rest is the fixing and transport charges.<br>,2010-11-30 12:30:37.963374,2010-12-01 05:00:01.387522,2,t,f,2010-12-01 05:00:01.386064
+393,Salary for maid,2010-11-04,1500.0,"",2010-11-04 05:38:30.842549,2010-12-01 05:01:13.582792,5,t,f,2010-12-01 05:01:13.581581
+424,Printer Paper,2011-01-03,330.0,bill with mamta.<div><br></div>,2011-01-03 10:42:50.142709,2011-01-26 06:07:00.47241,4,t,f,2011-01-26 06:07:00.471147
+422,BSNL j.p nagar office.,2010-12-19,10126.0,​BSNL bill .paid online.,2011-01-03 10:39:33.392466,2011-01-26 06:07:00.476856,4,t,f,2011-01-26 06:07:00.475661
+423,Slicehost,2010-12-18,4240.0,Slicehost.,2011-01-03 10:42:05.666811,2011-01-26 06:07:00.480842,4,t,f,2011-01-26 06:07:00.479656
+437,Unfuddle Payment 12/2010,2011-01-09,2310.0,"",2011-01-24 16:27:41.530702,2011-01-26 06:08:38.338477,6,t,f,2011-01-26 06:08:38.33709
+436,Hetzner Payment 12/2010,2011-01-03,7245.0,"",2011-01-24 16:27:04.623958,2011-01-26 06:08:38.348279,6,t,f,2011-01-26 06:08:38.347017
+435,Amazon Payment 12/2010,2011-01-03,4248.0,​,2011-01-24 16:26:22.372078,2011-01-26 06:08:38.358638,6,t,f,2011-01-26 06:08:38.35735
+460,Visit to Chennai TMC,2011-02-28,2463.0,​Bus Tickets&nbsp; -&nbsp; 1213.00<br>Local Travel - 450.00<br>Lodging - 800.00<br>,2011-03-01 05:31:26.811706,2011-03-06 12:26:24.097994,2,t,f,2011-03-06 12:26:24.096875
+448,Maid Salary for Jan 2011,2011-02-03,2700.0,"",2011-02-08 05:19:53.700406,2011-03-06 12:26:24.107579,2,t,f,2011-03-06 12:26:24.106447
+447,Tea @ JPNR office for the month of Jan 2011,2011-02-01,1518.0,"",2011-02-08 05:17:42.493676,2011-03-06 12:26:24.111794,2,t,f,2011-03-06 12:26:24.110681
+532,Hetzner 2011/06,2011-07-04,7800.0,"",2011-07-29 03:57:05.508149,2011-08-06 11:27:29.812811,6,t,f,2011-08-06 11:27:29.811649
+468,Surge protector strip,2011-02-28,577.0,​bought from chroma.,2011-03-08 05:46:52.500258,2011-04-29 07:19:02.199093,4,t,f,2011-04-29 07:19:02.197852
+484,Tea for JPNR office for the month of March 2011,2011-04-05,2496.0,​,2011-04-12 07:05:02.342721,2011-04-29 07:21:05.747779,2,t,f,2011-04-29 07:21:05.746641
+482,bought domain tue.org.in,2011-04-11,227.0,​,2011-04-11 09:16:32.027291,2011-04-29 11:24:07.370304,7,t,f,2011-04-29 11:24:07.200732
+483,Renewal of karnatakaelections.in,2011-04-11,727.0,​,2011-04-11 09:25:39.796731,2011-04-29 11:24:07.376975,7,t,f,2011-04-29 11:24:07.375672
+531,Domain renewals on nettigritty,2011-07-25,6000.0,"​htis, atis, vtis, commute, openngo, openstreetmap, cidnetwork all renewed.<br>",2011-07-25 15:54:00.541196,2011-08-06 11:35:16.276489,3,t,f,2011-08-06 11:35:16.275042
+553,Maid salary for the month of August 2011,2011-09-06,2750.0,"",2011-09-06 05:34:10.681364,2011-09-08 04:30:41.075454,2,t,f,2011-09-08 04:30:41.074105
+554,Tea expenses for the month of August 2011,2011-09-06,1501.0,"",2011-09-06 05:34:47.814298,2011-09-08 04:30:47.994819,2,t,f,2011-09-08 04:30:47.993416
+552,Gardener salary for the month of August 2011,2011-09-05,1000.0,"",2011-09-06 05:33:49.175078,2011-09-08 04:30:48.002475,2,t,f,2011-09-08 04:30:48.001027
+563,Unfuddle 2011/09,2011-09-08,2368.0,"",2011-09-29 00:06:23.927104,2011-10-17 04:09:27.879723,6,t,f,2011-10-17 04:09:27.87843
+561,Hetzner 2011/08,2011-09-06,7818.0,​,2011-09-29 00:02:37.798902,2011-10-17 04:09:27.897955,6,t,f,2011-10-17 04:09:27.896575
+562,Amazon 2011/09,2011-09-04,3800.0,"",2011-09-29 00:05:47.234633,2011-10-17 04:09:27.905821,6,t,f,2011-10-17 04:09:27.904672
+574,Slicehost,2011-10-18,3575.0,"<span style=""font-family: Arial; background-color: rgb(255, 255, 255); "">3,574.76</span>",2011-10-28 05:41:58.097253,2011-11-01 16:39:30.204495,4,t,f,2011-11-01 16:39:30.202831
+194,Chennai ticket ALL,2009-11-16,8800.0,"​ticket cost is about 6200, and the rest is transport in the two cities<br>",2009-11-17 16:24:10.523957,2009-12-13 13:28:11.487585,3,t,f,2009-12-13 13:28:11.487585
+215,Amazon Nov-2009,2009-12-02,2611.0,"",2010-01-03 16:03:07.858881,2010-03-01 03:03:26.133876,6,t,f,2010-03-01 03:03:26.133876
+289,slicehost,2010-04-18,4172.0,paid via citibank&nbsp;,2010-06-22 11:26:22.021002,2010-10-28 04:46:17.651849,4,t,f,2010-10-28 04:46:17.650206
+385,j.p nagar gardener,2010-10-03,1000.0,"",2010-10-18 10:37:25.926328,2010-10-28 04:46:01.527086,4,t,f,2010-10-28 04:46:01.52589
+384,j.p nagar maid salary,2010-10-03,2500.0,"",2010-10-18 10:37:05.791458,2010-10-28 04:46:01.532707,4,t,f,2010-10-28 04:46:01.531273
+379,j.p nagar BSNL,2010-09-20,10035.0,"",2010-10-18 10:34:23.411131,2010-10-28 04:46:01.543834,4,t,f,2010-10-28 04:46:01.542381
+377,slicehost,2010-09-18,4302.0,"",2010-10-18 10:27:44.614197,2010-10-28 04:46:01.54915,4,t,f,2010-10-28 04:46:01.547751
+383,j.p nagar gardener salary,2010-09-03,1000.0,"",2010-10-18 10:36:22.820571,2010-10-28 04:46:01.554518,4,t,f,2010-10-28 04:46:01.553118
+382,j.p nagar maid salary,2010-09-03,2500.0,"",2010-10-18 10:35:58.223547,2010-10-28 04:46:01.559792,4,t,f,2010-10-28 04:46:01.5584
+376,slicehost,2010-08-18,4341.0,"",2010-10-18 10:26:12.650705,2010-10-28 04:46:01.57062,4,t,f,2010-10-28 04:46:01.569226
+378,j.p nagar BSNL,2010-08-18,10035.0,"",2010-10-18 10:33:25.775029,2010-10-28 04:46:01.575942,4,t,f,2010-10-28 04:46:01.574475
+381,j.p nagar gardener,2010-08-03,1000.0,"",2010-10-18 10:35:27.340982,2010-10-28 04:46:01.607381,4,t,f,2010-10-28 04:46:01.605923
+380,j.p nagar maid,2010-08-03,2500.0,"",2010-10-18 10:35:08.327981,2010-10-28 04:46:01.615128,4,t,f,2010-10-28 04:46:01.61392
+291,J.P Nagar office - Maid salary,2010-05-05,3500.0,paid in cash.<div>maid - 2.5k</div><div>gardener - 1k.</div>,2010-06-22 11:41:25.45003,2010-10-28 04:46:09.211741,4,t,f,2010-10-28 04:46:09.210482
+284,surekha raghavan party - liquour,2010-06-20,2600.0,​liquor bought from english wineyard store just before the 24th main intersection.,2010-06-22 08:43:52.102313,2010-10-28 04:46:09.159283,4,t,f,2010-10-28 04:46:09.15778
+293,slicehost,2010-06-18,4314.0,paid via citibank.,2010-06-22 11:52:22.147992,2010-10-28 04:46:09.165262,4,t,f,2010-10-28 04:46:09.163808
+281,BSNL J.P Nagar office,2010-06-17,10035.0,"Online through citibank.<div><meta http-equiv=""content-type"" content=""text/html; charset=utf-8""><span style=""font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: rgb(0, 63, 129); font-weight: bold; ""><b>Thank You For Paying Your BSNL-BANGALORE TELEPHONES Bill Of Rs 10035 Through CitiBank Online. Your Transaction Number For This Payment is 151231546195. Your Card Will Be Debited on 2010-06-17.</b></span></div>",2010-06-17 07:13:25.561267,2010-10-28 04:46:09.171313,4,t,f,2010-10-28 04:46:09.169831
+267,New Board - JP Nagar office,2010-04-23,4000.0,​A new board from writeniceindia.<div>Bill in the office. paid through citibank online.</div>,2010-04-23 06:20:06.685411,2010-10-28 04:46:09.216825,4,t,f,2010-10-28 04:46:09.215351
+265,Maid and Gardener salaries from april-2009 through april-2010,2010-04-05,44500.0,"<div>April'09 - April'10</div><div><br></div>Maid's salary is 2,500 per month.<div>Gardener's is 1000 per month.</div><div>Salaries paid in cash.</div><div><br></div><div>NOTE: The first 5 months, we paid the gardener Rs.800.</div><div><br></div><div>gardener = 8 * 1000 + 5 * 800 = 12,000</div><div>maid = 13 * 2500 = 32,500</div>",2010-04-19 10:36:27.756576,2010-10-28 04:46:17.656975,4,t,f,2010-10-28 04:46:17.655549
+307,j.p nagar utilities,2010-04-05,1664.0,"",2010-06-22 13:12:10.326554,2010-10-28 04:46:17.663573,4,t,f,2010-10-28 04:46:17.662
+394,maid salary  -  balance.,2010-11-04,1000.0,"Surekha paid Rs.1500. the remainder (1K) is owed to me, as I paid her the 10K loan.<div>​This is the last installment.</div>",2010-11-04 06:07:15.98613,2010-12-01 04:57:45.712779,4,t,f,2010-12-01 04:57:45.711623
+280,Utilities (Electricity and Water Bill) - J.P Nagar office,2010-06-16,1600.0,​utilities,2010-06-17 07:09:41.738861,2010-10-28 04:46:09.176785,4,t,f,2010-10-28 04:46:09.175325
+297,j.p nagar utilities,2009-07-05,2500.0,Couldn't find the bills for this month. Just using the average&nbsp;,2010-06-22 12:33:55.374462,2010-10-28 04:46:30.729019,4,t,f,2010-10-28 04:46:30.727414
+395,Printer cartridge Black,2010-11-04,415.0,receipt given to mamata.,2010-11-04 06:08:46.580291,2010-12-01 04:57:45.71803,4,t,f,2010-12-01 04:57:45.716853
+292,J.P Nagar maid & gardener salary,2010-06-05,3500.0,2500 - maid<div>1000 - gardner.</div><div><br></div><div>cash.</div>,2010-06-22 11:41:50.90389,2010-10-28 04:46:09.181724,4,t,f,2010-10-28 04:46:09.180475
+290,slicehost,2010-05-18,4327.0,paid via citibank,2010-06-22 11:28:07.260874,2010-10-28 04:46:09.186376,4,t,f,2010-10-28 04:46:09.18474
+272,BSNL J.P nagar office ,2010-05-12,10035.0,​paid online through citibank.,2010-05-12 03:29:44.467785,2010-10-28 04:46:09.19785,4,t,f,2010-10-28 04:46:09.196421
+308,j.p nagar utilities,2010-05-05,1243.0,"",2010-06-22 13:13:35.676037,2010-10-28 04:46:09.206194,4,t,f,2010-10-28 04:46:09.205045
+287,slicehost,2010-01-18,4278.0,"<font face=""'courier new'"">paid through citibank visa.</font>",2010-06-22 09:52:23.488684,2010-10-28 04:46:17.748317,4,t,f,2010-10-28 04:46:17.747037
+266,BSNL JP Nagar Office,2010-04-19,10035.0,"​paid through citibank online.<div><meta http-equiv=""content-type"" content=""text/html; charset=utf-8""><span style=""font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: rgb(0, 63, 129); font-weight: bold; ""><b>Your Transaction Number For This Payment is 185018893906.</b></span></div>",2010-04-19 10:51:10.604501,2010-10-28 04:46:17.646055,4,t,f,2010-10-28 04:46:17.644321
+285,Slicehost ,2010-03-18,4247.31,"",2010-06-22 09:17:58.929248,2010-10-28 04:46:17.669238,4,t,f,2010-10-28 04:46:17.667454
+306,j.p nagar utilities,2010-03-05,1500.0,bills not found. just using the recent monthly numbers.,2010-06-22 13:11:15.95918,2010-10-28 04:46:17.68746,4,t,f,2010-10-28 04:46:17.685902
+288,slicehost,2010-02-18,4335.0,paid via citibank visa.,2010-06-22 09:54:40.500272,2010-10-28 04:46:17.716584,4,t,f,2010-10-28 04:46:17.714834
+305,j. p nagar utilities,2010-02-05,1338.0,"",2010-06-22 13:08:00.201233,2010-10-28 04:46:17.732473,4,t,f,2010-10-28 04:46:17.73112
+304,j.p nagar utilities,2010-01-05,1694.0,"",2010-06-22 13:07:14.828948,2010-10-28 04:46:17.756286,4,t,f,2010-10-28 04:46:17.754856
+312,BSNL J.P Nagar office,2009-07-05,10050.0,The actual date of payment is unknown. I don't have a record of how I paid for this.,2010-07-13 07:51:12.388051,2010-10-28 04:46:30.74174,4,t,f,2010-10-28 04:46:30.740084
+296,j.p nagar utilities,2009-06-05,2440.0,"",2010-06-22 12:31:05.326961,2010-10-28 04:46:30.751782,4,t,f,2010-10-28 04:46:30.750166
+295,j.p nagar utilities,2009-05-05,3720.0,"",2010-06-22 12:29:38.520722,2010-10-28 04:46:30.765016,4,t,f,2010-10-28 04:46:30.76367
+294,J.P Nagar utilities (water & power),2009-04-04,2361.0,"",2010-06-22 12:28:15.085429,2010-10-28 04:46:30.775711,4,t,f,2010-10-28 04:46:30.774123
+286,slicehost,2009-02-18,3615.21,citibank credit card.,2010-06-22 09:27:29.450905,2010-10-28 04:46:30.783238,4,t,f,2010-10-28 04:46:30.781639
+302,j. p nagar utilities,2009-11-05,1098.0,"",2010-06-22 13:05:42.672252,2010-10-28 04:46:30.699239,4,t,f,2010-10-28 04:46:30.697653
+261,Unfuddle - Feb 2010,2010-04-08,2320.0,"",2010-04-01 17:03:37.051677,2010-04-07 02:09:48.480902,6,t,f,2010-04-07 02:09:48.480902
+260,Amazon - Feb 2010,2010-04-07,2668.0,"",2010-04-01 17:03:08.17357,2010-04-07 02:09:48.505776,6,t,f,2010-04-07 02:09:48.505776
+301,j.p nagar utilities,2009-10-05,2482.0,"",2010-06-22 13:03:46.763775,2010-10-28 04:46:30.704583,4,t,f,2010-10-28 04:46:30.703077
+313,BSNL J.P Nagar Office,2009-10-05,10050.0,Actual date of payment is unknown. I don't have a record of how this was paid.,2010-07-13 07:52:01.492614,2010-10-28 04:46:30.710208,4,t,f,2010-10-28 04:46:30.708678
+300,j.p nagar utilities,2009-09-05,910.0,"",2010-06-22 13:02:29.881364,2010-10-28 04:46:30.715822,4,t,f,2010-10-28 04:46:30.7143
+299,j.p nagar utilities,2009-08-05,1465.0,"",2010-06-22 13:01:14.041264,2010-10-28 04:46:30.722383,4,t,f,2010-10-28 04:46:30.720826
+405,Tea @ JPNR office for the month of Nov 2010,2010-12-06,1947.0,"",2010-12-07 03:57:50.438424,2011-01-26 06:12:55.033491,2,t,f,2011-01-26 06:12:55.031879
+425,Del trip Indo-German council,2010-12-07,23000.0,"​21,300 in upgrade costs of ticket, the rest in travel (taxi)<br>",2011-01-04 12:46:30.349531,2011-01-26 06:10:49.309197,3,t,f,2011-01-26 06:10:49.307804
+406,Maid salary for Nov 2010,2010-12-06,2500.0,"",2010-12-07 03:58:09.695776,2011-01-26 06:12:55.039171,2,t,f,2011-01-26 06:12:55.037821
+407,Gardener salary for Month of Nov 2010,2010-12-06,1000.0,"",2010-12-07 03:58:32.693376,2011-01-26 06:12:55.044109,2,t,f,2011-01-26 06:12:55.042797
+404,Office maintenance items for JPNR office,2010-12-02,948.0,"​Bulb, Handwash, Toilet rolls, Domex etc.<br>",2010-12-07 03:57:14.142512,2011-01-26 06:12:55.049089,2,t,f,2011-01-26 06:12:55.047644
+438,USB Mouse,2011-01-20,450.0,​usb mouse.<br>,2011-01-25 06:40:24.317444,2011-01-26 06:18:12.519689,8,t,f,2011-01-26 06:18:12.518351
+449,Office maintenance items for JPNR office,2011-02-05,600.0,"​Toilet cleaner, Floor cleaner etc.<br>",2011-02-08 05:22:52.912935,2011-03-06 12:26:24.103062,2,t,f,2011-03-06 12:26:24.101947
+469,Gardener Salary for Feb 2011,2011-03-07,1000.0,"",2011-03-08 07:50:50.312561,2011-04-29 07:21:05.795178,2,t,f,2011-04-29 07:21:05.793788
+533,Amazon 2011/06,2011-07-03,3556.0,"",2011-07-29 03:57:51.963547,2011-08-06 11:27:29.826247,6,t,f,2011-08-06 11:27:29.824807
+362,Advance for Mapunity board for JPNR office,2010-09-21,1000.0,"",2010-09-22 04:55:56.635934,2010-10-25 14:40:41.87647,2,t,f,2010-10-25 14:40:41.875272
+357,Bescom bill for JPNR office for Aug 2010,2010-09-14,650.0,"",2010-09-15 06:00:14.476902,2010-10-25 14:40:41.895007,2,t,f,2010-10-25 14:40:41.893609
+358,BWSSB bill for JPNR office for Aug 2010,2010-09-14,471.0,"",2010-09-15 06:00:59.757612,2010-10-25 14:40:41.904228,2,t,f,2010-10-25 14:40:41.902864
+360,Electrical work - JPNR office,2010-09-09,150.0,"",2010-09-15 06:02:26.850268,2010-10-25 14:40:41.912882,2,t,f,2010-10-25 14:40:41.911281
+359,Tea - JPNR office for  Aug 2010,2010-09-06,1771.0,"",2010-09-15 06:01:43.522827,2010-10-25 14:40:41.928002,2,t,f,2010-10-25 14:40:41.926602
+356,Airtel Bill for IIIT office for Aug 2010,2010-09-06,4631.0,"",2010-09-15 05:58:47.244364,2010-10-25 14:40:41.937567,2,t,f,2010-10-25 14:40:41.936166
+341,Airtel bill for IIIT office for the month of July 2010,2010-08-10,4411.0,"",2010-08-11 12:55:29.835038,2010-10-25 14:40:41.945748,2,t,f,2010-10-25 14:40:41.944307
+339,Tea @ JPNR office for the month of July 2010,2010-08-04,1644.0,"",2010-08-11 12:53:25.919159,2010-10-25 14:40:41.961428,2,t,f,2010-10-25 14:40:41.960011
+338,Electricity Bill for JPNR office,2010-07-31,705.0,"",2010-08-11 12:52:06.460862,2010-10-25 14:40:41.97281,2,t,f,2010-10-25 14:40:41.970916
+340,Misc items for JPNR office,2010-07-23,506.0,"",2010-08-11 12:54:40.104689,2010-10-25 14:40:41.979019,2,t,f,2010-10-25 14:40:41.977511
+353,External HardDisk,2010-08-18,3999.0,​External Hard disk bought for the purpose of copying Street Atlas data to mapunity archive.,2010-08-27 07:52:18.833647,2010-10-25 14:41:26.993272,6,t,f,2010-10-25 14:41:26.991918
+343,Unfuddle Payment - 07-2010,2010-08-08,2343.0,"",2010-08-16 23:48:52.234949,2010-10-25 14:41:26.998153,6,t,f,2010-10-25 14:41:26.996561
+345,Amazon Payment - 07-2010,2010-08-04,4363.0,"",2010-08-16 23:50:18.581652,2010-10-25 14:41:27.005359,6,t,f,2010-10-25 14:41:27.003883
+344,Hetzner Payment - 07-2010,2010-08-04,7366.0,"",2010-08-16 23:49:49.571422,2010-10-25 14:41:27.011963,6,t,f,2010-10-25 14:41:27.010264
+348,Water tank cleaning,2010-08-16,450.0,"",2010-08-18 10:54:09.356044,2010-10-25 14:47:29.848689,5,t,f,2010-10-25 14:47:29.846824
+361,"renewal of vaccidate.in/.com, dtis.in and mapservices.in",2010-09-21,2761.71,​,2010-09-21 08:21:33.209737,2010-10-25 14:43:44.384008,7,t,f,2010-10-25 14:43:44.382294
+342,Door locks changed,2010-08-12,1350.0,​Locks:&nbsp;&nbsp; 500 x 2 = 1000<br>Labour: 350<br>Total: 1350<br><br>And I dont have bill.<br>,2010-08-12 09:12:18.718927,2010-10-25 14:44:20.892998,12,t,f,2010-10-25 14:44:20.891493
+364,printo poster,2010-09-15,1874.0,​This was towards the large format prints taken for the IIIT office<br>,2010-09-27 07:09:46.53888,2010-10-25 14:45:39.181983,21,t,f,2010-10-25 14:45:39.180282
+349,Electricity and water bill,2010-08-17,827.0,"",2010-08-18 10:54:33.50028,2010-10-25 14:47:20.150685,5,t,f,2010-10-25 14:47:20.148143
+347,Pots & manure for plants,2010-08-11,1000.0,"",2010-08-18 10:51:12.430948,2010-10-25 14:47:29.856423,5,t,f,2010-10-25 14:47:29.854764
+396,Renewal of netcitizen.in,2010-11-15,720.0,​Renewed netcitizen.in for an year.&nbsp;,2010-11-15 03:16:50.190158,2010-12-01 04:56:03.882864,7,t,f,2010-12-01 04:56:03.881663
+350,Office accessories,2010-08-17,600.0,"​Toilet accessories, etc.<br>",2010-08-18 10:55:36.798048,2010-10-25 14:47:29.840285,5,t,f,2010-10-25 14:47:29.838289
+346,Plants for office,2010-08-10,1500.0,"",2010-08-18 10:50:35.390667,2010-10-25 14:47:29.862453,5,t,f,2010-10-25 14:47:29.861142
+386,IIITB Airtel bill for 17/Aug/2010 to 16/Sep/2010,2010-10-08,4411.0,​I paid the bill online.<br>,2010-10-22 10:03:06.35044,2010-10-25 14:48:00.869173,13,t,f,2010-10-25 14:48:00.867917
+355,Lunch with Ashok Leyland team,2010-05-11,435.0,"​Jayaram, Somaraju and Ravi from Ashok Leyland had visited Mapunity at the IIIT office.&nbsp; We had gone for lunch at Pallavi Grand.<br>",2010-09-02 06:39:44.771551,2010-10-25 14:48:00.87432,13,t,f,2010-10-25 14:48:00.873137
+351,ilibrary dot in regn,2010-08-25,950.0,ilib regn​,2010-08-25 16:54:52.749871,2010-10-25 14:49:02.418784,3,t,f,2010-10-25 14:49:02.416872
+352,pen drives,2010-08-23,900.0,2 4gb pen drives from ezone<br>,2010-08-25 16:55:26.536503,2010-10-25 14:49:02.426898,3,t,f,2010-10-25 14:49:02.425451
+363,Philips water purifier - filter change.,2010-09-22,680.0,​Inet Services came and changed the filter.<div>Bill available with us.</div>,2010-09-22 06:58:57.055154,2010-10-28 04:46:01.538024,4,t,f,2010-10-28 04:46:01.536631
+354,Domain transfer for NWMI,2010-08-31,450.0,​nwmindia.org has been moved to Answerable since that is what we use for many of the mapunity domains.<div>The domain is now renewed for 1 year.</div>,2010-09-01 07:18:58.616641,2010-10-28 04:46:01.565149,4,t,f,2010-10-28 04:46:01.563684
+408,BSNL J.P Nagar,2010-11-29,10050.0,​Paid with cash in Bangalore One. Bill given to Mamta.,2010-12-09 07:26:52.252984,2011-01-26 06:07:00.485742,4,t,f,2011-01-26 06:07:00.484556
+439,Hyd trip to see Anand and Gulzar,2011-01-17,2500.0,"​plane tix by ISB, this is only taxi and food portion<br>",2011-01-26 06:05:16.596412,2011-01-26 06:10:49.26942,3,t,f,2011-01-26 06:10:49.268173
+427,Airtel IIIT Bill - 17/Nov/2010 - 17/Dec/2010 ,2011-01-05,4411.0,Paid it online.<br>,2011-01-05 06:31:43.559682,2011-01-26 06:16:04.599223,13,t,f,2011-01-26 06:16:04.597906
+7,Advanced Rails book,2008-04-04,337.5,,2008-05-30 10:55:35.209535,2008-06-02 09:51:25.206918,2,t,f,2008-06-02 09:51:25.206918
+6,XLHOST & Unfuddle Payments,2008-05-26,46213.0,,2008-05-26 14:57:52.809031,2008-06-02 09:51:25.322153,6,t,f,2008-06-02 09:51:25.322153
+5,iphone cost,2008-05-14,8000.0,,2008-05-14 15:09:04.163163,2008-06-02 09:51:25.326453,5,t,f,2008-06-02 09:51:25.326453
+4,Laptop charger for Nicholas,2008-05-12,2500.0,,2008-05-13 12:39:31.44555,2008-06-02 09:51:25.331243,7,t,f,2008-06-02 09:51:25.331243
+3,Mobile phone for Nicholas,2008-05-12,3723.0,,2008-05-13 12:38:57.56414,2008-06-02 09:51:25.335555,7,t,f,2008-06-02 09:51:25.335555
+2,Book purchase from Sapna Book House,2008-05-08,2767.0,,2008-05-09 10:30:24.959115,2008-06-02 09:51:25.339865,7,t,f,2008-06-02 09:51:25.339865
+1,Travel Expenditure - VTCS presentation to the review committee at IIT Chennai,2008-05-07,1127.0,,2008-05-08 14:13:32.290632,2008-06-02 09:51:25.344171,7,t,f,2008-06-02 09:51:25.344171
+13,Sony Ericsson phone,2008-07-31,7400.0,The actual cost of the phone is 14800 but the company is providing only half the cost as reimbursement.,2008-08-01 12:05:40.521039,2008-08-01 12:09:56.126512,3,t,f,2008-08-01 12:09:56.126512
+12,Slicehost Hosting ,2008-07-18,850.0,,2008-07-21 11:02:45.326716,2008-08-01 12:09:56.138139,4,t,f,2008-08-01 12:09:56.138139
+11,Pdf on GIT,2008-06-30,387.0,,2008-07-01 12:56:04.750589,2008-08-01 12:09:56.141658,6,t,f,2008-08-01 12:09:56.141658
+10,Unfuddle June Subscription,2008-07-09,1069.0,,2008-07-01 12:54:17.610264,2008-08-01 12:09:56.145153,6,t,f,2008-08-01 12:09:56.145153
+9,PDF & Screen casts from Pragmatic Programmers,2008-06-12,2141.38,,2008-07-01 12:52:47.530493,2008-08-01 12:09:56.148562,6,t,f,2008-08-01 12:09:56.148562
+8,Gigabit network Interface Card for Dell Server at TMC,2008-06-16,2600.0,,2008-06-16 15:07:22.529133,2008-08-01 12:09:56.151975,7,t,f,2008-08-01 12:09:56.151975
+19,Hard Disk,2008-08-28,4108.0,"purchased 160 gb sata hard disk from 
+Interoof.",2008-08-29 16:10:30.326599,2008-11-04 12:59:55.187437,8,t,f,2008-11-04 12:59:55.187437
+274,Hetzner - 04/2010,2010-05-05,6983.44,​Hetzner Payment for April 2010,2010-05-27 09:27:51.795243,2010-07-22 04:42:41.183235,6,t,f,2010-07-22 04:42:41.183235
+323,Electricity Bill,2010-07-19,650.0,"",2010-07-21 05:39:40.602139,2010-07-22 04:47:15.54728,5,t,f,2010-07-22 04:47:15.54728
+426,Airtel IIIT Bill - 17/Oct/2010 - 17/Nov/2010,2010-12-06,4411.0,​Paid it online.<br>,2011-01-05 06:31:09.926079,2011-01-26 06:16:04.606528,13,t,f,2011-01-26 06:16:04.605208
+428,Airtel IIIT Bill - 17/Sep/2010 to 16/Oct/2010 ,2010-11-01,4411.0,Paid it online.<br>,2011-01-05 06:32:41.986615,2011-01-26 06:16:04.612294,13,t,f,2011-01-26 06:16:04.610891
+463,Maid Salary for the Month of Feb 2011,2011-03-04,2750.0,"",2011-03-04 06:33:24.146573,2011-03-06 12:26:24.07045,2,t,f,2011-03-06 12:26:24.069162
+470,BSNL J.P Nagar,2011-03-14,10034.0,​paid online.,2011-03-14 07:28:26.113383,2011-04-29 07:19:02.195004,4,t,f,2011-04-29 07:19:02.193762
+22,Domain registration/renewal expenses,2008-08-31,13031.0,"new domains:(16.99$each)
+karnataelections.in
+indianelections.in
+openngo.in
+openstreetmap.in
+latlon.in
+jtis.in
+ptis.in
+ktis.in
+livetraffic.in
+livetrafficcam.in
+mumbaitraffic.in
+total = 186.89$ (11 * 16.99)
+
+Old domains renewal:(16.99$ each)
+
+btis.in
+htis.in
+dtis.in
+chennaitraffic.in
+mapservices.in
+mapsearch.in
+retailgis.in
+commute.in
+total = 135.92$ (8 * 16.99)
+
+Managed DNS for: (0.99$ each)
+mapunity.org
+mapunity.in
+energyhub.in
+total = 2.97$ (3 * 0.99)
+
+
+Overall total: 325.78 (186.89 + 135.92 + 2.97)
+
+total in rupees: 325.78 * 40 = 13,031.2",2008-08-31 23:05:54.155504,2008-11-04 13:00:49.63968,7,t,f,2008-11-04 13:00:49.63968
+21,Lenovo laptop ,2008-08-05,32400.0,Bought a lenovo laptop for Surekha.,2008-08-31 22:32:04.244414,2008-11-04 13:00:49.652838,7,t,f,2008-11-04 13:00:49.652838
+44,Purchase of safebangalore domain,2008-12-15,898.0,Bought safebangalore.in and safebangalore.com,2008-12-15 09:32:41.74809,2009-02-12 15:45:23.887973,7,t,f,2009-02-12 15:45:23.887973
+17,Unfuddle Payments for July & Aug ,2008-08-11,2102.0,"Invoices pasted
+
+Unfuddle Invoice
+
+Alagesa Pandian
+Mapunity
+NSRCEL, Indian Institute of Management(Bangalore), Banner ghatta road
+Bangalore, Tamilnadu 560076
+India
+
+Your credit card ending in 7006 has been charged $24.00 for the Mapunity Unfuddle Compact Plan (1 Month) for the period of August 2008.
+
+To access your account or change your billing information, please visit http://mapunity.unfuddle.com.
+
+If you have been charged incorrectly or have any questions, please let us know at support@unfuddle.com.
+
+Thank you for using Unfuddle.
+
+The Unfuddle Team
+
+Reference Number: 8865014
+
+Unfuddle Invoice
+
+Alagesa Pandian
+Mapunity
+NSRCEL, Indian Institute of Management(Bangalore), Banner ghatta road
+Bangalore, Tamilnadu 560076
+India
+
+Your credit card ending in 7006 has been charged $24.00 for the Mapunity Unfuddle Compact Plan (1 Month) for the period of July 2008.
+
+To access your account or change your billing information, please visit http://mapunity.unfuddle.com.
+
+If you have been charged incorrectly or have any questions, please let us know at support@unfuddle.com.
+
+Thank you for using Unfuddle.
+
+The Unfuddle Team
+
+Reference Number: a353187",2008-08-29 15:43:51.101778,2008-11-04 12:58:21.400344,6,t,f,2008-11-04 12:58:21.400344
+18,xlhost payment for machine -2,2008-08-07,5369.0,Payment for setting up the new server for latlon,2008-08-29 15:45:36.251261,2008-11-04 12:58:21.435486,6,t,f,2008-11-04 12:58:21.435486
+16,Pragmatic Bookstore - Ruby screen casts,2008-08-04,873.0,"each $5.00
+1. The Ruby Object Model and Metaprogramming Episode 4: instance_eval and class_eval 
+
+2. The Ruby Object Model and Metaprogramming Episode 5: Nine Examples (Screencast) (V-DTRUBYOM-V-05) 
+
+3.The Ruby Object Model and Metaprogramming Episode 6: Some Hook Methods (Screencast) (V-DTRUBYOM-V-06) 
+
+4. The Ruby Object Model and Metaprogramming Episode 7: More Hook Methods (Screencast) (V-DTRUBYOM-V-07) ",2008-08-29 15:39:48.958765,2008-11-04 12:58:21.448319,6,t,f,2008-11-04 12:58:21.448319
+15,Slicehost Hosting ,2008-08-18,850.0,"",2008-08-18 22:34:23.760181,2008-11-04 12:59:29.472326,4,t,f,2008-11-04 12:59:29.472326
+20,Visit to IIT Chennai for VTCS review meeting,2008-07-07,1100.0,"Had been to Chennai to attend the VTCS review meeting.
+
+Train fare Rs. 350 x 2
+Local travel Rs. 400",2008-08-31 22:24:47.038807,2008-11-04 13:01:01.904055,7,t,f,2008-11-04 13:01:01.904055
+23,Taxi to Cisco (Cessna Business Park),2008-08-28,460.0,Meeting at Cisco. Taxi to and from Cessna Business Park with Pradeep. ,2008-09-08 16:18:01.211167,2008-11-04 13:02:10.08823,10,t,f,2008-11-04 13:02:10.08823
+25,Taxi to Cisco (Cessna Business Park),2008-09-12,500.0,Taxi (for Pradeep/Chetan) to and from Cisco for meeting with Poorna and team.,2008-09-26 13:03:02.794263,2008-11-04 13:02:27.272073,10,t,f,2008-11-04 13:02:27.272073
+31,Domains indiabrt.org and indiabrt.com,2008-09-30,824.16,bought indiabrt.org and indiabrt.com,2008-09-30 15:37:03.350001,2008-11-04 13:05:04.215029,7,t,f,2008-11-04 13:05:04.215029
+26,Travel to Chennai and back for LBIT meeting,2008-09-25,1100.0,Train fare + local travel,2008-09-29 21:46:01.870262,2008-11-04 13:05:04.232761,7,t,f,2008-11-04 13:05:04.232761
+27,Vaccidate domain name purchase,2008-09-21,1158.65,"purchase of domain names and DNS services for
+
+vaccidate.in
+vacidate.com",2008-09-29 21:47:35.268475,2008-11-04 13:05:04.236481,7,t,f,2008-11-04 13:05:04.236481
+28,Purchase of rechargable batteries for use in GPS,2008-09-20,875.0,Bought 4 regarchable batteries and charger for use in the GPS units as regular dry cells last only for 10hrs. ,2008-09-29 21:49:20.953503,2008-11-04 13:05:04.267506,7,t,f,2008-11-04 13:05:04.267506
+33,xlhost payment for November & December,2008-10-23,36986.85,"Payment Details
+
+Amount: $726.00 USD
+
+Transaction ID: 9P3272040A698780R
+
+Subject: payment for server - Serial: 33170 and Serial: 34953
+
+Message:
+Payment for November and December",2008-10-23 11:39:36.135299,2008-11-04 13:07:52.864278,6,t,f,2008-11-04 13:07:52.864278
+32,xlhost payment for october,2008-09-23,17038.25,"Payment Details
+
+Amount: $363.00 USD
+
+Transaction ID: 3CU40780YW823860R
+
+Subject: payment for server - Serial: 33170 and Serial: 34953
+",2008-10-23 11:38:18.636645,2008-11-04 13:07:52.872892,6,t,f,2008-11-04 13:07:52.872892
+30,Laptop Repair,2008-09-29,562.0,There was some loose contact in the wires connecting to the screen. ,2008-09-30 09:50:05.878382,2008-11-04 13:08:47.182324,2,t,f,2008-11-04 13:08:47.182324
+29,Travel to Chennai and back for LBIT meeting,2008-09-26,1100.0,Bangalore - Chennai - Bangalore Bus charges + Local Transport.,2008-09-30 09:40:56.612459,2008-11-04 13:08:47.202848,2,t,f,2008-11-04 13:08:47.202848
+34,Slicehost hosting,2008-10-18,1000.0,"",2008-10-23 19:57:57.596401,2008-11-04 13:09:15.894922,4,t,f,2008-11-04 13:09:15.894922
+24,Slicehost Hosting ,2008-09-18,965.0,"",2008-09-15 12:10:56.687916,2008-11-04 13:09:15.905275,4,t,f,2008-11-04 13:09:15.905275
+36,Printer catridge,2008-11-04,988.0,Purchased black ink cartridge for the HP printer in the office.,2008-11-11 20:31:44.278951,2009-02-12 15:27:55.634545,2,t,f,2009-02-12 15:27:55.634545
+37,e books,2008-10-27,3900.0,"Bought the following books online from Manning since they were giving a 37% discount (anniversary sale).
+1) unlocking android
+2) collective intelligence in action
+3) algorithms of the intelligent web
+4) Flexible Rails
+5) Lucene in Action",2008-11-17 14:29:14.856842,2009-02-12 15:27:55.785383,4,t,f,2009-02-12 15:27:55.785383
+38,Taxi to Cisco (Cessna Business Park),2008-11-11,500.0,"Taxi (for Pradeep, me) to and from Cisco for meeting with the Wireless team.  ",2008-11-17 16:00:34.181309,2009-02-12 15:47:32.063874,10,t,f,2009-02-12 15:47:32.063874
+70,Phone Bill - at IIIT,2009-03-11,14450.0,"",2009-03-11 11:34:07.888261,2009-04-15 12:24:28.039241,6,t,f,2009-04-15 12:24:28.039241
+40,rails 2.2 pdf,2008-11-24,450.0,"A PDF produced by railsenvy.com to explain all the new features in rails2.2
+cost:$9.",2008-11-24 10:30:46.901922,2009-02-12 15:36:57.139583,4,t,f,2009-02-12 15:36:57.139583
+41,slicehost hosting,2008-11-18,3500.0,"We've upgraded our slice to 1GB ram etc.
+cost: $70 per month.",2008-11-24 11:04:13.360044,2009-02-12 15:36:57.157878,4,t,f,2009-02-12 15:36:57.157878
+57,Pragmatic programmer - screen casts,2009-01-27,752.0,"",2009-01-30 11:09:54.041163,2009-02-12 15:42:17.443702,6,t,f,2009-02-12 15:42:17.443702
+67,Unfuddle subscriptions,2009-02-09,4940.0,Subscriptions for month of January and february,2009-02-23 12:41:23.090079,2009-03-09 21:14:08.203539,6,t,f,2009-03-09 21:14:08.203539
+49,Unfuddle - subscription,2008-12-09,2519.0,"",2008-12-30 11:11:46.139479,2009-02-12 15:42:17.482852,6,t,f,2009-02-12 15:42:17.482852
+48,PDF Books from Pragmatic programmers,2008-11-28,3245.0,"The following pdfs were purachased.
+1. pragmatic git version control
+2. Release it
+3. Practices of an agile developer",2008-12-25 09:15:26.059078,2009-02-12 15:42:17.498845,6,t,f,2009-02-12 15:42:17.498845
+53,purchase of mysore domains,2009-01-12,2622.0,"bought
+
+mysoretransport.in
+mysoretraffic.in
+mtis.in",2009-01-12 14:11:58.284286,2009-02-12 15:45:23.809371,7,t,f,2009-02-12 15:45:23.809371
+77,HP Laptop repair,2009-03-24,3130.0,"",2009-04-10 11:23:14.50798,2009-04-15 12:26:17.26866,4,t,f,2009-04-15 12:26:17.26866
+50,Purchace of abide domains,2009-01-07,3710.0,"bought
+
+abidebengaluru.in/.com
+abidebangalore.in/com
+safebengaluru.in",2009-01-07 18:27:48.812836,2009-02-12 15:45:23.87881,7,t,f,2009-02-12 15:45:23.87881
+68,Phone Bill Payment-Feb 2009,2009-02-09,5780.0,"",2009-02-24 16:32:35.368824,2009-03-09 21:15:06.024566,6,t,f,2009-03-09 21:15:06.024566
+35,Purchase of ASUS EEE 1000H netbook,2008-11-08,25900.0,"Bought an ASUS EEE PC (netbook) from Computer Shop on Brigade Road.
+
+Chose this over MS WIND as this has better battery life and better processor. It about 2K costilier than MSI wind but the features are better. ",2008-11-10 11:32:15.573985,2009-02-12 15:27:55.599834,7,t,f,2009-02-12 15:27:55.599834
+56,Templates for electionswatch project,2009-01-22,2754.33,$53.98 - ,2009-01-27 13:00:50.835233,2009-02-12 15:36:56.991387,4,t,f,2009-02-12 15:36:56.991387
+52,Fusemail (Email),2009-01-22,1521.34,"",2009-01-11 08:59:29.615386,2009-02-12 15:36:57.011399,4,t,f,2009-02-12 15:36:57.011399
+51,Slicehost Hosting ,2009-01-18,3413.06,$70,2009-01-11 08:57:14.897434,2009-02-12 15:36:57.030358,4,t,f,2009-02-12 15:36:57.030358
+54,ABIDE domains ,2009-01-15,6078.71,Booked this on behalf of pradeep using my credit card,2009-01-27 12:51:54.407249,2009-02-12 15:36:57.050462,4,t,f,2009-02-12 15:36:57.050462
+47,book - rails pocket reference,2008-12-19,135.0,rails pocket reference - oreilly.,2008-12-23 16:46:02.121778,2009-02-12 15:36:57.066144,4,t,f,2009-02-12 15:36:57.066144
+45,Slicehost Hosting ,2008-12-18,3500.0,$70,2008-12-23 16:42:36.731313,2009-02-12 15:36:57.081553,4,t,f,2009-02-12 15:36:57.081553
+46,Books,2008-12-07,799.2,"3 books
+========
+Javascript - the good parts
+ruby programming language 
+jquery in action",2008-12-23 16:45:07.516588,2009-02-12 15:36:57.118709,4,t,f,2009-02-12 15:36:57.118709
+43,Wireless router fro IIIT-B office,2008-12-10,7548.0,Brought a linksys wireless N router from reliance mart.,2008-12-10 11:08:45.878924,2009-02-12 15:45:23.907958,7,t,f,2009-02-12 15:45:23.907958
+39,Purchase of domain names,2008-11-23,3328.0,"Purchase of indoretransport.in metrojet.in donateme.in netcitizen.in
+",2008-11-23 10:27:07.430746,2009-02-12 15:45:23.975663,7,t,f,2009-02-12 15:45:23.975663
+42,Unfuddle Payment sepetember-november,2008-11-09,3498.0,"Sepetmber : 1117.30
+October   : 1192.80
+Noveber   : 1188.00
+
+",2008-11-27 11:46:58.836445,2009-02-12 15:47:12.39691,6,t,f,2009-02-12 15:47:12.39691
+65,Dinner bill @ OSM meeting,2009-02-16,905.0,Dinner for the OSM India meetup participants.,2009-02-23 12:22:51.621771,2009-03-09 21:17:01.059933,7,t,f,2009-03-09 21:17:01.059933
+62,fusemail hosting,2009-02-08,1515.52,"",2009-02-16 09:41:13.850575,2009-03-09 21:18:44.918448,4,t,f,2009-03-09 21:18:44.918448
+58,Domain name and Managed DNS renewal,2009-02-07,5155.0,"btis.in
+mumbaitraffic.in
+ktis.in
+ptis.in
+livetraffic.in
+livetrafficcam.in
+mapunity.in
+thirdslip.in",2009-02-07 10:14:46.067509,2009-03-07 09:41:02.003543,7,t,f,2009-03-07 09:41:02.003543
+66,xlhost March Payment,2009-02-23,18705.07,"Currency conversion: Rs.18,705.07 INR = $363.00 USD
+
+The exchange rate for this purchase is 1 INR = 0.0194065USD
+
+Payment details
+Amount: $363.00 USD
+Transaction Date: 22-Feb-2009
+Transaction ID: 5CC84872PT342792J
+
+Subject: Payment for dedicated servers 207.182.146.90 and 209.190.27.26
+",2009-02-23 12:31:16.595272,2009-03-07 09:44:12.711622,6,t,f,2009-03-07 09:44:12.711622
+59,xlhost jan payment,2009-02-13,18240.0,"24/12/2008 
+Transaction id :24013088361090310251305 PAYPAL *ENET INC Rs.18,240.20",2009-02-13 15:13:55.981575,2009-03-09 21:13:14.561467,6,t,f,2009-03-09 21:13:14.561467
+63,coinscloud.com and .net domains,2009-02-07,923.38,"",2009-02-16 09:46:29.9449,2009-03-09 21:19:19.316789,4,t,f,2009-03-09 21:19:19.316789
+60,laptop (for aslam),2009-02-02,31200.0,laptop given to aslam,2009-02-16 09:34:53.948694,2009-03-09 21:20:10.139414,4,t,f,2009-03-09 21:20:10.139414
+64,National Election Watch - trip to mumbai,2009-01-27,7050.0,ADR conference. National Election Watch project.,2009-02-16 09:49:13.533509,2009-03-09 21:20:45.406105,4,t,f,2009-03-09 21:20:45.406105
+76,slicehost,2009-03-18,3667.98,Added another slice for Coins this month.,2009-04-10 11:22:28.032917,2009-04-15 12:26:17.281127,4,t,f,2009-04-15 12:26:17.281127
+75,Fusemail ,2009-03-08,1615.62,"",2009-04-10 11:21:20.110526,2009-04-15 12:26:17.293563,4,t,f,2009-04-15 12:26:17.293563
+71,Purchase of books,2009-03-27,2060.0,"Bought the following books;
+Head first rails
+Rails recipes
+Rails advanced recipes
+Rails deployment
+Algorithms
+Rails pocket reference",2009-03-28 10:03:55.184525,2009-04-15 12:27:22.853075,7,t,f,2009-04-15 12:27:22.853075
+72,XLHost April Payment,2009-03-26,18973.45,"Currency conversion: Rs.18,973.45 INR = $363.00 USD
+
+The exchange rate for this purchase is 1 INR = 0.0191319USD
+
+Payment details
+Amount: $363.00 USD
+Transaction Date: 26-Mar-2009
+Transaction ID: 7TR46005NU1466744
+
+Subject: payments for servers 207.182.146.90 and 209.190.27.26
+
+Message:
+payments for dedicated 207.182.146.90 and 209.190.27.26 against the April Invoice",2009-03-31 20:55:00.761223,2009-04-15 12:24:27.832385,6,t,f,2009-04-15 12:24:27.832385
+73,Unfuddle march subscription,2009-03-08,2640.62,Transaction ID: 24323009068124087010276,2009-03-31 20:56:45.037701,2009-04-15 12:24:28.060114,6,t,f,2009-04-15 12:24:28.060114
+85,Domain citystrengths.in,2009-04-17,273.62,bought citystrengths.in,2009-04-24 11:12:43.019117,2009-08-28 09:21:03.178257,7,t,f,2009-08-28 09:21:03.178257
+89,XLHOST-1 Payment,2009-04-30,12392.6,Paypal Transaction ID: 87A64459LP095133F,2009-04-30 12:54:45.272671,2009-08-28 09:21:03.18431,6,t,f,2009-08-28 09:21:03.18431
+92,Amazon for April,2009-05-03,5857.17,"",2009-05-07 15:53:40.021024,2009-08-28 09:21:03.236865,6,t,f,2009-08-28 09:21:03.236865
+93,xlhost - IP migration,2009-05-01,3836.57,"",2009-05-07 15:54:47.9102,2009-08-28 09:21:03.261948,6,t,f,2009-08-28 09:21:03.261948
+90,Paid for BSNL broadband registration,2009-04-30,500.0,Paid for bsnl broadband registration. Applied for 1Mbps plan.,2009-04-30 23:11:36.268191,2009-08-28 09:21:03.279572,11,t,f,2009-08-28 09:21:03.279572
+94,PRINTER - HP F735,2009-05-12,7280.0,hp printer ,2009-05-15 17:30:30.340732,2009-09-30 04:50:25.892537,4,t,f,2009-09-30 04:50:25.892537
+91,Philips Water Purifier,2009-03-20,6400.0,Bought at the Next Retail store close to 24th main and BTM ring road intersection.,2009-05-02 15:22:23.990542,2009-09-30 04:50:25.913812,4,t,f,2009-09-30 04:50:25.913812
+87,Unfuddle March Payment,2009-04-04,2548.0,ICICI Credit Card RefNo : 24323009099124118010397,2009-04-27 15:45:51.596028,2009-09-30 04:51:03.928552,6,t,f,2009-09-30 04:51:03.928552
+86,Amazon Payment,2009-04-02,2094.34,24692169092000816045103 Ref number,2009-04-27 15:44:16.781791,2009-09-30 04:51:03.936772,6,t,f,2009-09-30 04:51:03.936772
+84,Slicehost,2009-04-18,4657.17,Includes new instance for Coins.$20 per month.,2009-04-23 18:44:24.633048,2009-09-30 04:51:03.947556,4,t,f,2009-09-30 04:51:03.947556
+83,Fusemail ,2009-04-08,1566.73,"",2009-04-23 18:42:39.811474,2009-09-30 04:51:03.959028,4,t,f,2009-09-30 04:51:03.959028
+82,Book: Ext JS in Action ,2009-04-06,610.25,ebook.,2009-04-23 18:41:46.358255,2009-09-30 04:51:03.967741,4,t,f,2009-09-30 04:51:03.967741
+81,Featherlite Chairs for new office,2009-04-04,20000.0,5 chairs at 4K each.,2009-04-23 18:40:54.749673,2009-09-30 04:51:03.981902,4,t,f,2009-09-30 04:51:03.981902
+80,slicehost,2009-03-29,685.69,"",2009-04-23 18:40:15.491991,2009-09-30 04:51:03.990049,4,t,f,2009-09-30 04:51:03.990049
+79,Tables for new office,2009-03-25,11000.0,"",2009-04-16 18:18:08.126408,2009-09-30 04:51:03.999378,4,t,f,2009-09-30 04:51:03.999378
+78,Bought domain ctis.in,2009-04-14,272.99,bought domain ctis.in for $5.49,2009-04-14 11:17:40.96272,2009-09-30 04:51:22.940408,7,t,f,2009-09-30 04:51:22.940408
+69,Trip to Indore ICTSL,2009-02-12,15743.0,"Comprising air tickets (Rs 14416), BIAL UDF, bus fare, and also taxi, meals (for Madhav and me).
+
+",2009-02-26 13:44:28.993955,2009-09-30 04:51:22.984904,10,t,f,2009-09-30 04:51:22.984904
+88,Amazon Machin reservation For a year,2009-04-24,16823.0,This would reduce the amount of money being spent on amazon slightly,2009-04-27 15:48:36.049238,2009-08-28 09:21:03.073891,6,t,f,2009-08-28 09:21:03.073891
+103,Trip to Chennai to visit Ashok Leyland Telematics Division,2009-04-28,1560.0,Spent Rs. 1560 to travel to Chennai and back to get the Ashok Leyland database dump.,2009-05-26 21:57:35.389451,2009-08-28 09:21:03.190967,7,t,f,2009-08-28 09:21:03.190967
+97,Mapunity Mugs ,2009-05-17,3500.0,14 mapunity mugs - 250 per piece,2009-05-18 11:41:06.030484,2009-08-28 09:21:03.198247,5,t,f,2009-08-28 09:21:03.198247
+118,Electricity bill for JPNR office ,2009-05-25,620.0,Electricity bill for JPNR office paid in the month of May 2009.,2009-07-07 13:17:42.712523,2009-08-28 09:21:03.207065,2,t,f,2009-08-28 09:21:03.207065
+117,Electricity bill @ JPNR office,2009-05-25,170.0,Electricity bill for May 2009.,2009-07-07 13:16:29.319202,2009-08-28 09:21:03.216846,2,t,f,2009-08-28 09:21:03.216846
+99,office expenses (consolidated),2009-05-18,2150.0,"Door mats - 480
+Poster Prints - 100
+Plants - 645
+Maid - 500
+Tata Indicom bill - 425",2009-05-18 11:51:45.118283,2009-08-28 09:21:03.223047,5,t,f,2009-08-28 09:21:03.223047
+98,Sample mapunity mug,2009-05-15,275.0,"sample mug, one piece Rs.275",2009-05-18 11:42:30.40988,2009-08-28 09:21:03.230291,5,t,f,2009-08-28 09:21:03.230291
+110,Renewal of latlon.in and jtis.in,2009-06-23,1548.0,"",2009-06-24 14:56:51.032755,2009-08-28 09:21:03.243429,7,t,f,2009-08-28 09:21:03.243429
+109,checking HP Laptop ,2009-06-17,300.0,advance payment for HP laptop for fault identification.,2009-06-23 12:51:26.605265,2009-08-28 09:21:03.253314,11,t,f,2009-08-28 09:21:03.253314
+113,Carpentary work @ JPNR office,2009-06-25,1545.0,"Materials (curtain rods + nails etc):745.00
+Labour charges : 800.00",2009-06-30 11:21:48.631344,2009-08-28 09:21:03.288261,2,t,f,2009-08-28 09:21:03.288261
+111,harddisk case for compaq HDD,2009-06-24,350.0,Hard disk case to backup data from the older HP compaq Hard disk.,2009-06-24 19:07:35.31278,2009-08-28 09:21:03.308102,11,t,f,2009-08-28 09:21:03.308102
+104,Maid salary for May 2009,2009-06-05,2500.0,"",2009-06-05 16:36:22.26597,2009-08-28 09:21:03.318796,2,t,f,2009-08-28 09:21:03.318796
+108,Gardener Salary for May 2009,2009-06-04,800.0,"",2009-06-19 14:15:57.053321,2009-08-28 09:21:03.327938,2,t,f,2009-08-28 09:21:03.327938
+105,Amazon Payment for May-2009,2009-06-02,7737.01,"",2009-06-08 10:32:32.337139,2009-08-28 09:21:03.367206,6,t,f,2009-08-28 09:21:03.367206
+95,Expenses for Muttati trip,2009-01-02,1200.0,"Spent for buying food (snacks, drinks) on the trip to Muttati. Don't have the bill as of now, will try to search for it.",2009-05-15 17:44:04.727333,2009-08-28 09:21:03.38034,2,t,f,2009-08-28 09:21:03.38034
+149,Paid the Tea fellow at the JPNR office,2009-08-11,1404.0,"",2009-09-13 05:43:34.805832,2009-09-30 04:47:27.139992,2,t,f,2009-09-30 04:47:27.139992
+146,Unfuddle - August payment,2009-08-08,2437.64,"",2009-08-27 06:54:32.110346,2009-09-30 04:47:27.148052,6,t,f,2009-09-30 04:47:27.148052
+150,Airtel bill for office at IIITB,2009-08-12,3855.0,Airtel (Landline and internet) bill for the IIITB office.<br>,2009-09-13 05:45:31.231417,2009-09-30 04:47:27.194096,2,t,f,2009-09-30 04:47:27.194096
+756,Hetzner 2012/12,2012-12-04,7426.0,"",2012-12-29 04:21:27.067716,2013-03-14 03:05:02.214083,6,t,f,2013-03-14 03:05:02.213146
+148,Power Adapter for IIITB HP Laptop ,2009-08-22,2300.0,"​The power adapter of the HP laptop given by IIITB was not working. So, bought a new power adapter<br>",2009-09-13 05:42:28.266865,2009-09-30 04:47:27.217816,2,t,f,2009-09-30 04:47:27.217816
+147,Lunch with MIT-VDS team,2009-07-15,765.0,​,2009-08-31 09:32:32.773712,2009-09-30 04:47:27.287012,10,t,f,2009-09-30 04:47:27.287012
+144,Hetzner,2009-08-05,4134.23,​Hetzner payment for July<br>,2009-08-27 06:52:09.541637,2009-09-30 04:47:27.309995,6,t,f,2009-09-30 04:47:27.309995
+131,Bought domain cidnetwork.in,2009-07-28,320.0,Bought domain cidnetwork.in,2009-07-28 11:41:44.446607,2009-09-30 04:48:01.222492,7,t,f,2009-09-30 04:48:01.222492
+130,Lunch with MIT-EDS Team,2009-07-21,704.0,Lunch,2009-07-27 12:14:08.293228,2009-09-30 04:48:01.230383,6,t,f,2009-09-30 04:48:01.230383
+129,Phone & Internet bill for IIIT Office,2009-07-10,3700.0,"",2009-07-27 12:12:04.17456,2009-09-30 04:48:01.236864,6,t,f,2009-09-30 04:48:01.236864
+128,"Bought domains vtis.in, atis.in and ghmcelections.in",2009-07-27,975.0,"Bought domains 
+vtis.in
+atis.in
+ghmcelections.in",2009-07-27 10:34:22.756162,2009-09-30 04:48:45.591543,7,t,f,2009-09-30 04:48:45.591543
+127,"Renewal of htis.in, openngo.in, commute.in",2009-07-24,2475.0,"Renewed domains
+
+htis.in
+openngo.in
+commute.in
+
+for another year",2009-07-24 10:22:15.481665,2009-09-30 04:48:45.598457,7,t,f,2009-09-30 04:48:45.598457
+125,Ext JS Licences,2009-05-17,26519.5,Two developer licenses. Unlimited deployment license.,2009-07-20 10:25:34.248276,2009-09-30 04:48:45.637555,4,t,f,2009-09-30 04:48:45.637555
+124,fusemail  may09,2009-05-08,1536.71,"",2009-07-20 10:20:36.479637,2009-09-30 04:48:45.654251,4,t,f,2009-09-30 04:48:45.654251
+123,tataindicom broadband,2009-06-22,1626.0,"",2009-07-20 10:19:50.726083,2009-09-30 04:48:45.694995,4,t,f,2009-09-30 04:48:45.694995
+122,slicehost june09,2009-06-18,4499.31,"",2009-07-20 10:18:40.887825,2009-09-30 04:48:45.712671,4,t,f,2009-09-30 04:48:45.712671
+121,Fusemail june09,2009-06-08,1481.61,"",2009-07-20 10:17:52.115899,2009-09-30 04:48:45.723575,4,t,f,2009-09-30 04:48:45.723575
+120,Trip to Chennai to install PIS at AshLey,2009-07-16,1150.0,Travel to Chennai for installation of PIS at the Ashok Leyland data center.,2009-07-17 08:31:24.409413,2009-09-30 04:48:45.733041,7,t,f,2009-09-30 04:48:45.733041
+119,Hetzner Server,2009-07-06,12880.0,"",2009-07-07 19:30:14.467192,2009-09-30 04:48:45.74132,6,t,f,2009-09-30 04:48:45.74132
+115,Amazon June Payment,2009-07-03,7750.0,"",2009-07-03 21:02:56.525487,2009-09-30 04:49:20.368047,6,t,f,2009-09-30 04:49:20.368047
+114,Unfuddle Payment for May,2009-07-08,2416.58,Payment for Unfuddle For the month of May,2009-07-01 11:28:01.52123,2009-09-30 04:49:20.374443,6,t,f,2009-09-30 04:49:20.374443
+106,Tea May-June,2009-06-12,1449.0,"",2009-06-14 16:54:24.218211,2009-09-30 04:49:57.266693,4,t,f,2009-09-30 04:49:57.266693
+102,UPS for Router,2009-03-24,3130.0,APC brand. bought from Asian Computers jnagar 4th blk.,2009-05-21 15:57:34.979795,2009-09-30 04:49:57.272542,4,t,f,2009-09-30 04:49:57.272542
+101,Electricity Bill for JP Nagar Office,2009-04-10,534.0,Electricity bill for the JPNR office for the month of March '09 paid on 10 April 2009. There are two connections and hence two bills.,2009-05-18 12:31:56.524612,2009-09-30 04:49:57.289404,2,t,f,2009-09-30 04:49:57.289404
+100,Electricity Bill for JP Nagar Office,2009-04-10,233.0,"Electricity bill for JPNR office for the month of March '09, paid on 10 April 2009.
+",2009-05-18 12:29:06.543376,2009-09-30 04:49:57.295518,2,t,f,2009-09-30 04:49:57.295518
+96,Expenses for Mutatti trip,2009-01-02,600.0,Spent for food expenses ,2009-05-18 11:38:22.5463,2009-09-30 04:50:25.864825,5,t,f,2009-09-30 04:50:25.864825
+139,Indore Trip June 3 - Bangalore to Mumbai,2009-06-03,3752.0,Second Indore Trip.<br>Bangalore to Mumbai.,2009-08-06 07:11:31.66134,2009-11-17 16:30:56.315623,13,t,f,2009-11-17 16:30:56.315623
+141,Indore Trip June 4 - Mumbai to Indore,2009-06-04,3624.0, Second Indore Trip.<br>Mumbai to Indore.,2009-08-06 07:19:51.189469,2009-11-17 16:30:56.324365,13,t,f,2009-11-17 16:30:56.324365
+142,Indore Trip June 5 - Indore to Mumbai,2009-06-05,2965.0,Second Indore Trip.<br>Indore to Mumbai.,2009-08-06 07:20:58.063643,2009-11-17 16:30:56.331794,13,t,f,2009-11-17 16:30:56.331794
+143,Indore Trip June 6 - Mumbai to Bangalore,2009-06-06,3853.7,Second Indore Trip.<br>Mumbai to Bangalore.,2009-08-06 07:22:04.826668,2009-11-17 16:30:56.336831,13,t,f,2009-11-17 16:30:56.336831
+134,Renewal of domain openstreetmap.in,2009-08-05,800.0,​Renewal of domain openstreetmap.in at nettigritty<br>,2009-08-06 04:58:32.797223,2009-11-17 16:35:16.993707,7,t,f,2009-11-17 16:35:16.993707
+151,Airtel bill for IIITB for the month of August,2009-09-11,3694.0,Airtel (Landline &amp; internet) bill for office @ IIITB for the month of August.<br>,2009-09-13 05:47:45.315806,2009-11-17 16:38:44.418503,2,t,f,2009-11-17 16:38:44.418503
+138,Indore Trip Mar 14 - Mumbai to Bangalore,2009-03-14,2690.0,First Indore Trip.<br>Mumbai to Bangalore.,2009-08-06 06:59:51.695358,2009-11-20 02:55:45.826423,13,t,f,2009-11-20 02:55:45.826423
+137,Indore Trip Mar 14 - Indore to Mumbai,2009-03-14,2781.0,First Indore Trip.<br>Indore to Mumbai.<br>,2009-08-06 06:58:38.364949,2009-11-20 02:55:45.831783,13,t,f,2009-11-20 02:55:45.831783
+136,Indore Trip Mar 12 - Mumbai to Indore,2009-03-12,2813.0,First Indore Trip.<br>Mumbai to Indore.<br>,2009-08-06 06:56:57.468584,2009-11-20 02:55:45.837282,13,t,f,2009-11-20 02:55:45.837282
+107,BSNL - Security deposit and first month fees,2009-06-19,16161.0,"Breakdown - 
+a) Security deposit is 9K. 
+b) The plan is 9K a month and they have charged half a month ~4500 rupees. 
+c) the rest is installation charges, modem cost etc. The details are in the bill.",2009-06-19 11:01:25.524454,2009-09-30 04:49:57.261361,4,t,f,2009-09-30 04:49:57.261361
+74,Renewal of managed dns and domains,2009-04-03,935.0,"Renewal of Managed DNS (btis.in, openngo.in) and Domain Name karnatakaelections.in",2009-04-06 09:55:15.69556,2009-09-30 04:51:22.963408,7,t,f,2009-09-30 04:51:22.963408
+153,Sony Ericsson phone,2009-08-25,7500.0,Sony Ericsson phone Ash,2009-09-26 08:28:42,2009-09-26 08:29:04,3,t,f,2009-09-26 08:29:04
+162,BSNL - JP Nagar Office - Sept,2009-09-29,10107.0,"",2009-10-02 04:13:11.526384,2009-11-17 16:41:35.82558,4,t,f,2009-11-17 16:41:35.82558
+167,Slicehost ,2009-09-18,4501.0,"",2009-10-02 04:37:45.065838,2009-11-17 16:41:35.835056,4,t,f,2009-11-17 16:41:35.835056
+170,E-Books jQuery and PostGIS,2009-09-01,1384.0,jQuery in Action - second edition <br>PostGIS in Action<br>$27.50 total for 2 books. They were having a 50% discount sale.<br>,2009-10-02 05:06:44.859382,2009-11-17 16:41:35.842322,4,t,f,2009-11-17 16:41:35.842322
+181,Laptop LCD panel replace,2009-09-23,14000.0,Lenovo laptop that ragul uses.<br>,2009-11-03 08:20:10.098925,2009-11-17 16:41:35.851737,4,t,f,2009-11-17 16:41:35.851737
+173,Renewal of domains,2009-10-14,3070.0,"Renewal of indoretranspport.in, personalmap.in, netcitizen.in and donateme.in @ $16.5 each a total of $66. <br>",2009-10-14 04:38:18.34777,2009-11-17 16:43:53.052133,7,t,f,2009-11-17 16:43:53.052133
+174,Replacement of LCD screen for my netbook,2009-10-08,7600.0,Got a new screen as a replacement for the broken LCD screen for my netbook. <br>,2009-10-14 04:43:39.853078,2009-11-17 16:43:53.063435,7,t,f,2009-11-17 16:43:53.063435
+163,Slicehost - July,2009-07-18,4554.0,<br>,2009-10-02 04:28:34.626647,2009-11-17 16:32:52.782991,4,t,f,2009-11-17 16:32:52.782991
+187,Maid,2009-07-05,2700.0,​Salary for Maid : 2500<br>Towards toilet accessories: 200<br>,2009-11-17 09:40:50.233246,2009-11-17 16:32:52.798973,5,t,f,2009-11-17 16:32:52.798973
+160,BWSSB ,2009-08-26,543.0,​water bill<br>,2009-10-02 04:10:02.197559,2009-11-17 16:35:16.999239,4,t,f,2009-11-17 16:35:16.999239
+164,Tata Indicom Broadband - JP Nagar Office,2009-08-06,5758.0,Two months back payment.<br>,2009-10-02 04:31:41.357942,2009-11-17 16:35:17.019282,4,t,f,2009-11-17 16:35:17.019282
+165,Slicehost VPS,2009-08-18,4569.0,"",2009-10-02 04:33:47.186258,2009-11-17 16:35:17.025682,4,t,f,2009-11-17 16:35:17.025682
+166,PDF Book - Oreilly Ruby Programming Language,2009-08-29,303.0,"",2009-10-02 04:37:05.501346,2009-11-17 16:35:17.030785,4,t,f,2009-11-17 16:35:17.030785
+169,BSNL Broadband JPNagar Office,2009-08-10,10329.0,ICICI cheque#453795<br>,2009-10-02 04:57:31.742896,2009-11-17 16:35:17.035668,4,t,f,2009-11-17 16:35:17.035668
+188,Gardener,2009-08-06,900.0,Salary for gardener<br>,2009-11-17 09:41:25.088732,2009-11-17 16:35:17.044048,5,t,f,2009-11-17 16:35:17.044048
+189,Tea ,2009-09-02,1449.0,"",2009-11-17 09:47:59.52655,2009-11-17 16:36:39.391132,5,t,f,2009-11-17 16:36:39.391132
+192,Electricity Bill,2009-09-05,371.0,"",2009-11-17 09:57:20.54606,2009-11-17 16:36:39.395955,5,t,f,2009-11-17 16:36:39.395955
+154,Mapunity.in renewal,2009-09-21,1400.0,"​company domain
+    
+  
+
+  
+  ",2009-09-26 08:35:09,2009-11-17 16:37:30.718469,3,t,f,2009-11-17 16:37:30.718469
+171,Printer paper & file holder for JPNR office,2009-09-04,180.0,​Printer papers - 140.00<br>File holder - 40.00<br>,2009-10-08 06:00:42.996978,2009-11-17 16:38:44.423946,2,t,f,2009-11-17 16:38:44.423946
+172,Buying of urbanaffairs.in and ttis.tw,2009-09-28,2100.0,​bought domains urbanaffairs.in at $7 and ttis.tw at $35<br>,2009-10-14 04:33:17.05816,2009-11-17 16:39:34.869172,7,t,f,2009-11-17 16:39:34.869172
+155,Amazon August bill,2009-09-02,5180.0,"",2009-09-27 17:17:01,2009-11-17 16:40:36.228639,6,t,f,2009-11-17 16:40:36.228639
+156,Hetzner,2009-09-03,4212.36,"",2009-09-27 17:19:29,2009-11-17 16:40:36.250454,6,t,f,2009-11-17 16:40:36.250454
+157,Photos for CID Network from IStockPhoto,2009-09-09,900.0,"",2009-09-27 17:20:58,2009-11-17 16:40:36.285334,6,t,f,2009-11-17 16:40:36.285334
+158,Lunch with AshokLeyland Team,2009-09-11,654.0,"",2009-09-27 17:22:42,2009-11-17 16:40:36.289765,6,t,f,2009-11-17 16:40:36.289765
+161,BSNL JP Nagar Office,2009-09-02,10126.0,"",2009-10-02 04:11:21.063948,2009-11-17 16:41:35.8149,4,t,f,2009-11-17 16:41:35.8149
+175,amazon,2009-10-02,2608.0,​Amazon Payment for September usage<br>,2009-10-30 01:40:10.194368,2009-11-17 16:43:53.069347,6,t,f,2009-11-17 16:43:53.069347
+176,Hetzner for sepetember for Usage,2009-10-06,4211.0,"",2009-10-30 01:41:20.420946,2009-11-17 16:43:53.077644,6,t,f,2009-11-17 16:43:53.077644
+177,Unfuddle for September Usage,2009-10-08,2368.0,"",2009-10-30 01:41:50.342194,2009-11-17 16:43:53.089805,6,t,f,2009-11-17 16:43:53.089805
+178,chikaballapur Map Map Scannig,2009-10-30,100.0,"​Color Scaning A2 Size , chikaballapur Map<br>",2009-10-31 13:32:20.978081,2009-11-17 16:45:42.734676,8,t,f,2009-11-17 16:45:42.734676
+183,Company lunch in October,2009-10-15,3800.0,​,2009-11-11 03:59:21.569217,2009-11-17 16:45:42.755149,3,t,f,2009-11-17 16:45:42.755149
+185,domain renewals,2009-10-21,7500.0,"",2009-11-11 04:01:07.307856,2009-11-17 16:45:42.762391,3,t,f,2009-11-17 16:45:42.762391
+179,Airtel Landline & broadband biil for IIIT office for the month of September 2009,2009-10-13,4451.0,​Landline and Broadband bill for IIIT office for the month of September 2009<br>,2009-11-01 14:21:11.273417,2009-11-17 16:47:32.231352,2,t,f,2009-11-17 16:47:32.231352
+180,MFSummit - airfare,2009-10-22,22442.0,"Microfinance summit. New&nbsp; Delhi Oct 26,27 and 28. <br>Surekha and Gokul attended.<br><br>",2009-11-03 07:31:35.485573,2009-11-17 16:47:32.261699,4,t,f,2009-11-17 16:47:32.261699
+182,MFSummit - registration fees,2009-10-24,17000.0,Receipt is in the J.P Nagar office.<br>,2009-11-04 09:08:59.314454,2009-11-17 16:47:32.269177,4,t,f,2009-11-17 16:47:32.269177
+190,Tea ,2009-10-01,1080.0,"",2009-11-17 09:49:30.395029,2009-11-17 16:47:32.277575,5,t,f,2009-11-17 16:47:32.277575
+191,Curtains,2009-10-01,1300.0,"",2009-11-17 09:54:23.107438,2009-11-17 16:47:32.283561,5,t,f,2009-11-17 16:47:32.283561
+195,Energyhub domain for 2 years,2009-11-21,1401.0,"​Satya wanted to keep this going, so I did this through Answerable.<br>",2009-11-21 01:57:56.553939,2009-12-13 13:28:11.518357,3,t,f,2009-12-13 13:28:11.518357
+199,Hetzner - Oct 2009 payment,2009-11-04,4211.46,​Hetzner - payment against october invoice<br>,2009-11-30 06:33:00.58126,2009-12-13 13:29:59.404612,6,t,f,2009-12-13 13:29:59.404612
+184,lunch with Mapunity colleagues,2009-11-06,1300.0,"550 in lunch with Gokul and Raghul, and 750 separately in lunch with Pandian a few days later.​",2009-11-11 04:00:08.221875,2009-12-13 13:28:11.52519,3,t,f,2009-12-13 13:28:11.52519
+200,Unfuddle - October 2009,2009-11-08,2372.74,Unfuddle Payment against october 2009 invoice<br>,2009-11-30 06:41:24.045232,2009-12-13 13:29:59.412945,6,t,f,2009-12-13 13:29:59.412945
+201,Amazon Web Services - October 2009 ,2009-11-02,2636.0,Payment against AWS(amazon web services) - October 2009 invoice<br>,2009-11-30 06:42:31.953863,2009-12-13 13:29:59.421298,6,t,f,2009-12-13 13:29:59.421298
+197,Paid the Tea guy @ JPNR office,2009-11-05,1242.0,​Paid Tea fellow for the month of October.<br>,2009-11-27 10:40:52.318498,2009-12-13 13:30:50.157133,2,t,f,2009-12-13 13:30:50.157133
+198,Laptop processor fan replacement,2009-10-15,1600.0,Fan replacement for my laptop.<br>,2009-11-30 05:41:42.252365,2009-12-13 13:30:50.168632,2,t,f,2009-12-13 13:30:50.168632
+186,BSNL JPNagar Office,2009-11-13,10126.0,​Bill for Oct.<br>,2009-11-13 10:30:06.152228,2009-12-13 13:31:57.268961,4,t,f,2009-12-13 13:31:57.268961
+196,Airtel for J.P Nagar,2009-11-17,8997.0,citibank ​cheque# 630487<br>Advance for 3 months.<br>,2009-11-23 08:14:23.940875,2009-12-13 13:31:57.273455,4,t,f,2009-12-13 13:31:57.273455
+193,Mobile for mamatha,2009-11-01,1850.0,"",2009-11-17 09:59:58.163987,2009-12-13 13:32:35.787002,5,t,f,2009-12-13 13:32:35.787002
+202,Slicehost VPS,2009-11-18,4359.15,​Slicehost &nbsp;- $90,2009-12-01 05:57:06.276667,2010-01-27 15:55:23.916765,4,t,f,2010-01-27 15:55:23.916765
+203,Slicehost - vps - October09,2009-10-18,4309.33,$90,2009-12-01 05:59:16.19051,2010-01-27 15:55:23.92302,4,t,f,2010-01-27 15:55:23.92302
+204,Moving cycles and LED board from IIMB to JP Nagar office,2009-11-25,450.0,Hired a van to transport cycles and LED board from IIMB to JP Nagar office.,2009-12-01 07:27:03.551779,2010-01-27 15:56:55.758605,7,t,f,2010-01-27 15:56:55.758605
+205,Delhi Trip Commission 2 Metropolis,2009-12-05,2000.0,"​1500 taxi, 500 food<br>",2009-12-06 13:53:33.463589,2010-01-27 15:57:47.244907,3,t,f,2010-01-27 15:57:47.244907
+206,Yimby.in domain,2009-12-06,1000.0,domain regn for 2 years<br>,2009-12-06 13:54:01.16156,2010-01-27 15:57:47.249701,3,t,f,2010-01-27 15:57:47.249701
+207,Salary for maid,2009-12-09,2300.0,​,2009-12-09 15:00:53.006887,2010-01-27 15:58:37.888634,5,t,f,2010-01-27 15:58:37.888634
+208,Salary for gardener,2009-12-09,1000.0,"",2009-12-09 15:01:10.550035,2010-01-27 15:58:37.895119,5,t,f,2010-01-27 15:58:37.895119
+227,Airtel Bill for IIIT office for the month of December '09,2010-01-11,4454.0,​Airtel broadband and landline bill for the IIIT office for the month of December 2009.<br>,2010-01-19 05:06:13.576519,2010-03-01 03:08:30.908886,2,t,f,2010-03-01 03:08:30.908886
+217,Paid Tea fellow at the JPNR office for Dec '09,2010-01-04,1206.0,​Tea expenses for the month of Dec '09<br>,2010-01-04 05:27:31.393616,2010-03-01 03:08:30.917085,2,t,f,2010-03-01 03:08:30.917085
+242,Chennai Taxi,2010-01-29,4811.0,"​Pandian, Pradeep and I had gone by taxi to Chennai for a meeting with Ashok Leyland.&nbsp; I am attaching the taxi bill, trip sheet and toll receipts along with this mail.&nbsp; The files are compressed into a single archive.<br>",2010-02-26 04:04:30.549313,2010-03-01 03:09:04.937303,13,t,f,2010-03-01 03:09:04.937303
+213,Water and EB Bill,2009-12-21,1322.0,​paid at the bangalore one counter.,2009-12-21 12:53:49.226389,2010-01-27 15:55:23.928532,4,t,f,2010-01-27 15:55:23.928532
+209,BSNL  JP nagar office.,2009-12-15,9850.0,Bill for ​Nov 1 to Nov 30. Paid through Citibank acct online.,2009-12-15 11:35:59.767641,2010-01-27 15:55:23.933445,4,t,f,2010-01-27 15:55:23.933445
+212,Chennai trip ALL signing,2009-12-16,13700.0,"​12650 plane ticket, rest in taxi and a snack<br>",2009-12-16 14:28:01.147515,2010-01-27 15:57:47.254475,3,t,f,2010-01-27 15:57:47.254475
+210,Paid Tea fellow at the JPNR office,2009-12-01,1296.0,Tea expenses for the Month of November 09<br>,2009-12-16 06:28:52.834536,2010-01-27 15:59:37.800523,2,t,f,2010-01-27 15:59:37.800523
+211,Airtel bill for IIIT office for the Month of Nov '09,2009-12-14,4500.0,Airtel bill for the month of Nov 2009 for IIIT office.<br>,2009-12-16 06:29:41.775136,2010-01-27 15:59:37.8059,2,t,f,2010-01-27 15:59:37.8059
+231,Printing of user and installation manuals for Ashok Leyland,2010-01-28,652.0,Printing and binding of user and installation manuals to be submitted to Ashok Leyland at Printo.,2010-01-28 12:14:38.803442,2010-01-30 01:12:58.651695,7,t,f,2010-01-30 01:12:58.651695
+222,Renewal of various domains,2010-01-09,4681.0,"Renewal of<div><br></div><div>abidebengaluru.com</div><div><meta http-equiv=""content-type"" content=""text/html; charset=utf-8"">abidebangalore.com</div><div>@ $10 each</div><div><br></div><div>abidebangalore.in</div><div>safebangalore.in</div><div>mtis.in</div><div>mysoretransport.in</div><div>livetraffic.in</div><div>@ $16.5 each</div><div><br></div><div>Total $102.5 = Rs. 4681/-</div>",2010-01-09 01:59:10.187224,2010-01-30 01:12:58.657748,7,t,f,2010-01-30 01:12:58.657748
+221,abidebengaluru.in renewal,2010-01-07,768.0,​Renewal of abidebengaluru.in,2010-01-09 01:54:30.570462,2010-01-30 01:12:58.661908,7,t,f,2010-01-30 01:12:58.661908
+223,Lunch with Ashok Leyland officials,2010-01-05,420.0,Had taken Ashok Leyland officials for lunch at electronics city. 3 of them had come to discuss the next steps in our engagement on the vehicle tracking front.&nbsp;,2010-01-09 02:00:23.126605,2010-01-30 01:12:58.666237,7,t,f,2010-01-30 01:12:58.666237
+226,Unfuddle - Dec 2009,2010-01-08,2329.0,"",2010-01-12 08:40:52.76551,2010-03-01 03:03:26.090669,6,t,f,2010-03-01 03:03:26.090669
+216,Unfuddle - Nov 2009,2010-01-08,2379.0,"",2010-01-03 16:04:11.326747,2010-03-01 03:03:26.108674,6,t,f,2010-03-01 03:03:26.108674
+224,Hetzner - Dec 2009,2010-01-05,4018.0,​Hetzner,2010-01-12 08:36:08.644997,2010-03-01 03:03:26.121222,6,t,f,2010-03-01 03:03:26.121222
+225,Amazon - Dec 2009,2010-01-02,2793.0,Amazon Dec 2009 Usage<br>,2010-01-12 08:40:09.793164,2010-03-01 03:03:26.125249,6,t,f,2010-03-01 03:03:26.125249
+214,Hetzner - NOV 2009,2009-12-03,4209.8,"",2010-01-03 16:02:13.866608,2010-03-01 03:03:26.130164,6,t,f,2010-03-01 03:03:26.130164
+228,BSNL J.P Nagar office,2010-01-21,10126.0,​paid online through citibank.,2010-01-21 05:05:17.357486,2010-03-01 03:05:30.289457,4,t,f,2010-03-01 03:05:30.289457
+229,Quarterly meeting - food,2010-01-20,1828.0,Ammi's ​Biryani - 343<div>Pizza - 1485<br><div>Bills in the top drawer of jpnagar office.</div></div>,2010-01-22 12:27:12.405474,2010-03-01 03:05:30.295673,4,t,f,2010-03-01 03:05:30.295673
+220,UPS for JP Nagar Office,2010-01-07,20825.0,Citibank Cheque# 630488 issued to NYFE Battery&nbsp;<div>800 was paid &nbsp;in cash.</div>,2010-01-07 09:18:06.021475,2010-03-01 03:05:30.300865,4,t,f,2010-03-01 03:05:30.300865
+219,New laptop - assigned to raghavan,2010-01-06,42000.0,​Paid Dell using Citibank Visa .,2010-01-07 09:16:45.725916,2010-03-01 03:05:30.305635,4,t,f,2010-03-01 03:05:30.305635
+218,Slicehost,2009-12-18,4380.0,​,2010-01-05 09:59:43.248181,2010-03-01 03:05:30.310206,4,t,f,2010-03-01 03:05:30.310206
+233,Renewal of ktis.in and ptis.in,2010-01-30,1530.0,Renewed&nbsp;ktis.in and ptis.in @ $16.5 each for one year.&nbsp;,2010-01-30 15:12:07.695026,2010-03-01 03:07:00.548985,7,t,f,2010-03-01 03:07:00.548985
+232,Renewal of dreamhost account for 1 year,2010-01-30,5530.0,​Renewed dreamhost account for one year by paying $119.40. This is used as nameservers for abide* domains and a few other domains.&nbsp;<div><br></div><div><br></div>,2010-01-30 15:10:53.716929,2010-03-01 03:07:00.562347,7,t,f,2010-03-01 03:07:00.562347
+246,laptop hard disk usb converter,2010-02-06,250.0,purchase of l​laptop hard disk usb converter(ide port).<br>,2010-03-01 06:26:09.768081,2010-05-07 02:50:29.057211,8,t,f,2010-05-07 02:50:29.057211
+259,Hetzner - Feb 2010,2010-04-04,7526.0,"",2010-04-01 17:02:31.119208,2010-04-07 02:09:48.515296,6,t,f,2010-04-07 02:09:48.515296
+239,Unfuddle - Jan(01/2010),2010-02-08,2375.0,"",2010-02-16 06:28:11.515052,2010-04-07 02:09:48.520656,6,t,f,2010-04-07 02:09:48.520656
+238,Amazon -01-2010,2010-02-04,3791.0,​Payment for Amazon S3 and Elastic cloud server<br>,2010-02-16 06:27:24.193077,2010-04-07 02:09:48.525752,6,t,f,2010-04-07 02:09:48.525752
+237,Hetzner - Jan 2010,2010-02-03,16138.0,​For hosting mapunity and AshokLeyland Servers<br>,2010-02-16 06:25:29.860983,2010-04-07 02:09:48.531159,6,t,f,2010-04-07 02:09:48.531159
+244,external hard drives,2010-02-10,1100.0,2 4gb drives at Ezone<br>,2010-03-01 03:12:29.87623,2010-05-07 02:51:28.36175,3,t,f,2010-05-07 02:51:28.36175
+262,Tea @ JPNR office (for the month of March '2010),2010-04-02,1296.0,​Tea for the month of March '2010<br>,2010-04-02 05:37:12.668854,2010-05-07 02:43:28.981552,2,t,f,2010-05-07 02:43:28.981552
+257,Pedastal fan for JPNR office,2010-03-30,1700.0,"",2010-03-30 09:27:37.959646,2010-05-07 02:43:28.985872,2,t,f,2010-05-07 02:43:28.985872
+258,Toolset ,2010-03-30,110.0,"",2010-03-30 09:28:01.306465,2010-05-07 02:43:28.991259,2,t,f,2010-05-07 02:43:28.991259
+256,Airtel internet bill for IIIT office,2010-03-10,4424.0,​,2010-03-30 05:22:06.220515,2010-05-07 02:43:28.996786,2,t,f,2010-05-07 02:43:28.996786
+252,Tea @ JPNR office (for Feb 2010),2010-03-03,1242.0,​Tea @ JPNR office (for the month of Feb 2010)<br>,2010-03-23 07:44:17.674735,2010-05-07 02:43:29.001743,2,t,f,2010-05-07 02:43:29.001743
+235,Airtel bill for IIIT office for the month of Jan 2010,2010-02-10,4634.0,"",2010-02-12 13:09:44.974833,2010-05-07 02:43:29.019475,2,t,f,2010-05-07 02:43:29.019475
+236,Paid Tea fellow at JPNR office,2010-02-03,1084.0,"",2010-02-12 13:10:38.005769,2010-05-07 02:43:29.024387,2,t,f,2010-05-07 02:43:29.024387
+247,renewal of btis.in,2010-03-02,761.0,​Renewed btis.in for an year,2010-03-02 01:48:05.435129,2010-05-07 02:47:11.546672,7,t,f,2010-05-07 02:47:11.546672
+240,Group lunch with Ashok Leyland Trainees,2010-02-23,510.0,We took the Ashok Leyland Trainees out for lunch.&nbsp;,2010-02-23 09:44:19.780753,2010-05-07 02:47:11.554828,7,t,f,2010-05-07 02:47:11.554828
+250,"Maid, garderner expenses",2010-03-10,900.0,​Gardener: 600<br>Maid : 300 <br>,2010-03-17 08:59:50.399215,2010-05-07 02:49:40.012078,5,t,f,2010-05-07 02:49:40.012078
+251,Ruby conference,2010-03-05,6000.0,Booked 6 tickets for the Ruby conference (March 20th and 21st).<br>,2010-03-17 09:04:02.317368,2010-05-07 02:49:40.018304,5,t,f,2010-05-07 02:49:40.018304
+243,"Dinner with Dario, Madhav and others ...",2010-02-26,3000.0,"​2000 was with Madhav and Dario, the other 1000 earlier with the environment discussion gang<br>",2010-03-01 03:11:49.990138,2010-05-07 02:51:28.371018,3,t,f,2010-05-07 02:51:28.371018
+263,Airtel bill for IIIT office for the month of March 2010,2010-04-07,4411.0,​Airtel bill for IIIT office for the month of March 2010,2010-04-07 05:38:03.237322,2010-05-07 02:43:28.977672,2,t,f,2010-05-07 02:43:28.977672
+270,Unufuddle - March 2010,2010-04-08,2257.0,"",2010-04-25 01:33:56.227373,2010-05-07 02:46:22.483549,6,t,f,2010-05-07 02:46:22.483549
+269,Hetzner - March 2010,2010-04-07,7187.0,"",2010-04-25 01:33:02.749066,2010-05-07 02:46:22.488374,6,t,f,2010-05-07 02:46:22.488374
+268,Amazon - March 2010,2010-04-03,2751.0,​Amazon Payment for the month of March,2010-04-25 01:31:22.658616,2010-05-07 02:46:22.492976,6,t,f,2010-05-07 02:46:22.492976
+264,Renewal of karnatakaelections.in and ctis.in,2010-04-13,1468.0,​Renewed domains karnatakaelections.in and ctis.in @ $16.5 each per year.,2010-04-13 08:45:16.319768,2010-05-07 02:47:19.256893,7,t,f,2010-05-07 02:47:19.256893
+276,Unfuddle Payment 04/2010,2010-05-08,2321.72,Unfuddle April(2010) Payment,2010-05-27 09:31:22.452105,2010-07-22 04:42:41.195615,6,t,f,2010-07-22 04:42:41.195615
+314,Renewal of htis.in,2010-07-18,797.0,$16.5 for renewal​ of htis.in for an year.&nbsp;,2010-07-18 00:13:49.633493,2010-07-22 04:44:18.299857,7,t,f,2010-07-22 04:44:18.299857
+316,Airtel bill for IIIT office for the month of June 2010,2010-07-08,4665.0,"",2010-07-19 09:59:20.713009,2010-07-22 04:46:13.150705,2,t,f,2010-07-22 04:46:13.150705
+275,Amazon payment 04/2010,2010-05-09,2743.9,Payment for Amazon services for April 2010​,2010-05-27 09:29:25.659923,2010-07-22 04:42:41.201479,6,t,f,2010-07-22 04:42:41.201479
+309,Bought domain govcamp.in,2010-06-26,240.0,​bought domain govcamp.in,2010-06-26 03:43:03.79809,2010-07-22 04:44:18.320362,7,t,f,2010-07-22 04:44:18.320362
+283,renewal of latlon.in and jtis.in,2010-06-22,1556.0,Renewed latlon.in and jtis.in for another year.,2010-06-22 05:01:37.99491,2010-07-22 04:44:18.360063,7,t,f,2010-07-22 04:44:18.360063
+310,Tea @ JPNR office for June 2010,2010-07-07,1584.0,"",2010-07-08 16:19:09.939462,2010-07-22 04:46:13.156011,2,t,f,2010-07-22 04:46:13.156011
+311,Mapunity Brochure,2010-07-07,120.0,​Printing of Mapunity Brochure to send to the taxation department<br>,2010-07-08 16:21:25.352914,2010-07-22 04:46:13.161717,2,t,f,2010-07-22 04:46:13.161717
+315,Airtel bill for IIIT office for the month of May 2010,2010-06-16,5073.0,"",2010-07-19 09:57:45.900884,2010-07-22 04:46:13.168471,2,t,f,2010-07-22 04:46:13.168471
+279,Wireless USB stick for the Desktop in JPNR office,2010-06-07,945.0,Wireless USB stick for the Desktop in JPNR office.<br>,2010-06-15 08:10:55.759504,2010-07-22 04:46:13.174363,2,t,f,2010-07-22 04:46:13.174363
+278,Tea @ JPNR office for May 2010,2010-06-03,1771.0,​Tea @ JPNR office for the month of May 2010<br>,2010-06-15 08:08:13.371117,2010-07-22 04:46:13.180055,2,t,f,2010-07-22 04:46:13.180055
+277,Airtel bill for IIIT office for the month of April,2010-05-20,4411.0,"",2010-05-27 12:20:18.817793,2010-07-22 04:46:13.18679,2,t,f,2010-07-22 04:46:13.18679
+271,Tea @ JPNR office for Apr' 2010,2010-05-06,1848.0,"",2010-05-06 10:03:11.906014,2010-07-22 04:46:13.193027,2,t,f,2010-07-22 04:46:13.193027
+273,Mapunity Lunch,2010-05-13,1400.0,​Company Meet<br>,2010-05-21 05:36:27.858177,2010-07-22 04:47:15.552334,5,t,f,2010-07-22 04:47:15.552334
+317,Poster Prints1,2010-07-14,1408.0,​A wide Format Poster printed for Electronic City.<br>,2010-07-20 05:11:00.354396,2010-07-22 04:48:50.988513,21,t,f,2010-07-22 04:48:50.988513
+282,Bought domain ashleypis.in,2010-06-15,241.0,Bought domain ashleypis.in for the ALL Mysore POC. ​,2010-06-22 04:54:16.673559,2010-07-22 04:44:18.382608,7,t,f,2010-07-22 04:44:18.382608
+318,poster print2,2010-07-17,536.0,A wide format print for electronic city office.<br>,2010-07-20 05:14:52.120542,2010-07-22 04:48:50.9682,21,t,f,2010-07-22 04:48:50.9682
+320,Banyan Chennai - To,2010-07-09,510.0,Return trip from Chennai.,2010-07-20 13:09:08.418,2010-07-22 04:51:08.1009,12,t,f,2010-07-22 04:51:08.1009
+321,Auto Fares,2010-07-08,270.0,Don't have bills. <br>,2010-07-20 13:10:29.317852,2010-07-22 04:51:08.110183,12,t,f,2010-07-22 04:51:08.110183
+319,Banyan Chennai - From,2010-07-07,620.0,Trip to Chennai to understand the requirements for the Banyan​ PMIS<br>,2010-07-20 13:07:09.498187,2010-07-22 04:51:08.116308,12,t,f,2010-07-22 04:51:08.116308
+322,Marker and Duster,2010-07-03,110.0,Bought marker (2 nos) and duster (1 nos) for Mapunity JP Nagar office. <br>,2010-07-20 13:11:33.461229,2010-07-22 04:51:08.12172,12,t,f,2010-07-22 04:51:08.12172
+333,Unfuddle payment - 06-2010,2010-07-08,2377.0,"",2010-07-27 10:07:44.307896,2010-08-02 07:59:02.998606,6,t,f,2010-08-02 07:59:02.998606
+332,Hetzner Payment - 06-2010,2010-07-05,7063.0,"",2010-07-27 10:07:06.068805,2010-08-02 07:59:03.004195,6,t,f,2010-08-02 07:59:03.004195
+331,Amazon Payment 06-2010,2010-07-03,4219.0,"",2010-07-27 10:06:28.338725,2010-08-02 07:59:03.008923,6,t,f,2010-08-02 07:59:03.008923
+330,Unfuddle Payment 05-2010,2010-06-08,2393.0,"",2010-07-27 10:04:30.276258,2010-08-02 07:59:03.013679,6,t,f,2010-08-02 07:59:03.013679
+329,Amazon Payment 05-2010,2010-06-04,4432.0,"",2010-07-27 10:03:52.725704,2010-08-02 07:59:03.018688,6,t,f,2010-08-02 07:59:03.018688
+328,Hetzner Payment 05-2010,2010-06-02,6958.0,"",2010-07-27 10:03:18.572853,2010-08-02 07:59:03.022876,6,t,f,2010-08-02 07:59:03.022876
+334,Renewal of various domains abotu to expired,2010-07-29,5557.16,​Renewed various domains as seen in the attachment.<br>,2010-07-29 00:26:42.828888,2010-08-02 08:09:02.08196,7,t,f,2010-08-02 08:09:02.08196
+325,Stationary for IIIT office,2010-07-26,212.0,​Bought few file folders for IIIT office<br>,2010-07-27 06:43:13.312275,2010-08-02 08:10:12.687941,2,t,f,2010-08-02 08:10:12.687941
+324,Laptop Keyboard Change,2010-07-21,2300.0,​Changed my Laptop Keyboard.<br>,2010-07-24 15:21:49.320696,2010-08-02 08:11:07.702928,12,t,f,2010-08-02 08:11:07.702928
+336,furniture from Maya Organic,2010-08-02,25600.0,one bench and three chairs for living room area ...<br>,2010-08-02 07:51:59.001258,2010-08-02 08:15:52.533244,3,t,f,2010-08-02 08:15:52.533244
+335,bcity domain purchase,2010-07-14,900.0,​domain name purchase for bcity platform<br>,2010-08-02 07:51:11.396074,2010-08-02 08:15:52.537142,3,t,f,2010-08-02 08:15:52.537142
+337,small expenses during China trip,2010-06-18,5000.0,"total was about 7K, some portion absorbed by self.<br>",2010-08-02 07:53:10.669901,2010-08-02 08:15:52.540943,3,t,f,2010-08-02 08:15:52.540943
+397,Chairs for JPNR office ,2010-11-23,13200.0,​Featherlite working chairs for JPNR office<br>,2010-11-23 07:05:43.214933,2010-12-01 05:00:01.405462,2,t,f,2010-12-01 05:00:01.404218
+398,BESCOM and BWSSB bill for JPNR office for the month of Oct 2010,2010-11-23,1170.0,BESCOM and BWSSB bills for JPNR office for the month of October 2010<br>,2010-11-23 07:07:33.400201,2010-12-01 05:00:01.40957,2,t,f,2010-12-01 05:00:01.408357
+387,BESCOM AND BWSSB bill payment @ JPNR office,2010-10-13,2010.0,​,2010-10-26 06:20:56.59603,2010-12-01 05:00:01.425084,2,t,f,2010-12-01 05:00:01.423714
+429,j.p nagar gardener salary,2011-01-05,1000.0,​paid in cash.,2011-01-05 07:14:10.433045,2011-01-26 06:07:00.467226,4,t,f,2011-01-26 06:07:00.465787
+409,Food grade water bottles,2010-12-13,215.0,​5 food grade water bottles and a water bottle cleaning brush<br>,2010-12-13 15:25:34.871291,2011-01-26 06:12:45.211087,2,t,f,2011-01-26 06:12:45.209882
+465,Utility Bills - JPNR office for the month of Feb 2011,2011-03-02,1800.0,"",2011-03-04 06:34:38.015776,2011-03-06 12:26:24.093293,2,t,f,2011-03-06 12:26:24.092164
+452,BSNL J.P nagar,2011-02-14,10126.0,​paid online.,2011-02-14 05:31:16.78436,2011-03-06 12:28:56.463707,4,t,f,2011-03-06 12:28:56.462278
+440,BSNL J.p nagar ,2011-01-27,10210.0,​paid by credit card at Bangalore One and so there is a 2% surcharge.<div>gave bill to mamta.</div>,2011-01-27 09:37:24.316431,2011-03-06 12:28:56.484284,4,t,f,2011-03-06 12:28:56.483085
+485,Maid salary for the month of March 2011,2011-04-07,2750.0,"",2011-04-12 07:05:29.204096,2011-04-29 07:21:05.742372,2,t,f,2011-04-29 07:21:05.741007
+472,BESCOM & Water bills for JPNR office Feb 2011,2011-03-22,2132.0,"",2011-03-23 05:18:39.09518,2011-04-29 07:21:05.774408,2,t,f,2011-04-29 07:21:05.77283
+471,"Visit to HLC, Chennai",2011-03-14,1934.0,​,2011-03-23 05:17:55.439778,2011-04-29 07:21:05.784319,2,t,f,2011-04-29 07:21:05.783204
+542,Water Purifier Candle change,2011-08-12,703.0,"",2011-08-12 06:27:18.638658,2011-09-08 04:30:48.021326,2,t,f,2011-09-08 04:30:48.020123
+497,Unfuddle Payment 2011/03,2011-04-11,2251.0,"",2011-04-30 13:51:29.426001,2011-05-02 04:33:56.561992,6,t,f,2011-05-02 04:33:56.560261
+495,Hetzner Payment 2011/03,2011-04-05,7604.3,"",2011-04-30 13:50:03.181523,2011-05-02 04:33:56.567813,6,t,f,2011-05-02 04:33:56.566396
+496,Amazon Payment 2011/03,2011-04-05,13601.0,​,2011-04-30 13:50:44.657524,2011-05-02 04:33:56.573515,6,t,f,2011-05-02 04:33:56.572066
+505,BWSSB bill for April 2011,2011-05-24,3788.0,"",2011-05-24 05:47:13.245474,2011-07-06 13:32:49.883944,2,t,f,2011-07-06 13:32:49.882767
+504,BESCOM bill for the month of April 2011,2011-05-24,1312.0,"",2011-05-24 05:46:49.443846,2011-07-06 13:33:52.514922,2,t,f,2011-07-06 13:33:52.512773
+534,Unfuddle 2011/06,2011-07-08,2257.0,"",2011-07-29 03:58:33.139981,2011-08-06 11:27:29.798504,6,t,f,2011-08-06 11:27:29.796952
+518,Renewal of ashleypis.in jtis.in latlon.in and govcamp.in,2011-06-20,2960.0,​Renewal of ashleypis.in jtis.in latlon.in and govcamp.in,2011-06-20 08:32:02.409325,2011-08-06 11:35:16.298989,7,t,f,2011-08-06 11:35:16.297526
+576,Amazon 2011/10,2011-10-15,3942.0,"",2011-10-28 15:03:57.956178,2011-11-01 16:37:10.165386,6,t,f,2011-11-01 16:37:10.163882
+577,Unfuddle 2011/10,2011-10-10,2507.0,"",2011-10-28 15:04:30.262774,2011-11-01 16:37:10.172509,6,t,f,2011-11-01 16:37:10.171043
+575,Hetzner 2011/10,2011-10-04,7874.0,"",2011-10-28 15:03:20.616058,2011-11-01 16:37:10.177709,6,t,f,2011-11-01 16:37:10.176317
+588,Amazon 2011/11,2011-11-04,3955.0,"",2011-11-29 06:32:55.799973,2011-12-07 12:52:26.217701,6,t,f,2011-12-07 12:52:26.216393
+566,Tea expenses for Sep '2011,2011-10-04,2515.0,"",2011-10-04 07:59:01.747246,2011-11-01 16:38:35.957425,2,t,f,2011-11-01 16:38:35.956165
+564,Maid Salary for September 2011,2011-10-04,2750.0,"",2011-10-04 07:57:06.275864,2011-11-01 16:38:35.961824,2,t,f,2011-11-01 16:38:35.960621
+565,Gardener Salary for Sep '2011,2011-10-04,1000.0,"",2011-10-04 07:57:30.680591,2011-11-01 16:38:35.966471,2,t,f,2011-11-01 16:38:35.965274
+555,Utilities for Office,2011-09-12,580.0,​,2011-09-12 11:03:46.788344,2011-11-01 16:38:35.989979,2,t,f,2011-11-01 16:38:35.988785
+587,Hetzner 2011/11,2011-11-03,8192.0,"",2011-11-29 06:32:11.815524,2011-12-07 12:52:26.223069,6,t,f,2011-12-07 12:52:26.221685
+591,Gardener's Salary for Nov 2011,2011-12-05,1500.0,"",2011-12-05 05:13:30.815243,2011-12-07 12:51:25.429505,2,t,f,2011-12-07 12:51:25.427989
+592,Tea expenses for Nov 2011,2011-12-05,1995.0,"",2011-12-05 05:14:10.150805,2011-12-07 12:51:25.43502,2,t,f,2011-12-07 12:51:25.433707
+593,Maid's Salary for Nov 2011,2011-12-05,4000.0,"",2011-12-05 05:14:48.840945,2011-12-07 12:51:25.440118,2,t,f,2011-12-07 12:51:25.438832
+590,BSNL Bill for Oct 2011,2011-12-02,10126.0,"",2011-12-02 11:31:14.355809,2011-12-07 12:51:25.445155,2,t,f,2011-12-07 12:51:25.443861
+589,Unfuddle 2011/11,2011-11-08,2547.5,"",2011-11-29 06:33:34.017832,2011-12-07 12:52:26.207333,6,t,f,2011-12-07 12:52:26.205779
+585,Dell Vostro 1450 2nd Gen Ci3/4GB/500GB laptop,2011-11-21,31254.0,"<span style=""background-color: rgba(255, 255, 255, 0.917969); font-size: 12px;""><font face=""tahoma, arial, helvetica, sans-serif"">Item ordered from Flipkart. Order </font></span><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">ID: OD11115190017</span><div><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Items Ordered:</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Dell Vostro 1450 2nd Gen Ci3/ 4GB/ 500GB Laptop (Black)(Free Dell Branded Backpack &amp; 1 Year Complete Cover Accidental Damage Protection ) (1 qty) -&nbsp;</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Total Amount Paid ON Delivery: Rs. 31,254</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Delivery Address:</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Anand Yadwad</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">#11, 8A Block, Nandi Gardens, JP Nagar 9th Phase,</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Bengaluru - 560062</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Karnataka</span><br style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); "">Phone: 9880244380</span></div>",2011-11-28 07:01:39.270244,2011-12-07 12:53:39.454066,23,t,f,2011-12-07 12:53:39.452839
+586,LCD Display of my Laptop,2011-11-25,6200.0,​,2011-11-28 19:35:37.421275,2011-12-07 12:55:09.235112,12,t,f,2011-12-07 12:55:09.233352
+584,Slicehost,2011-09-20,3515.0,​Slicehost 3515,2011-11-27 12:58:13.607836,2011-12-07 12:55:58.898157,4,t,f,2011-12-07 12:55:58.896949
+602,Unfuddle 2011/12,2011-12-08,2661.0,"",2011-12-31 05:09:15.48764,2012-02-07 05:57:42.887156,6,t,f,2012-02-07 05:57:42.886013
+600,Hetzner 2011/12,2011-12-06,8304.0,"",2011-12-31 05:08:00.478471,2012-02-07 05:57:42.895425,6,t,f,2012-02-07 05:57:42.894268
+601,Amazon 2011/12,2011-12-06,4157.0,"",2011-12-31 05:08:29.827382,2012-02-07 05:57:42.903703,6,t,f,2012-02-07 05:57:42.902567
+604,Tea expenses for the month of Dec 2011,2011-12-30,2097.0,"",2012-01-04 05:09:19.143884,2012-02-07 05:59:35.167846,2,t,f,2012-02-07 05:59:35.166606
+599,BSNL Bill for November 2011,2011-12-20,10126.0,"",2011-12-21 06:01:29.859578,2012-02-07 05:59:35.175826,2,t,f,2012-02-07 05:59:35.174312
+595,BWSSB bill for the month of Nov 2011,2011-12-16,1435.0,"",2011-12-16 08:09:02.52815,2012-02-07 05:59:35.181445,2,t,f,2012-02-07 05:59:35.18021
+596,BESCOM Bill for November 2011,2011-12-16,1202.0,​,2011-12-16 08:12:31.306233,2012-02-07 05:59:35.192371,2,t,f,2012-02-07 05:59:35.190907
+597,Printer Cartridges,2011-12-19,850.0,​One black and one color. Rs. 425 each. cartridge model - 703.,2011-12-19 09:31:04.231213,2012-02-07 06:05:12.130739,4,t,f,2012-02-07 06:05:12.12962
+605,Maid salary for Dec 2011,2012-01-03,4000.0,"",2012-01-04 05:09:35.140779,2012-02-07 05:59:35.158131,2,t,f,2012-02-07 05:59:35.156909
+598,Slicehost,2011-11-18,3725.0,​slicehost.&nbsp;,2011-12-20 05:23:11.383903,2012-02-07 06:05:16.80628,4,t,f,2012-02-07 06:05:16.80466
+615,Unfuddle 2012/01,2012-01-08,2687.0,"",2012-01-29 04:24:11.779187,2012-02-07 05:57:42.854919,6,t,f,2012-02-07 05:57:42.853356
+613,Amazon 2012/01,2012-01-03,4382.0,"",2012-01-29 04:23:10.166735,2012-02-07 05:57:42.860295,6,t,f,2012-02-07 05:57:42.858944
+614,Hetzner 2012/01,2012-01-03,8376.0,"",2012-01-29 04:23:40.363888,2012-02-07 05:57:42.870337,6,t,f,2012-02-07 05:57:42.868991
+603,Laptop Service ,2011-12-20,1400.0,​Keyboard replacement of Lenovo G3000 Laptop,2011-12-31 05:10:56.303274,2012-02-07 05:57:42.878528,6,t,f,2012-02-07 05:57:42.877201
+619,Tea expenses for the month of Jan 2012,2012-02-02,1841.0,"",2012-02-02 10:14:59.539602,2012-02-07 05:59:27.537222,2,t,f,2012-02-07 05:59:27.532786
+623,Loan to Gayatri,2012-02-13,20000.0,​We have to deduct 2K every month from her salary starting from March 1st. <br>,2012-02-13 16:53:17.522258,2012-10-24 16:00:01.242637,2,t,f,2012-10-24 16:00:01.241268
+610,BESCOM Bill for Dec 2011,2012-01-18,1268.0,​,2012-01-18 06:18:40.457975,2012-02-07 05:59:35.144068,2,t,f,2012-02-07 05:59:35.142756
+612,BWSSB bill for Dec 2011,2012-01-18,6172.0,"",2012-01-18 06:20:32.123778,2012-02-07 05:59:35.148553,2,t,f,2012-02-07 05:59:35.147335
+611,BSNL bill for Dec 2011,2012-01-18,10310.0,"",2012-01-18 06:19:29.100894,2012-02-07 05:59:35.152858,2,t,f,2012-02-07 05:59:35.15166
+606,Gardener Salary for Dec 2011,2012-01-02,1500.0,"",2012-01-04 05:09:54.754561,2012-02-07 05:59:35.162503,2,t,f,2012-02-07 05:59:35.161298
+618,visas for trips,2012-01-18,17500.0,"US visa and travel to get it 17,500<br>",2012-02-01 13:04:28.824817,2012-02-07 06:03:22.160031,3,t,f,2012-02-07 06:03:22.158744
+594,"Visa charges for SME, Metropolis trip",2011-12-08,18500.0,​invoice from Susheel Travels in email<br>,2011-12-07 12:56:58.797998,2012-02-07 06:03:22.164341,3,t,f,2012-02-07 06:03:22.16323
+607,slicehost,2011-12-18,3834.0,​slicehost,2012-01-09 03:16:12.95561,2012-02-07 06:05:12.137165,4,t,f,2012-02-07 06:05:12.135806
+616,renewal of ktis.in and ptis.in,2012-01-30,1627.0,​,2012-01-30 09:54:50.804209,2012-02-07 06:08:01.39844,7,t,f,2012-02-07 06:08:01.397025
+709,Tea expenses for Aug 2012,2012-09-03,2884.0,"",2012-09-04 05:47:52.238473,2012-10-24 15:59:24.249197,2,t,f,2012-10-24 15:59:24.248323
+708,Gardener salary for Aug 2012,2012-09-03,1500.0,"",2012-09-04 05:47:01.481812,2012-10-24 15:59:24.252161,2,t,f,2012-10-24 15:59:24.251382
+609,renewal of domain names,2012-01-15,6204.5,"<table align=""center"" border=""0"" cellpadding=""0"" cellspacing=""0"" width=""95%"" valign=""top"" style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); ""><tbody><tr valign=""center"" cellspacing=""0""><td align=""center"" bgcolor=""#2379A5"" width=""10"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><b><font face=""verdana,arial,helvetica"" color=""#FFFFFF"" size=""1"">Id</font></b></td><td align=""center"" bgcolor=""#2379A5"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><b><font face=""verdana,arial,helvetica"" color=""#FFFFFF"" size=""1"">Amount (USD)</font></b></td><td align=""center"" bgcolor=""#2379A5"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><b><font face=""verdana,arial,helvetica"" color=""#FFFFFF"" size=""1"">Pending Amount (USD)</font></b></td><td align=""center"" bgcolor=""#2379A5"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><b><font face=""verdana,arial,helvetica"" color=""#FFFFFF"" size=""1"">Description</font></b></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575098</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">16.50</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://mysoretransport.in/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">mysoretransport.in</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575097</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">16.50</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://abidebangalore.in/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">abidebangalore.in</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575095</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">16.50</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://mtis.in/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">mtis.in</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575094</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">16.50</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://groupvote.in/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">groupvote.in</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575093</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">10.70</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://abidebangalore.com/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">abidebangalore.com</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575102</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">16.50</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://abidebengaluru.in/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">abidebengaluru.in</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575092</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">16.50</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://livetraffic.in/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">livetraffic.in</a>&nbsp;for 1 year</font></td></tr><tr><td bgcolor=""#e5e5e5"" colspan=""13"" height=""1"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><p align=""left""><font face=""arial,verdana,helvetica"" size=""2""></font></p></td></tr><tr height=""18""><td style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">28575100</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">10.70</font></td><td align=""right"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">0.00</font></td><td align=""center"" style=""margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ""><font face=""arial,verdana,helvetica"" size=""2"">Renewal of&nbsp;<a href=""http://abidebengaluru.com/"" target=""_blank"" style=""color: rgb(17, 85, 204); "">abidebengaluru.com</a>&nbsp;for 1 year</font></td></tr></tbody></table>",2012-01-11 17:16:30.093894,2012-02-07 06:08:01.402891,7,t,f,2012-02-07 06:08:01.401648
+617,Laptop repair,2012-01-27,660.0,​,2012-01-30 10:13:51.197386,2012-02-07 06:09:00.740257,5,t,f,2012-02-07 06:09:00.739105
+656,Amazon 2012/04,2012-04-04,3916.0,"",2012-04-28 08:58:49.086357,2012-05-04 01:34:16.283085,6,t,f,2012-05-04 01:34:16.282008
+655,Hetzner 2012/04,2012-04-03,8182.0,"",2012-04-28 08:58:05.774687,2012-05-04 01:34:16.286317,6,t,f,2012-05-04 01:34:16.285435
+645,Spike Buster,2012-03-23,505.0,"",2012-03-27 07:02:02.379506,2012-05-04 01:34:16.289236,6,t,f,2012-05-04 01:34:16.288373
+644,Unfuddle 2012/03,2012-03-08,2545.0,"",2012-03-27 07:01:20.463738,2012-05-04 01:34:16.305129,6,t,f,2012-05-04 01:34:16.303814
+643,Hetzner 2012/03,2012-03-05,7955.0,"",2012-03-27 07:00:56.906296,2012-05-04 01:34:16.3084,6,t,f,2012-05-04 01:34:16.307419
+642,Amazon 2012/03,2012-03-04,3782.0,"",2012-03-27 06:59:45.749399,2012-05-04 01:34:16.31134,6,t,f,2012-05-04 01:34:16.310484
+631,Sony VAIO Laptop,2012-02-29,35864.0,​model code: VPCEH25EN/B/W,2012-02-29 09:20:40.887367,2012-05-04 01:34:16.314895,6,t,f,2012-05-04 01:34:16.313925
+634,Unfuddle 2012/02,2012-02-08,2517.0,"",2012-02-29 09:26:12.778168,2012-05-04 01:34:16.31822,6,t,f,2012-05-04 01:34:16.317364
+633,Amazon 2012/02,2012-02-04,4041.0,"",2012-02-29 09:25:37.64035,2012-05-04 01:34:16.321617,6,t,f,2012-05-04 01:34:16.32055
+632,Hetzner 2012/02,2012-02-02,7811.0,"",2012-02-29 09:24:57.313255,2012-05-04 01:34:16.324942,6,t,f,2012-05-04 01:34:16.323848
+640,bangaloreimagined domains,2012-03-02,598.0,Booked for one year.<div>bangaloreimagined.com</div><div>bangaloreimagined.in</div>,2012-03-08 10:53:57.454431,2012-05-04 01:36:26.84386,4,t,f,2012-05-04 01:36:26.843004
+657,Unfuddle 2012/04,2012-04-08,2613.0,"",2012-04-28 08:59:28.136089,2012-05-04 01:34:16.278683,6,t,f,2012-05-04 01:34:16.277777
+635,Laptop,2012-02-29,35990.0,​Laptop for Ari.<div>Lenovo.</div>,2012-02-29 19:36:25.15899,2012-05-04 01:36:26.84675,4,t,f,2012-05-04 01:36:26.845913
+630,mobileforms.in domain renewal,2012-02-26,499.0,​domain renewal through BigRock,2012-02-26 06:45:18.456535,2012-05-04 01:36:26.84955,4,t,f,2012-05-04 01:36:26.848722
+627,slicehost,2012-02-18,3589.0,slicehost,2012-02-22 10:33:36.969744,2012-05-04 01:36:26.852444,4,t,f,2012-05-04 01:36:26.851616
+626,Slicehost,2012-01-18,3649.0,​slicehost,2012-02-22 10:32:52.105059,2012-05-04 01:36:26.85538,4,t,f,2012-05-04 01:36:26.854557
+653,BWSSB bill for March 2012,2012-04-18,927.0,"",2012-04-20 05:18:08.328874,2012-10-24 15:59:52.565481,2,t,f,2012-10-24 15:59:52.564401
+654,slicehost ,2012-03-18,3653.0,​slicehost vps,2012-04-26 02:30:59.664737,2012-05-04 01:36:26.837779,4,t,f,2012-05-04 01:36:26.836179
+651,Belkin Wired Mouse - 2 Qty,2012-03-13,798.0,​Bought 2 wired Mouses for 399/- each,2012-04-03 12:56:18.362342,2012-07-06 01:31:50.006246,23,t,f,2012-07-06 01:31:50.005219
+660,Gardener salary for the month of April 2012,2012-05-02,1500.0,"",2012-05-02 10:49:35.562062,2012-10-24 15:59:52.561494,2,t,f,2012-10-24 15:59:52.55983
+658,Maid salary for the month of April 2012,2012-05-02,2000.0,"",2012-05-02 10:48:23.044466,2012-10-24 15:59:52.528628,2,t,f,2012-10-24 15:59:52.527608
+652,BESCOM bill for March 2012,2012-04-17,1825.0,"",2012-04-20 05:16:02.534428,2012-10-24 16:00:01.193687,2,t,f,2012-10-24 16:00:01.192384
+659,Tea expenses for the month of April 2012,2012-05-02,2310.0,"",2012-05-02 10:49:09.96393,2012-10-24 15:59:52.525403,2,t,f,2012-10-24 15:59:52.5244
+650,Gardener Salary for March 2012,2012-04-03,1500.0,"",2012-04-03 10:23:01.433824,2012-10-24 16:00:01.197915,2,t,f,2012-10-24 16:00:01.196824
+649,Maid Salary for the month of March 2012,2012-04-03,2000.0,Deducted 2000 towards the EMI for the loan​,2012-04-03 10:22:33.084772,2012-10-24 16:00:01.201518,2,t,f,2012-10-24 16:00:01.200543
+648,Tea expenses for March 2012,2012-04-03,2345.0,"",2012-04-03 08:04:09.023076,2012-10-24 16:00:01.204683,2,t,f,2012-10-24 16:00:01.203778
+646,BESCOM bill for Feb 2012,2012-03-23,1385.0,"",2012-04-03 07:32:51.948545,2012-10-24 16:00:01.20774,2,t,f,2012-10-24 16:00:01.206724
+647,BWSSB bill for the month of Feb 2012,2012-03-23,2057.0,"",2012-04-03 07:39:04.768128,2012-10-24 16:00:01.211022,2,t,f,2012-10-24 16:00:01.209897
+637,Maid salary for Feb 2012,2012-03-02,2000.0,Deducting 2000.00 from this month's salary payment towards the EMI for the loan.<br>,2012-03-02 10:42:47.677689,2012-10-24 16:00:01.215146,2,t,f,2012-10-24 16:00:01.214086
+636,Gardener Salary for Feb 2012,2012-03-02,1500.0,​,2012-03-02 10:41:17.169009,2012-10-24 16:00:01.21864,2,t,f,2012-10-24 16:00:01.217693
+638,Tea expenses for Feb 2012,2012-03-02,1911.0,"",2012-03-02 10:43:14.378192,2012-10-24 16:00:01.222905,2,t,f,2012-10-24 16:00:01.221928
+628,BSNL Bill for Month of Jan 2012,2012-02-22,10126.0,​,2012-02-25 05:41:26.584785,2012-10-24 16:00:01.22653,2,t,f,2012-10-24 16:00:01.22554
+625,BESCOM bill for Jan 2012,2012-02-16,1268.0,​1110 + 158<br>,2012-02-18 07:11:38.239705,2012-10-24 16:00:01.230596,2,t,f,2012-10-24 16:00:01.229581
+624,BWSSB bill for Jan 2012,2012-02-16,3494.0,"",2012-02-18 07:10:13.155471,2012-10-24 16:00:01.234385,2,t,f,2012-10-24 16:00:01.233415
+622,Utilities for office,2012-02-13,775.0,​<br>,2012-02-13 16:52:08.461394,2012-10-24 16:00:01.238295,2,t,f,2012-10-24 16:00:01.237321
+621,Maid Salary for Jan 2012,2012-02-07,4000.0,"",2012-02-07 07:56:35.523037,2012-10-24 16:00:08.253559,2,t,f,2012-10-24 16:00:08.252679
+620,Gardener Salary for Jan 2012,2012-02-07,1500.0,"",2012-02-07 07:56:15.190174,2012-10-24 16:00:08.249904,2,t,f,2012-10-24 16:00:08.24873
+629,Renewal of dreamhost account for an year $119,2012-02-25,6036.0,​Dreamhost is used as a DNS server for many of our domains and its also used to host the urbanaffairs.in domain.&nbsp;,2012-02-25 10:15:36.9669,2012-10-24 16:02:19.246281,7,t,f,2012-10-24 16:02:19.24529
+639,Ari Laptop Extended Warranty,2012-03-04,1572.0,​Reliance ResQ plan. Valid one year after manufacturer warranty.&nbsp;<div>Expires Feb 28 2014.</div>,2012-03-07 13:12:26.308209,2012-05-04 01:36:26.841143,4,t,f,2012-05-04 01:36:26.840293
+641,Bicycle purchase,2012-03-07,12500.0,"Purchased from GEARS 'N' FORCE, #1459, 38th Cross, 11th Main, 4th 'T' Block, Jayanagar, Bangalore-560 041 on 7th March 2012.<br><br>Details:<br><br>​1. Rebellio 619 6 speed 26, quantity 2, plus bells and chain lock - INR 11905<br>2. VAT - INR 595<br><br>Total - INR 12500<br>",2012-03-08 12:24:57.329272,2012-07-06 01:31:50.00943,23,t,f,2012-07-06 01:31:50.008599
+669,Unfuddle 2012/05,2012-05-09,2739.0,"",2012-05-28 16:38:08.927952,2012-09-03 16:00:53.26775,6,t,f,2012-09-03 16:00:53.266966
+668,Amazon 2012/05,2012-05-04,4288.0,"",2012-05-28 16:37:27.770083,2012-09-03 16:00:53.270367,6,t,f,2012-09-03 16:00:53.269572
+667,Hetzner 2012/05,2012-05-03,8479.0,"",2012-05-28 16:36:45.743826,2012-09-03 16:00:53.273031,6,t,f,2012-09-03 16:00:53.272233
+702,Trip to Devanahalli Airport to meet Arvind (Retina India),2012-08-12,330.0,"Airport bus from Shanti nagar, 1 way ticket 165 /-<div><br></div><div>165 x 2 = 330.</div>",2012-08-21 15:09:46.04296,2012-11-20 16:28:39.318022,12,t,f,2012-11-20 16:28:39.316769
+707,Unfuddle 2012/08,2012-08-09,2814.0,"",2012-08-30 06:26:55.155865,2012-09-03 16:00:53.22403,6,t,f,2012-09-03 16:00:53.222958
+706,Amazon 2012/08,2012-08-03,4532.0,"",2012-08-30 06:06:07.067607,2012-09-03 16:00:53.230098,6,t,f,2012-09-03 16:00:53.229101
+705,hetzner 2012/08,2012-08-02,8247.0,"",2012-08-30 06:05:01.190842,2012-09-03 16:00:53.241232,6,t,f,2012-09-03 16:00:53.240246
+693,Unfuddle 2012/07,2012-07-09,2851.0,"",2012-07-31 05:04:30.803514,2012-09-03 16:00:53.25131,6,t,f,2012-09-03 16:00:53.25023
+691,hetzner 2012/07,2012-07-03,8423.0,"",2012-07-31 05:03:30.178858,2012-09-03 16:00:53.254134,6,t,f,2012-09-03 16:00:53.253332
+692,Amazon 2012/07,2012-07-03,4359.0,"",2012-07-31 05:04:03.225988,2012-09-03 16:00:53.257162,6,t,f,2012-09-03 16:00:53.256319
+683,Unfuddle 2012/06,2012-06-09,2829.0,"",2012-06-28 07:23:05.548865,2012-09-03 16:00:53.25989,6,t,f,2012-09-03 16:00:53.259066
+682,Amazon 2012/06,2012-06-04,4565.0,"",2012-06-28 07:22:35.920839,2012-09-03 16:00:53.262442,6,t,f,2012-09-03 16:00:53.261643
+681,Hetzner 2012/06,2012-06-04,8379.0,"",2012-06-28 07:22:06.493021,2012-09-03 16:00:53.265067,6,t,f,2012-09-03 16:00:53.264257
+720,Hetzner 2012/09,2012-09-04,8469.0,"",2012-10-07 03:41:29.020915,2012-10-24 15:57:54.126902,6,t,f,2012-10-24 15:57:54.126077
+717,Tea expenses for the month of Sep 2012,2012-10-05,2646.0,"",2012-10-05 06:03:48.36384,2012-10-24 15:59:24.237617,2,t,f,2012-10-24 15:59:24.236831
+719,Gardener salary for Sep 2012,2012-10-05,1500.0,"",2012-10-05 06:04:22.511833,2012-10-24 15:59:24.240476,2,t,f,2012-10-24 15:59:24.239705
+718,Maid salary for Sep 2012,2012-10-05,2000.0,"",2012-10-05 06:04:07.030678,2012-10-24 15:59:24.243309,2,t,f,2012-10-24 15:59:24.242521
+711,Maid Salary for the month of Aug 2012,2012-09-06,2000.0,"",2012-09-06 10:36:55.404853,2012-10-24 15:59:24.246162,2,t,f,2012-10-24 15:59:24.245382
+703,BESCOM bill payment for July 2012,2012-08-24,1070.0,"",2012-08-26 17:16:54.968574,2012-10-24 15:59:24.256896,2,t,f,2012-10-24 15:59:24.255383
+704,BWSSB bill payment for July 2012,2012-08-24,735.0,"",2012-08-26 17:17:24.393273,2012-10-24 15:59:24.261042,2,t,f,2012-10-24 15:59:24.260111
+699,Utilities for office,2012-08-07,500.0,"",2012-08-08 09:40:05.813425,2012-10-24 15:59:24.264155,2,t,f,2012-10-24 15:59:24.263305
+698,Maid salary for the month of July 2012,2012-08-07,2000.0,"",2012-08-08 09:39:45.08968,2012-10-24 15:59:24.267359,2,t,f,2012-10-24 15:59:24.266349
+697,Tea expenses for the month of July 2012,2012-08-06,2163.0,"",2012-08-06 09:10:48.021227,2012-10-24 15:59:24.270852,2,t,f,2012-10-24 15:59:24.270071
+696,Gardener Salary for the month of July 2012,2012-08-03,1500.0,"",2012-08-06 09:10:17.194087,2012-10-24 15:59:24.275194,2,t,f,2012-10-24 15:59:24.273493
+685,Gardener Salary for the month of June 2012,2012-07-03,1500.0,"",2012-07-04 10:28:42.768142,2012-10-24 15:59:30.909838,2,t,f,2012-10-24 15:59:30.908596
+694,BESCOM & BWSSB bill for June 2012,2012-07-29,2309.0,"",2012-07-31 06:30:13.618283,2012-10-24 15:59:30.905336,2,t,f,2012-10-24 15:59:30.903432
+687,Tea expenses for the month of June 2012,2012-07-03,3374.0,"",2012-07-04 10:29:29.308395,2012-10-24 15:59:31.063845,2,t,f,2012-10-24 15:59:31.062571
+684,Maid Salary for the month of June 2012,2012-07-03,2000.0,"",2012-07-04 10:28:24.813363,2012-10-24 15:59:31.068174,2,t,f,2012-10-24 15:59:31.066728
+680,Rubber stamps ,2012-06-27,1350.0,"",2012-06-27 12:29:38.389938,2012-10-24 15:59:31.080587,2,t,f,2012-10-24 15:59:31.079347
+676,BWSSB bill for May 2012,2012-06-13,1185.0,"",2012-06-13 06:41:52.765701,2012-10-24 15:59:52.487931,2,t,f,2012-10-24 15:59:52.486939
+675,BESCOM bill for May 2012,2012-06-13,2415.0,"",2012-06-13 06:41:00.217103,2012-10-24 15:59:52.490836,2,t,f,2012-10-24 15:59:52.49
+670,Tea Expenses for May 2012,2012-06-04,3870.0,​3800 - Bill attached<br>70 - One day coffee ordered through Gayatri<br>,2012-06-04 06:31:42.063141,2012-10-24 15:59:52.501835,2,t,f,2012-10-24 15:59:52.500605
+672,Maid salary for May 2012,2012-06-01,2000.0,"",2012-06-04 06:32:41.51946,2012-10-24 15:59:52.505059,2,t,f,2012-10-24 15:59:52.504209
+671,Gardener salary for May 2012,2012-06-01,1500.0,"",2012-06-04 06:32:18.666502,2012-10-24 15:59:52.508145,2,t,f,2012-10-24 15:59:52.507152
+666,Bringing down coconuts from the Tree,2012-05-23,300.0,"",2012-05-23 10:52:09.278381,2012-10-24 15:59:52.51219,2,t,f,2012-10-24 15:59:52.51075
+664,BWSSB bill for April 2012,2012-05-18,1362.0,"",2012-05-21 06:06:54.991417,2012-10-24 15:59:52.515525,2,t,f,2012-10-24 15:59:52.514504
+713,slicehost,2012-07-18,4011.0,​slicehost,2012-09-17 04:41:20.427221,2012-10-24 16:01:09.843804,4,t,f,2012-10-24 16:01:09.842996
+665,BESCOM bill for April 2012,2012-05-18,1913.0,"",2012-05-21 06:08:33.092762,2012-10-24 15:59:52.522274,2,t,f,2012-10-24 15:59:52.52127
+677,Utilities for office,2012-06-13,545.0,"",2012-06-13 09:13:25.425404,2012-10-24 15:59:52.484298,2,t,f,2012-10-24 15:59:52.483182
+663,Water Purifier candle replacement,2012-05-18,703.0,"",2012-05-21 05:42:43.299116,2012-10-24 15:59:52.518906,2,t,f,2012-10-24 15:59:52.517856
+679,Color Cartridge for Printer,2012-06-25,449.0,"",2012-06-25 07:56:32.582851,2012-10-24 15:59:52.48012,2,t,f,2012-10-24 15:59:52.478407
+690,Slicehost,2012-06-18,4068.0,​slicehost vps,2012-07-19 05:56:50.125499,2012-10-24 16:01:09.846471,4,t,f,2012-10-24 16:01:09.845659
+678,Slicehost fees,2012-05-18,3957.0,​slicehost,2012-06-20 04:16:06.241137,2012-10-24 16:01:09.849787,4,t,f,2012-10-24 16:01:09.848569
+674,slicehost,2012-04-18,3788.0,slicehost,2012-06-05 06:04:11.883821,2012-10-24 16:01:09.855845,4,t,f,2012-10-24 16:01:09.855061
+689,renewal of htis.in,2012-07-16,712.48,​,2012-07-16 16:52:23.741503,2012-10-24 16:02:19.242829,7,t,f,2012-10-24 16:02:19.241976
+695,nwmindia.org domain renewal,2012-08-01,673.0,​nwmindia.org domain name renewed for one more year.,2012-08-01 08:55:16.042909,2012-10-24 16:01:09.841056,4,t,f,2012-10-24 16:01:09.84009
+716,Mapunity name board in Kannada,2012-09-24,1350.0,"​Mapunity name board in Kannada<br>Size: 24"" x 15"" on a glass etching, coloring and fixing.<br>Vendor: Asian Art Glass, #7, 24th Main, JP Nagar 5th phase, Bangalore-560078<br>",2012-10-03 06:43:11.916324,2012-10-24 16:04:00.643671,23,t,f,2012-10-24 16:04:00.642669
+688,Compaq Presario V3000 Laptop servicing,2012-07-06,550.0,​Compaq Presario V3000 Laptop servicing. Fedora OS installed and the networking/WIFI problem solved.<br>,2012-07-09 13:10:54.944151,2012-10-24 16:04:00.646581,23,t,f,2012-10-24 16:04:00.645836
+715,Mumbai trip for Seshpath inauguration,2012-09-26,2500.0,"",2012-10-01 05:19:07.100875,2012-11-20 16:28:39.308386,12,t,f,2012-11-20 16:28:39.307491
+714,Heroku invoice,2012-09-07,1945.74,​,2012-10-01 05:17:29.561386,2012-11-20 16:28:39.311335,12,t,f,2012-11-20 16:28:39.310547
+700,"Trip to Banyan, Chennai for feedback / testing ",2012-05-21,2000.0,"​Attaching one way ticket.&nbsp;615 x 2 = 1230, and I had spent about local transport / food for three days.&nbsp;",2012-08-21 15:03:44.539882,2012-11-20 16:28:39.32167,12,t,f,2012-11-20 16:28:39.320684
+712,Scanning of Jayanagr Layout Blue Print ,2012-09-05,300.0,​Scanning of Jayanagr Layout Blue Print to be digitized by Sky Group<br>,2012-09-10 09:45:51.037546,2012-11-20 16:31:50.950625,25,t,f,2012-11-20 16:31:50.949526
+722,Unfuddle 2012/09,2012-09-09,2834.0,"",2012-10-07 03:43:23.434785,2012-10-24 15:57:54.12344,6,t,f,2012-10-24 15:57:54.122294
+721,Amazon 2012/09,2012-09-04,4502.0,"",2012-10-07 03:42:44.423189,2012-10-24 15:57:54.129846,6,t,f,2012-10-24 15:57:54.129005
+724,Airtel 4G intenert bill from 22nd June 2012 to 25th Sep 2012,2012-10-13,11000.0,"",2012-10-13 15:17:59.585327,2012-10-24 15:59:24.231987,2,t,f,2012-10-24 15:59:24.230942
+723,Utilities for Office,2012-10-08,622.0,"",2012-10-08 05:34:55.023147,2012-10-24 15:59:24.234918,2,t,f,2012-10-24 15:59:24.234138
+686,Mamatha's Salary for the month of June 2012,2012-06-28,5500.0,"",2012-07-04 10:29:10.238472,2012-10-24 15:59:31.071802,2,t,f,2012-10-24 15:59:31.070721
+661,Domains for imaginebangalore,2012-05-08,897.0,​imaginebangalore.in<div>imaginebangalore.com</div><div>imaginebangalore.org</div><div>Domains bought through bigrock.in</div>,2012-05-08 11:50:48.549981,2012-10-24 16:01:09.853322,4,t,f,2012-10-24 16:01:09.852465
+740,extra day in UK,2012-11-19,18000.0,​,2012-11-19 03:01:49.549524,2012-11-19 03:04:48.633969,3,t,f,2012-11-19 03:04:48.632974
+739,UK visa,2012-11-14,7400.0,"",2012-11-19 03:00:30.570512,2012-11-19 03:04:48.636887,3,t,f,2012-11-19 03:04:48.636102
+738,Aslam faewell dinner,2012-11-08,4000.0,"",2012-11-19 03:00:08.81238,2012-11-19 03:04:48.639652,3,t,f,2012-11-19 03:04:48.638799
+732,Mapunity.com domain renewal,2012-11-04,6000.0,​auto-renewed by Netsol<br>,2012-11-04 13:38:05.111666,2012-11-19 03:04:48.642336,3,t,f,2012-11-19 03:04:48.641551
+741,Manushi event part travel cost,2012-10-24,25000.0,"",2012-11-19 03:02:28.712378,2012-11-19 03:04:48.645042,3,t,f,2012-11-19 03:04:48.64425
+743,slicehost,2012-09-18,3931.0,slicehost,2012-11-20 04:58:05.253634,2012-11-20 16:25:29.509767,4,t,f,2012-11-20 16:25:29.508635
+742,Slicehost,2012-08-18,4048.0,​slicehost,2012-11-20 04:57:08.53038,2012-11-20 16:25:29.512916,4,t,f,2012-11-20 16:25:29.512025
+725,Interest Charges,2012-10-23,1715.0,​Interest Charges for non-paymen,2012-10-25 06:00:01.688664,2012-11-20 16:27:35.304458,6,t,f,2012-11-20 16:27:35.303509
+727,Hetzner Upgrade 2012/10,2012-10-16,5928.0,"Upgraded both hetzner servers to 24GM RAM, This amount was paid as one time setup fee.",2012-10-25 06:02:10.191044,2012-11-20 16:27:35.307405,6,t,f,2012-11-20 16:27:35.306611
+729,Unfuddle 2912/10,2012-10-09,2685.0,"",2012-10-25 06:04:14.110262,2012-11-20 16:27:35.311127,6,t,f,2012-11-20 16:27:35.310104
+728,Amazon 2012/10,2012-10-05,4019.0,"",2012-10-25 06:03:27.18222,2012-11-20 16:27:35.313981,6,t,f,2012-11-20 16:27:35.313155
+726,Hetzner 2012/10,2012-10-02,8283.0,"",2012-10-25 06:00:54.911988,2012-11-20 16:27:35.316766,6,t,f,2012-11-20 16:27:35.315949
+701,Dyno hours on Heroku for Retina India,2012-08-16,1492.09,"Had to enable background processing ( like, email sending, rake tasks ) service on Heroku to test and demonstrate for Retina India. The worker ran for about 72 hours costing&nbsp;<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255); "">$26.87.</span>",2012-08-21 15:07:54.808709,2012-11-20 16:28:39.314149,12,t,f,2012-11-20 16:28:39.31337
+737,Airtel 4G bill for October 2012,2012-11-13,2693.0,"",2012-11-13 13:28:13.36444,2012-11-20 16:30:07.132086,2,t,f,2012-11-20 16:30:07.131028
+736,Maid's Salary for Oct 2012,2012-11-06,2000.0,"",2012-11-06 10:43:29.215168,2012-11-20 16:30:07.135026,2,t,f,2012-11-20 16:30:07.134245
+734,Tea expenses for Oct 2012,2012-11-05,1792.0,"",2012-11-06 10:42:58.631814,2012-11-20 16:30:07.137726,2,t,f,2012-11-20 16:30:07.136938
+735,Gardener Salary for Oct 2012,2012-11-05,1500.0,"",2012-11-06 10:43:14.050279,2012-11-20 16:30:07.140479,2,t,f,2012-11-20 16:30:07.139692
+731,Printing paper and envelopes,2012-10-31,188.0,"",2012-10-31 10:05:31.177793,2012-11-20 16:30:07.143202,2,t,f,2012-11-20 16:30:07.142383
+733,Coconut Labour & some office supplies,2012-11-06,300.0,​,2012-11-06 07:46:02.448173,2012-11-20 16:31:50.942111,22,t,f,2012-11-20 16:31:50.941216
+730,Duplicate keys ,2012-10-30,180.0,​,2012-10-30 07:19:31.645919,2012-11-20 16:31:50.946285,26,t,f,2012-11-20 16:31:50.945429
+771,Interest and Service Charges,2013-01-23,2022.0,"",2013-01-30 03:42:57.590238,2013-03-14 03:04:51.704949,6,t,f,2013-03-14 03:04:51.704057
+770,Unfuddle 2013/01,2013-01-07,2806.0,"",2013-01-30 03:42:11.037807,2013-03-14 03:04:51.707837,6,t,f,2013-03-14 03:04:51.707055
+769,Amazon 2013/01,2013-01-04,3706.0,"",2013-01-30 03:41:37.129843,2013-03-14 03:04:51.710736,6,t,f,2013-03-14 03:04:51.709968
+757,Unfuddle 2012/12,2012-12-09,2778.0,"",2012-12-29 04:21:58.05859,2013-03-14 03:05:02.21094,6,t,f,2013-03-14 03:05:02.210035
+755,Amazon 2012/12,2012-12-03,3678.0,"",2012-12-29 04:20:52.753695,2013-03-14 03:05:02.217239,6,t,f,2013-03-14 03:05:02.216381
+751,Interest and services charges for late payment,2012-11-23,1393.0,​,2012-12-09 01:43:07.663111,2013-03-14 03:05:02.220387,6,t,f,2013-03-14 03:05:02.219539
+746,Unfuddle 2012/11,2012-11-09,2789.0,"",2012-11-30 09:32:27.727386,2013-03-14 03:05:02.223697,6,t,f,2013-03-14 03:05:02.222505
+745,Hetzner 2012/11,2012-11-06,7234.0,"",2012-11-30 09:31:12.553115,2013-03-14 03:05:02.227746,6,t,f,2013-03-14 03:05:02.226557
+764,BSNL bill payment for Dec 2012,2013-01-11,2862.0,"",2013-01-17 06:08:35.653351,2013-03-14 03:06:35.123504,2,t,f,2013-03-14 03:06:35.122683
+768,Hetzner 2012/01,2013-01-03,7408.0,"",2013-01-30 03:41:08.663213,2013-03-14 03:05:02.204348,6,t,f,2013-03-14 03:05:02.203282
+744,Amazon 2012/11,2012-11-03,4292.0,"",2012-11-30 09:30:20.152928,2013-03-14 03:05:12.824768,6,t,f,2013-03-14 03:05:12.823791
+762,Airtel 4G Bill for December 2012,2013-01-11,2845.1,"",2013-01-11 12:03:22.072097,2013-03-14 03:06:35.126408,2,t,f,2013-03-14 03:06:35.125604
+765,BESCOM bill payment (Paid more as an Advance),2013-01-11,10000.0,"",2013-01-17 06:09:42.566814,2013-03-14 03:06:35.129315,2,t,f,2013-03-14 03:06:35.128493
+760,Gardener Salary for Dec 2012,2013-01-03,1500.0,"",2013-01-03 05:20:10.797394,2013-03-14 03:06:35.135825,2,t,f,2013-03-14 03:06:35.134716
+759,Tea expenses for Dec 2012,2013-01-03,2220.0,"",2013-01-03 05:19:53.748768,2013-03-14 03:06:35.138861,2,t,f,2013-03-14 03:06:35.138063
+752,Airtel 4G Bill for Nov 2012,2012-12-13,2888.0,"",2012-12-13 12:16:21.025844,2013-03-14 03:06:35.142299,2,t,f,2013-03-14 03:06:35.141355
+747,Gardener salary for Nov 2012,2012-12-03,1500.0,"",2012-12-03 13:25:24.108202,2013-03-14 03:06:44.612626,2,t,f,2013-03-14 03:06:44.611349
+750,BSNL bill payment for Oct 2012,2012-12-07,10498.0,"",2012-12-07 09:03:17.657842,2013-03-14 03:06:39.75569,2,t,f,2013-03-14 03:06:39.754107
+748,Tea expenses for Nov 2012,2012-12-03,2768.0,"",2012-12-03 13:25:45.663006,2013-03-14 03:06:44.617312,2,t,f,2013-03-14 03:06:44.616401
+749,Maid Salary for Nov 2012,2012-12-04,2000.0,"",2012-12-03 13:38:09.153016,2013-03-14 03:06:44.608014,2,t,f,2013-03-14 03:06:44.605675
+767,Heroku Invoice for Dec.,2013-01-14,2088.0,"",2013-01-21 06:03:28.666417,2013-03-14 03:08:14.700497,12,t,f,2013-03-14 03:08:14.699227
+766,Slicehost,2012-11-20,2678.0,​slicehost now rackspace cloud,2013-01-20 12:53:15.97245,2013-03-14 03:09:11.742197,4,t,f,2013-03-14 03:09:11.740937
+763,Renewal of multiple domains on NG,2013-01-13,4000.0,​77+ dollars on Nettigritty to renew mtis and other domains for one year<br>,2013-01-13 03:15:30.63055,2013-03-14 03:10:04.89931,3,t,f,2013-03-14 03:10:04.898019
+754,White Board of 4'X6' size,2012-12-20,3206.0,​,2012-12-20 13:48:27.019197,2013-03-14 03:10:10.414525,23,t,f,2013-03-14 03:10:10.413279
+781,Interest Rate and Service Charges,2013-02-22,2198.0,"",2013-02-25 16:10:38.638302,2013-03-14 03:04:51.691372,6,t,f,2013-03-14 03:04:51.689907
+780,Unfuddle 2013/02,2013-02-09,2734.0,"",2013-02-25 16:09:20.377254,2013-03-14 03:04:51.694896,6,t,f,2013-03-14 03:04:51.694049
+779,Amazon 2013/02,2013-02-09,3693.0,"",2013-02-25 16:08:02.437726,2013-03-14 03:04:51.697689,6,t,f,2013-03-14 03:04:51.696879
+778,Hetzner 2013/02,2013-02-05,7485.0,"",2013-02-25 16:07:17.79321,2013-03-14 03:04:51.701424,6,t,f,2013-03-14 03:04:51.700227
+758,Interest Rates and service charges,2012-12-23,1106.0,"",2012-12-29 04:23:07.549053,2013-03-14 03:05:02.207878,6,t,f,2013-03-14 03:05:02.206926
+786,Maid salary for Feb 2013,2013-03-06,4400.0,"",2013-03-06 10:36:17.987633,2013-03-14 03:06:35.101814,2,t,f,2013-03-14 03:06:35.100719
+785,Gardener salary for Feb 2013,2013-03-05,1500.0,"",2013-03-06 10:35:54.816319,2013-03-14 03:06:35.105181,2,t,f,2013-03-14 03:06:35.104337
+787,Tea expenses for Feb 2013,2013-03-04,2289.0,"",2013-03-06 10:36:40.821469,2013-03-14 03:06:35.108352,2,t,f,2013-03-14 03:06:35.107366
+774,Maid Salary for Jan 2013,2013-02-05,4400.0,"",2013-02-05 11:11:10.444688,2013-03-14 03:06:35.111746,2,t,f,2013-03-14 03:06:35.110644
+777,Utilities for office,2013-02-05,500.0,"",2013-02-05 11:12:18.116758,2013-03-14 03:06:35.115022,2,t,f,2013-03-14 03:06:35.114145
+776,Tea expenses for Jan 2013,2013-02-05,2380.0,"",2013-02-05 11:11:41.836486,2013-03-14 03:06:35.117876,2,t,f,2013-03-14 03:06:35.117044
+775,Gardener Salary for Jan 2013,2013-02-05,1500.0,"",2013-02-05 11:11:25.374185,2013-03-14 03:06:35.120766,2,t,f,2013-03-14 03:06:35.119946
+761,Maid's Salary for Dec 2012 (with hike),2013-01-03,4400.0,"Till last month we were deducting 2K towards her loan payment. From this month onwards, 4400 is paid to her after a 10% hike.<br>",2013-01-03 05:21:20.367489,2013-03-14 03:06:35.132516,2,t,f,2013-03-14 03:06:35.131662
+784,Heroku Billing for Seshpath,2013-02-22,2055.0,​,2013-03-03 13:10:51.972357,2013-03-14 03:08:14.696515,12,t,f,2013-03-14 03:08:14.695365
+753,Heroku payments ,2012-11-16,3915.95,"<font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">​Heroku Invoice&nbsp;</span></font><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">Jul: 26.87$ =&gt; 1473.28 Rs.&nbsp;<span class=""Apple-tab-span"" style=""white-space:pre"">		</span>Paid</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">Aug: 36.90$ =&gt; 2023.23 Rs.<span class=""Apple-tab-span"" style=""white-space:pre"">	</span>Paid</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">------------------------------------------------------</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">Sep: 34.50$ =&gt; 1891.63 Rs.<span class=""Apple-tab-span"" style=""white-space:pre"">	</span></span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">Oct: 36.92$ =&gt; 2024.32 Rs.</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">Nov: 34.50$ =&gt; 1891.63 Rs.&nbsp;</span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;""><br></span></font></div><div><font face=""tahoma, arial, helvetica, sans-serif""><span style=""font-size: 12px;"">Total: 3915.95</span></font></div>",2012-12-20 07:05:16.364102,2013-03-14 03:08:14.703999,12,t,f,2013-03-14 03:08:14.702784
+782,slicehost,2013-02-21,2620.0,slicehost,2013-02-26 17:20:41.013927,2013-03-14 03:09:07.803277,4,t,f,2013-03-14 03:09:07.802303
+773,slicehost,2013-01-18,2693.0,slicehost.,2013-02-04 12:09:47.481536,2013-03-14 03:09:07.806185,4,t,f,2013-03-14 03:09:07.805369
+772,slicehost,2013-01-17,2570.0,​rackspace charged twice in Jan. One for the November/Dec period when the credit card transaction didn't go through.,2013-02-04 12:09:12.207261,2013-03-14 03:09:07.809014,4,t,f,2013-03-14 03:09:07.808148
+783,Printer Cartridges,2013-02-28,900.0,"",2013-02-28 11:30:09.406056,2013-03-14 03:10:04.8909,22,t,f,2013-03-14 03:10:04.889703
+804,Interest and service charges,2013-04-23,1145.0,"",2013-04-25 15:23:56.478831,2013-05-07 09:07:00.144595,6,t,f,2013-05-07 09:07:00.143422
+803,Handbook of Urban inequalities,2013-04-15,694.0,"",2013-04-25 15:22:58.796561,2013-05-07 09:07:00.147865,6,t,f,2013-05-07 09:07:00.147038
+802,unfuddle 2013/04,2013-04-09,2783.0,"",2013-04-25 15:22:30.386549,2013-05-07 09:07:00.150714,6,t,f,2013-05-07 09:07:00.149942
+801,Amazon 2013/04,2013-04-05,3699.0,"",2013-04-25 15:21:29.394574,2013-05-07 09:07:00.15391,6,t,f,2013-05-07 09:07:00.152587
+800,Hetzner 2013/04,2013-04-03,7231.0,"",2013-04-25 15:20:57.657318,2013-05-07 09:07:00.156911,6,t,f,2013-05-07 09:07:00.156129
+792,Interest and Service Charges,2013-03-22,2193.0,"",2013-03-30 16:15:46.913053,2013-05-07 09:07:00.160401,6,t,f,2013-05-07 09:07:00.159615
+791,Hetzner 2013/03,2013-03-21,7273.0,"",2013-03-30 16:14:54.635346,2013-05-07 09:07:00.166492,6,t,f,2013-05-07 09:07:00.165587
+790,Amazon 2013/03,2013-03-10,3123.0,"",2013-03-30 16:14:27.770284,2013-05-07 09:07:00.17298,6,t,f,2013-05-07 09:07:00.171251
+789,Unfuddle 2013/03,2013-03-09,2780.0,"",2013-03-30 16:13:54.641742,2013-05-07 09:07:07.984237,6,t,f,2013-05-07 09:07:07.982756
+807,Airtel 4G bill for April 2013,2013-05-06,4924.18,"",2013-05-06 09:16:45.821707,2013-05-07 09:08:34.133916,2,t,f,2013-05-07 09:08:34.132883
+806,New Android phone,2013-04-21,9000.0,​Claiming 50% of the phone cost.<br>,2013-05-06 09:11:02.206321,2013-05-07 09:08:34.13686,2,t,f,2013-05-07 09:08:34.136103
+798,Airtel 4G bill for March 2013,2013-04-14,5173.71,"",2013-04-15 16:23:37.033341,2013-05-07 09:08:40.318955,2,t,f,2013-05-07 09:08:40.317897
+797,BSNL bill due on 28-03-2013,2013-04-10,7382.0,​Didn't pay for the past 4 months or so...<br>,2013-04-10 06:22:38.28565,2013-05-07 09:08:40.321951,2,t,f,2013-05-07 09:08:40.321068
+794,Gardener Salary for March 2013,2013-04-02,1500.0,"",2013-04-02 10:41:20.047611,2013-05-07 09:08:40.324835,2,t,f,2013-05-07 09:08:40.323991
+795,Tea expenses for March 2013,2013-04-02,4336.0,"",2013-04-02 10:42:01.637023,2013-05-07 09:08:40.327616,2,t,f,2013-05-07 09:08:40.326743
+796,Maid salary for March 2013,2013-04-02,4400.0,"",2013-04-02 10:42:20.383899,2013-05-07 09:08:40.341364,2,t,f,2013-05-07 09:08:40.340327
+788,BWSSB bill ,2013-03-18,5000.0,"",2013-03-19 08:42:00.601527,2013-05-07 09:08:40.344288,2,t,f,2013-05-07 09:08:40.343401
+814,slicehost,2013-03-19,2348.0,slicehost,2013-05-09 06:03:06.238564,2013-10-18 04:00:16.903181,4,t,f,2013-10-18 04:00:16.902351
+819,Company Lunch - Nazir send off,2013-05-20,1915.0,"",2013-05-26 06:30:13.627672,2014-01-29 11:56:27.288112,6,t,f,2014-01-29 11:56:27.287134
+813,slicehost,2013-04-19,2558.0,rackspace/slicehost,2013-05-09 06:01:34.372035,2013-10-18 04:00:16.900339,4,t,f,2013-10-18 04:00:16.899517
+818,Unfuddle 2013/05,2013-05-09,2764.0,"",2013-05-26 06:29:22.28419,2014-01-29 11:56:27.292202,6,t,f,2014-01-29 11:56:27.291072
+817,Amazon 2013/05,2013-05-06,3866.0,"",2013-05-26 06:28:50.603495,2014-01-29 11:56:27.295354,6,t,f,2014-01-29 11:56:27.294371
+827,BESCOM bill for April and May 2013,2013-06-25,3000.0,"",2013-06-25 06:50:20.873552,2014-01-29 11:57:55.066791,2,t,f,2014-01-29 11:57:55.06604
+816,Hetzner 2013/05,2013-05-03,7331.0,"",2013-05-26 06:28:13.156153,2014-01-29 11:56:32.360354,6,t,f,2014-01-29 11:56:32.359455
+823,Tea expenses for May 2013,2013-06-10,4500.0,"",2013-06-10 07:42:39.512446,2014-01-29 11:57:55.072081,2,t,f,2014-01-29 11:57:55.071355
+825,Salary for Gardener for May 2013,2013-06-07,1500.0,"",2013-06-10 07:43:15.211125,2014-01-29 11:57:55.074683,2,t,f,2014-01-29 11:57:55.073934
+824,Salary for maid for May 2013,2013-06-07,4400.0,"",2013-06-10 07:42:57.27423,2014-01-29 11:57:55.077191,2,t,f,2014-01-29 11:57:55.07646
+809,Utilities for office,2013-05-08,975.0,"",2013-05-08 11:59:43.001877,2014-01-29 11:57:55.079798,2,t,f,2014-01-29 11:57:55.079071
+811,Tea expenses for April 2013,2013-05-08,4904.0,"",2013-05-08 12:01:01.941368,2014-01-29 11:57:55.08237,2,t,f,2014-01-29 11:57:55.081621
+810,Maid salary for April 2013,2013-05-08,4400.0,"",2013-05-08 12:00:02.175661,2014-01-29 11:57:55.084956,2,t,f,2014-01-29 11:57:55.084194
+808,Gardener salary for April 2013,2013-05-08,1500.0,"",2013-05-08 11:59:07.234833,2014-01-29 11:57:55.087711,2,t,f,2014-01-29 11:57:55.086934
+826,Android phone for testing apps,2013-06-11,4749.0,​Purchased a basic Android phone from Flipkart for testing our Android apps.<br>,2013-06-12 08:46:06.179536,2014-01-29 11:59:59.957396,13,t,f,2014-01-29 11:59:59.956434
+815,Water filter service,2013-05-10,650.0,​,2013-05-14 08:30:31.823285,2014-01-29 12:01:01.810207,27,t,f,2014-01-29 12:01:01.809137
+805,Heroku Billing,2013-04-25,2013.0,"",2013-05-02 10:23:03.619396,2014-02-13 12:05:39.157684,12,t,f,2014-02-13 12:05:39.156931
+799,Heroku Billing,2013-03-28,1660.3,​,2013-04-19 10:12:00.636692,2014-02-13 12:05:39.160338,12,t,f,2014-02-13 12:05:39.159587
+820,Heroku Billing,2013-05-10,1917.0,​,2013-06-04 12:05:33.153559,2014-02-13 12:05:39.155154,12,t,f,2014-02-13 12:05:39.154414
+877,Gardener salary for November 2013,2013-12-04,1500.0,"",2013-12-05 17:19:25.659715,2014-01-29 11:57:36.648345,2,t,f,2014-01-29 11:57:36.647538
+841,Unfuddle 2013/07,2013-07-09,3068.0,"",2013-07-25 06:53:46.786547,2014-01-29 11:56:21.653123,6,t,f,2014-01-29 11:56:21.652305
+840,Amazon 2013/07,2013-07-05,3686.0,"",2013-07-25 06:53:19.501276,2014-01-29 11:56:21.655812,6,t,f,2014-01-29 11:56:21.655013
+860,slicehost,2013-09-19,2991.0,​rackspace/slicehost,2013-09-26 05:56:52.888348,2013-10-18 04:00:08.73704,4,t,f,2013-10-18 04:00:08.735975
+839,Hetzner 2013/07,2013-07-02,8027.0,"",2013-07-25 06:52:54.473359,2014-01-29 11:56:21.658598,6,t,f,2014-01-29 11:56:21.657687
+883,Interest and Services Charges,2014-01-10,2300.0,"",2014-01-23 09:57:59.121881,2014-01-29 11:56:21.624437,6,t,f,2014-01-29 11:56:21.622806
+861,slicehost,2013-08-20,3002.0,slicehost/rackspace,2013-09-26 05:58:11.111213,2013-10-18 04:00:16.882822,4,t,f,2013-10-18 04:00:16.881744
+850,nwmi domain,2013-08-06,629.0,​domain name renewal,2013-08-05 18:46:17.054107,2013-10-18 04:00:16.886039,4,t,f,2013-10-18 04:00:16.885131
+851,slicehost,2013-07-20,2715.0,slicehost,2013-08-05 19:28:08.887119,2013-10-18 04:00:16.888868,4,t,f,2013-10-18 04:00:16.888049
+852,slicehost rackspace,2013-06-19,2794.0,slicehost hosting,2013-08-05 19:36:03.519725,2013-10-18 04:00:16.891563,4,t,f,2013-10-18 04:00:16.890735
+822,slicehost rackspace,2013-05-21,2506.0,​slicehost,2013-06-10 04:25:12.197752,2013-10-18 04:00:16.894406,4,t,f,2013-10-18 04:00:16.893608
+812,imaginebangalore - domain renewal,2013-05-09,1697.0,"​.in, .com and .org domains.<div>bigrock.</div>",2013-05-09 03:37:45.442945,2013-10-18 04:00:16.897057,4,t,f,2013-10-18 04:00:16.89625
+882,Interest and service charges,2013-12-10,2100.0,"",2014-01-23 09:33:53.541466,2014-01-29 11:56:21.62801,6,t,f,2014-01-29 11:56:21.627165
+871,Interest against past credit card dues,2013-10-23,2101.0,​,2013-11-07 01:19:59.503349,2014-01-29 11:56:21.630792,6,t,f,2014-01-29 11:56:21.629976
+865,interest and service charges,2013-09-23,1915.0,"",2013-09-27 11:05:27.255648,2014-01-29 11:56:21.633538,6,t,f,2014-01-29 11:56:21.632732
+867,"Late payment, Interest and Service Charge",2013-09-15,700.0,"",2013-09-27 11:08:42.107194,2014-01-29 11:56:21.636329,6,t,f,2014-01-29 11:56:21.635507
+864,Unfuddle 2013/08,2013-09-09,3068.0,"",2013-09-27 11:04:39.125617,2014-01-29 11:56:21.639132,6,t,f,2014-01-29 11:56:21.638299
+866,Amazon 2013/09,2013-09-03,4285.0,"",2013-09-27 11:08:12.113888,2014-01-29 11:56:21.641877,6,t,f,2014-01-29 11:56:21.641071
+863,Amazon 2013/08,2013-09-03,3745.0,"",2013-09-27 11:03:57.997703,2014-01-29 11:56:21.644662,6,t,f,2014-01-29 11:56:21.643833
+862,Hetzner 2013/08,2013-09-02,8370.0,"",2013-09-27 11:03:36.52339,2014-01-29 11:56:21.647424,6,t,f,2014-01-29 11:56:21.646615
+842,Interest and Services Charges,2013-07-23,2563.0,"",2013-07-25 06:54:55.537284,2014-01-29 11:56:21.650283,6,t,f,2014-01-29 11:56:21.64944
+832,Interest and service charges,2013-06-23,1621.0,"",2013-07-02 17:35:48.018274,2014-01-29 11:56:21.661452,6,t,f,2014-01-29 11:56:21.660602
+831,Unfuddle 2013/06,2013-06-09,2908.0,"",2013-07-02 17:34:39.185381,2014-01-29 11:56:21.66437,6,t,f,2014-01-29 11:56:21.66356
+830,Amazon 2013/06,2013-06-05,4098.0,"",2013-07-02 17:30:58.287172,2014-01-29 11:56:27.281871,6,t,f,2014-01-29 11:56:27.280774
+829,Hetzner 2013/06,2013-06-04,7661.0,"",2013-07-02 17:29:57.128346,2014-01-29 11:56:27.285155,6,t,f,2014-01-29 11:56:27.284119
+881,Tea expenses for December 2013,2014-01-02,2100.0,"",2014-01-21 05:21:35.195118,2014-01-29 11:57:36.636832,2,t,f,2014-01-29 11:57:36.635896
+879,Maid Salary for December 2013,2014-01-02,4400.0,"",2014-01-21 05:19:33.806143,2014-01-29 11:57:36.640044,2,t,f,2014-01-29 11:57:36.639053
+880,Gardener Salary for December 2013,2014-01-02,1500.0,"",2014-01-21 05:20:05.202914,2014-01-29 11:57:36.642768,2,t,f,2014-01-29 11:57:36.641983
+876,Maid Salary for November 2013,2013-12-05,4400.0,"",2013-12-05 17:19:04.44782,2014-01-29 11:57:36.645561,2,t,f,2014-01-29 11:57:36.644797
+843,BESCOM bill for June 2013,2013-07-25,2000.0,"",2013-07-25 09:00:21.757876,2014-01-29 11:57:55.054282,2,t,f,2014-01-29 11:57:55.053503
+837,Airtel 4G bill for June 2013,2013-07-16,5392.0,"",2013-07-16 07:20:13.028964,2014-01-29 11:57:55.056763,2,t,f,2014-01-29 11:57:55.056019
+834,Gardener salary for June 2013,2013-07-05,1500.0,"",2013-07-05 07:16:56.724851,2014-01-29 11:57:55.059366,2,t,f,2014-01-29 11:57:55.058611
+872,Maid's salary for October 2013,2013-11-08,4400.0,"",2013-11-08 08:17:59.163314,2014-01-29 11:57:50.394756,2,t,f,2014-01-29 11:57:50.39375
+859,Tea expenses for August 2013,2013-09-10,2152.0,"",2013-09-10 05:40:09.302985,2014-01-29 11:57:50.416342,2,t,f,2014-01-29 11:57:50.415428
+858,Gardener's Salary for Aug 2013,2013-09-03,1500.0,"",2013-09-04 11:17:35.588122,2014-01-29 11:57:50.421406,2,t,f,2014-01-29 11:57:50.420484
+855,Airtel 4G bill for July 2013,2013-08-13,4965.19,"",2013-08-13 06:17:59.732134,2014-01-29 11:57:50.423989,2,t,f,2014-01-29 11:57:50.423199
+878,Tea expenses for Nov 2013,2013-12-04,2146.0,"",2013-12-05 17:19:48.350329,2014-01-29 11:57:45.870424,2,t,f,2014-01-29 11:57:45.869284
+848,Utilities for office,2013-08-05,905.0,"",2013-08-05 10:36:19.00603,2014-01-29 11:57:50.426594,2,t,f,2014-01-29 11:57:50.425685
+846,Gardener Salary for July 2013,2013-08-05,1500.0,"",2013-08-05 10:35:23.01726,2014-01-29 11:57:50.429783,2,t,f,2014-01-29 11:57:50.428923
+845,Maid Salary for July 2013,2013-08-05,4400.0,"",2013-08-05 10:35:05.143048,2014-01-29 11:57:50.432838,2,t,f,2014-01-29 11:57:50.432009
+847,Tea expenses for July 2013,2013-08-05,4536.0,"",2013-08-05 10:35:49.448227,2014-01-29 11:57:50.435583,2,t,f,2014-01-29 11:57:50.434724
+833,Tea expenses for the month of June 2013,2013-07-04,4760.0,"",2013-07-05 07:16:40.232579,2014-01-29 11:57:55.061811,2,t,f,2014-01-29 11:57:55.061085
+873,Gardener Salary for October 2013,2013-11-08,1500.0,"",2013-11-08 08:18:15.877167,2014-01-29 11:57:50.397374,2,t,f,2014-01-29 11:57:50.396559
+874,Tea expenses for the month of October 2013,2013-11-05,2368.0,"",2013-11-15 04:44:33.703477,2014-01-29 11:57:50.404409,2,t,f,2014-01-29 11:57:50.403494
+869,Tea expenses for the month of September 2013,2013-10-09,2992.0,"",2013-10-09 13:46:59.012328,2014-01-29 11:57:50.407135,2,t,f,2014-01-29 11:57:50.406316
+870,Maid's salary for Sep 2013,2013-10-08,4400.0,"",2013-10-09 13:47:18.586976,2014-01-29 11:57:50.409843,2,t,f,2014-01-29 11:57:50.409014
+868,Gardener salary for September 2013,2013-10-08,1500.0,"",2013-10-09 13:46:40.81403,2014-01-29 11:57:50.413249,2,t,f,2014-01-29 11:57:50.412182
+849,Utilities for office,2013-08-05,150.0,"",2013-08-05 10:36:36.148678,2014-01-29 11:57:50.439089,2,t,f,2014-01-29 11:57:50.438225
+835,Maid salary for June 2013,2013-07-04,4400.0,"",2013-07-05 07:17:12.658407,2014-01-29 11:57:55.064302,2,t,f,2014-01-29 11:57:55.063566
+836,Airtel 4G bill for May 2013,2013-06-13,3522.0,"",2013-07-16 07:19:28.033097,2014-01-29 11:57:55.069409,2,t,f,2014-01-29 11:57:55.068649
+844,BWSSB bill for June 2013,2013-07-25,1500.0,"",2013-07-25 09:00:40.471135,2014-01-29 11:57:55.051567,2,t,f,2014-01-29 11:57:55.050652
+857,Heroku Billing,2013-08-09,2342.65,"",2013-08-19 15:15:30.630044,2014-02-13 12:05:39.147472,12,t,f,2014-02-13 12:05:39.146675
+886,Heroku Billing,2013-09-13,2431.21,"",2014-01-30 14:04:12.731247,2014-02-13 12:05:39.144529,12,t,f,2014-02-13 12:05:39.143769
+887,Heroku Billing,2013-12-12,2220.91,"",2014-01-30 14:06:30.441278,2014-02-13 12:05:39.128761,12,t,f,2014-02-13 12:05:39.127378
+884,Heroku Billing,2013-11-12,2446.81,​,2014-01-30 14:01:56.861556,2014-02-13 12:05:39.138983,12,t,f,2014-02-13 12:05:39.137895
+885,Heroku Billing,2013-10-09,2220.91,"",2014-01-30 14:03:04.614443,2014-02-13 12:05:39.14188,12,t,f,2014-02-13 12:05:39.141118
+856,Heroku Billing,2013-07-13,2130.93,"",2013-08-19 15:14:56.671713,2014-02-13 12:05:39.150106,12,t,f,2014-02-13 12:05:39.149323
+828,Heroku Billing,2013-06-20,2229.68,​,2013-07-02 09:26:31.010553,2014-02-13 12:05:39.152728,12,t,f,2014-02-13 12:05:39.151989
+888,Heroku Billing,2014-01-15,2360.46,"",2014-01-30 14:08:07.586901,2014-02-13 12:05:39.119328,12,t,f,2014-02-13 12:05:39.118437
+890,Maid salary for Jan 2014,2014-02-05,4400.0,"",2014-02-06 08:37:49.735424,2014-07-26 05:19:16.837741,2,t,f,2014-07-26 05:19:16.8369
+892,Gardener salary for Jan 2014,2014-02-05,1500.0,"",2014-02-17 08:39:44.671962,2014-07-26 05:19:16.840735,2,t,f,2014-07-26 05:19:16.839907
+895,Heroku Billing,2014-02-08,2389.39,"",2014-02-19 10:52:50.69455,2014-07-26 05:22:23.502841,12,t,f,2014-07-26 05:22:23.502054
+921,Utilities for office,2014-07-07,192.0,"",2014-07-07 06:10:28.589221,2014-07-26 05:19:02.806754,2,t,f,2014-07-26 05:19:02.805823
+920,Utilities for office,2014-07-07,734.0,"",2014-07-07 06:10:01.683095,2014-07-26 05:19:02.809656,2,t,f,2014-07-26 05:19:02.808885
+919,Maid salary for June 2014,2014-07-07,3000.0,"",2014-07-07 06:02:45.735941,2014-07-26 05:19:02.812288,2,t,f,2014-07-26 05:19:02.811516
+917,Tea expenses for June 2014,2014-07-07,1784.0,"",2014-07-07 05:59:18.507474,2014-07-26 05:19:02.815686,2,t,f,2014-07-26 05:19:02.814205
+918,Gardener salary for June 2014,2014-07-04,1500.0,"",2014-07-07 06:00:06.605024,2014-07-26 05:19:02.821538,2,t,f,2014-07-26 05:19:02.820744
+916,Printer cartridges,2014-06-30,950.0,"",2014-06-30 06:48:38.859262,2014-07-26 05:19:02.824217,2,t,f,2014-07-26 05:19:02.823437
+915,Painting charges for cycle stand,2014-06-11,2000.0,"",2014-06-25 12:19:22.508709,2014-07-26 05:19:10.825846,2,t,f,2014-07-26 05:19:10.824886
+909,Tea expenses for May 2014,2014-06-03,1448.0,"",2014-06-03 07:59:07.098629,2014-07-26 05:19:10.82864,2,t,f,2014-07-26 05:19:10.827811
+911,Gardener salary for May 2014,2014-06-03,1500.0,"",2014-06-03 08:00:04.089647,2014-07-26 05:19:10.831342,2,t,f,2014-07-26 05:19:10.830528
+910,Maid salary for May 2014,2014-06-03,3000.0,Deducting 1400 every month towards EMI for the loan of (15K)<br>,2014-06-03 07:59:47.371011,2014-07-26 05:19:10.834059,2,t,f,2014-07-26 05:19:10.833218
+908,Lenivo Laptop repair ,2014-05-30,3350.0,​1. Broken Hinges<br><br>2. Wireless card not functional<br><br>3. USB port non functional <br>,2014-06-03 07:58:31.931215,2014-07-26 05:19:10.836732,2,t,f,2014-07-26 05:19:10.835906
+906,Maid Salary for April 2014,2014-05-06,4400.0,"",2014-05-06 10:53:31.109687,2014-07-26 05:19:10.839437,2,t,f,2014-07-26 05:19:10.838615
+907,Tea expenses for April 2014,2014-05-06,1376.0,"",2014-05-06 10:53:54.354587,2014-07-26 05:19:10.842122,2,t,f,2014-07-26 05:19:10.841294
+893,Tea expenses for Jan 2014,2014-05-02,1936.0,"",2014-02-17 08:40:38.56556,2014-07-26 05:19:10.84551,2,t,f,2014-07-26 05:19:10.844683
+905,Tea expenses for March 2014,2014-04-08,1192.0,"",2014-04-21 09:23:51.14333,2014-07-26 05:19:10.848302,2,t,f,2014-07-26 05:19:10.847406
+904,Maid salary for March 2014,2014-04-07,4400.0,"",2014-04-21 09:23:02.508473,2014-07-26 05:19:10.850948,2,t,f,2014-07-26 05:19:10.850159
+947,Heroku Billing for Seshpath,2015-01-13,2379.25,​,2015-01-19 08:34:21.307799,2015-05-25 16:39:10.609843,12,t,f,2015-05-25 16:39:10.608952
+903,Gardener salary for March 2014,2014-04-04,1500.0,"",2014-04-21 09:22:41.923309,2014-07-26 05:19:16.822635,2,t,f,2014-07-26 05:19:16.821154
+901,Power cord for Dell Laptop,2014-03-21,150.0,"",2014-03-24 07:32:06.528703,2014-07-26 05:19:16.826368,2,t,f,2014-07-26 05:19:16.825412
+899,Maid's salary for Feb 2014,2014-03-04,4400.0,"",2014-03-04 05:20:45.6623,2014-07-26 05:19:16.829319,2,t,f,2014-07-26 05:19:16.828442
+898,Gardener salary for Feb 2014,2014-03-04,1500.0,"",2014-03-04 05:20:22.428626,2014-07-26 05:19:16.832142,2,t,f,2014-07-26 05:19:16.831259
+897,Tea expenses for Feb 2014,2014-03-04,1144.0,"",2014-03-04 05:20:01.753621,2014-07-26 05:19:16.834952,2,t,f,2014-07-26 05:19:16.834077
+914,Heroku Billing,2014-06-11,2276.32,​,2014-06-19 12:26:13.937565,2014-07-26 05:22:23.492018,12,t,f,2014-07-26 05:22:23.491146
+913,Heroku Billing,2014-05-12,2153.5,"",2014-06-06 06:56:41.624015,2014-07-26 05:22:23.494813,12,t,f,2014-07-26 05:22:23.494029
+912,Heroku Billing,2014-04-10,2304.08,"",2014-06-06 06:56:00.052198,2014-07-26 05:22:23.497473,12,t,f,2014-07-26 05:22:23.496688
+902,Heroku Billing,2014-03-10,1878.58,"",2014-04-02 06:29:36.623629,2014-07-26 05:22:23.500164,12,t,f,2014-07-26 05:22:23.499377
+942,Heroku billing for Seshpath,2014-11-11,2360.65,​,2014-12-01 08:09:48.628194,2015-05-25 16:39:10.731153,12,t,f,2015-05-25 16:39:10.73037
+951,Water leakage fix,2015-02-03,3270.0,​No bill<br>,2015-02-03 07:23:09.361252,2015-05-25 14:52:40.457155,2,t,f,2015-05-25 14:52:40.455784
+956,Maid's Salary for Feb 2015,2015-03-06,3000.0,"",2015-04-09 06:06:47.264276,2015-05-25 14:52:40.448945,2,t,f,2015-05-25 14:52:40.447583
+960,Stationery and Tea,2015-01-27,500.0,"​Printing paper(s), Markers<br>Tea bags, Sugar and Dairy creamer<br>",2015-04-13 06:32:04.688464,2015-05-25 16:41:19.448745,30,t,f,2015-05-25 16:41:19.447868
+963,Printer cartridge refilling,2015-04-14,210.0,​Refilled cartridge in HP 703 printer.,2015-04-14 09:24:10.553982,2015-04-14 09:24:10.553982,13,f,f,
+927,Bangalore Visit Airfare,2014-08-21,5775.0,​Airfare reimbursement of amount INR 5775.00 for BOM-BLR and BLR-BOM Indigo flight. Bill attached.,2014-09-02 07:04:54.652825,2015-06-13 04:17:39.133395,29,t,f,2015-06-13 04:17:39.132555
+957,Gardener salary for March 2015,2015-04-08,2000.0,"",2015-04-09 06:08:45.783017,2015-05-25 14:52:36.490928,2,t,f,2015-05-25 14:52:36.490003
+959,Investor lunch,2015-04-02,900.0,"",2015-04-09 06:11:18.172852,2015-05-25 14:52:40.445216,2,t,f,2015-05-25 14:52:40.443423
+955,Gardener salary for Feb 2015,2015-03-06,2000.0,"",2015-04-09 06:04:03.409834,2015-05-25 14:52:40.452525,2,t,f,2015-05-25 14:52:40.451368
+948,Maid's salary for Jan 2015,2015-02-02,3000.0,"",2015-02-02 11:27:58.952915,2015-05-25 14:52:40.466944,2,t,f,2015-05-25 14:52:40.465212
+952,Gardener salary for Jan 2015,2015-02-03,2000.0,"",2015-02-03 07:23:58.666764,2015-05-25 14:52:40.461026,2,t,f,2015-05-25 14:52:40.459603
+949,Gardener salary for December 2014,2015-01-08,2000.0,"",2015-02-02 11:28:23.669504,2015-05-25 14:52:40.619163,2,t,f,2015-05-25 14:52:40.618005
+950,Utilities for office,2015-02-02,500.0,"",2015-02-02 11:28:57.129959,2015-05-25 14:52:40.61524,2,t,f,2015-05-25 14:52:40.614187
+943,Maid salary for Nov 2014,2014-12-05,3000.0,"",2014-12-08 07:19:30.228061,2015-05-25 14:52:40.625596,2,t,f,2015-05-25 14:52:40.624739
+946,Maid's salary for December 2014,2015-01-08,3000.0,"",2015-01-08 06:20:47.998632,2015-05-25 14:52:40.622519,2,t,f,2015-05-25 14:52:40.621622
+944,Gardener salary for Nov 2014,2014-12-04,2000.0,"",2014-12-09 09:59:15.218188,2015-05-25 14:52:40.628597,2,t,f,2015-05-25 14:52:40.627705
+958,Maid's salary for March 2015,2015-04-08,3000.0,"",2015-04-09 06:09:12.911666,2015-05-25 14:52:40.440844,2,t,f,2015-05-25 14:52:40.439632
+941,Utilities for office,2014-11-10,450.0,"",2014-11-10 09:45:33.3244,2015-05-25 14:52:40.631535,2,t,f,2015-05-25 14:52:40.630743
+939,For Urban Agriculture Project,2014-11-10,3500.0,"",2014-11-10 09:44:27.865709,2015-05-25 14:52:40.634607,2,t,f,2015-05-25 14:52:40.633809
+940,Maid salary for October 2014,2014-11-10,3000.0,"",2014-11-10 09:44:45.333774,2015-05-25 14:52:40.637866,2,t,f,2015-05-25 14:52:40.637039
+938,Gardener salary for October 2014,2014-11-07,2000.0,"",2014-11-10 09:44:05.077936,2015-05-25 14:52:49.372621,2,t,f,2015-05-25 14:52:49.371641
+928,Maid salary for August 2014,2014-09-02,3000.0,"",2014-09-03 05:08:52.892654,2015-05-25 14:52:53.336349,2,t,f,2015-05-25 14:52:53.335475
+932,Maid's salary for Sep 2014,2014-10-08,4400.0,"",2014-10-08 09:23:06.932078,2015-05-25 14:52:53.333398,2,t,f,2015-05-25 14:52:53.332561
+930,Gardener salary for August 2014,2014-09-02,1500.0,"",2014-09-03 05:09:37.983229,2015-05-25 14:52:53.342136,2,t,f,2015-05-25 14:52:53.341275
+926,DELL Vostro 1520 Adapter replacement,2014-08-11,1250.0,"",2014-08-13 06:38:09.855012,2015-05-25 14:52:53.345008,2,t,f,2015-05-25 14:52:53.344176
+929,Tea expenses for August 2014,2014-09-02,1032.0,"",2014-09-03 05:09:10.205676,2015-05-25 14:52:53.339237,2,t,f,2015-05-25 14:52:53.338403
+924,Tea expenses for July 2014,2014-08-05,1312.0,"",2014-08-05 07:23:10.003023,2015-05-25 14:52:53.347934,2,t,f,2015-05-25 14:52:53.3471
+923,Maid's salary for July 2014,2014-08-05,3000.0,"",2014-08-05 07:22:53.588806,2015-05-25 14:52:53.353673,2,t,f,2015-05-25 14:52:53.352836
+925,DELL Vostro 1520 battery replacement,2014-08-05,4800.0,"",2014-08-05 07:23:42.391956,2015-05-25 14:52:53.356586,2,t,f,2015-05-25 14:52:53.355703
+922,Gardener salary for July 2014,2014-08-05,1500.0,"",2014-08-05 07:22:36.654854,2015-05-25 14:52:53.350802,2,t,f,2015-05-25 14:52:53.349959
+953,Heroku Billing for Seshpath,2015-03-10,1937.05,"",2015-03-31 17:12:23.285123,2015-05-25 16:39:04.776548,12,t,f,2015-05-25 16:39:04.775533
+933,Gardener salary for Sep 2014,2014-10-08,2000.0,"",2014-10-08 09:23:24.565393,2015-05-25 14:52:53.330422,2,t,f,2015-05-25 14:52:53.329389
+954,Heroku billing for Heroku,2015-02-10,2389.87,"",2015-03-31 17:14:39.638936,2015-05-25 16:39:04.779264,12,t,f,2015-05-25 16:39:04.778509
+945,Heroku billing for Seshpath,2014-12-16,2283.12,​,2014-12-19 09:13:13.346625,2015-05-25 16:39:10.728323,12,t,f,2015-05-25 16:39:10.72729
+937,Heroku billing for Seshpath,2014-10-09,2188.64,"",2014-11-05 07:32:07.951991,2015-05-25 16:39:10.733887,12,t,f,2015-05-25 16:39:10.733128
+936,Heroku billing for Seshpath,2014-09-09,2325.66,"",2014-11-05 07:31:12.761416,2015-05-25 16:39:10.736497,12,t,f,2015-05-25 16:39:10.735716
+935,Heroku billing for Seshpath,2014-08-08,2345.12,"",2014-11-05 07:30:18.181832,2015-05-25 16:39:10.739097,12,t,f,2015-05-25 16:39:10.738352
+962,Water bottles,2015-04-12,1000.0,"",2015-04-13 06:33:02.606343,2015-05-25 16:41:19.442091,30,t,f,2015-05-25 16:41:19.441031
+961,Garden and bathroom related expense,2015-02-05,500.0,Seeds<br><br>Bathroom Towels<br>,2015-04-13 06:32:38.336322,2015-05-25 16:41:19.4457,30,t,f,2015-05-25 16:41:19.444526
+931,Airport-Office-Airport transfer,2014-09-01,460.0,Bus tickets for Airport- Office on 01-09-2014 and Office-Airport on 03-09-2014,2014-09-09 06:25:34.886663,2015-06-13 04:17:39.130269,29,t,f,2015-06-13 04:17:39.129262
+967,"Laptop keyboard, adapter",2015-02-19,4575.0,​Got the keyboard replaced. Bought a new adapter and battery.<br>,2015-04-16 06:03:39.587296,2015-04-16 06:03:39.587296,5,f,f,
+965,Water filter,2015-04-15,750.0,Paid for the water filter change.<br>,2015-04-16 05:38:21.106766,2015-05-25 14:42:11.551991,3,t,f,2015-05-25 14:42:11.551048
+964,Fixes in the office,2015-02-09,7000.0,"​Toilets seats, tissue handler, towel handler for each toilet in the office<br>",2015-04-16 05:36:35.230034,2015-05-25 14:42:11.554815,3,t,f,2015-05-25 14:42:11.554071
+971,Maid's salary for April 2015,2015-05-05,3400.0,"",2015-05-05 06:19:20.739501,2015-05-25 14:52:36.342199,2,t,f,2015-05-25 14:52:36.33964
+970,Gardener salary for April 2015,2015-05-04,2000.0,"",2015-05-05 06:15:38.523732,2015-05-25 14:52:36.483324,2,t,f,2015-05-25 14:52:36.345496
+968,RAM upgrade for Sony Vaio,2015-04-22,2750.0,"",2015-05-01 04:52:26.060558,2015-05-25 14:52:36.487594,2,t,f,2015-05-25 14:52:36.486616
+972,Heroku Billing for Seshpath,2015-05-12,2208.38,"",2015-05-11 22:09:42.349749,2015-05-25 16:39:04.77076,12,t,f,2015-05-25 16:39:04.769611
+969,Heroku Billing for Seshpath,2015-04-09,2386.53,"",2015-05-01 06:36:16.415125,2015-05-25 16:39:04.773737,12,t,f,2015-05-25 16:39:04.772989
+934,Heroku billing for Seshpath,2014-07-09,2142.75,​,2014-11-05 07:28:06.32804,2015-05-25 16:39:10.74177,12,t,f,2015-05-25 16:39:10.741033
+976,Gardener salary for May 2015,2015-06-03,2000.0,"",2015-06-09 06:31:47.153951,2015-06-09 06:31:47.153951,2,f,f,
+977,Maid's salary for May 2015,2015-06-05,4400.0,"",2015-06-09 06:32:12.884002,2015-06-09 06:32:12.884002,2,f,f,
+978,Loan to Gayatri,2015-06-11,20000.0,"",2015-06-11 04:16:57.053411,2015-06-11 04:16:57.053411,2,f,f,
+974,Bangalore visit bus tickets,2015-05-18,460.0,​Airport-Office-Airport transfer by bus.,2015-05-25 12:27:54.562185,2015-06-13 04:18:29.23837,29,t,f,2015-06-13 04:18:29.237491
+973,Airfare for Bangalore Visit,2015-05-10,11257.0,​Bangalore visit tickets for travel on 18-05-15 BOM-BLR and return on 21-05-15.,2015-05-25 12:19:41.970759,2015-06-13 04:18:29.241598,29,t,f,2015-06-13 04:18:29.240799
+975,Heroku Billing for Seshpath,2015-06-08,2453.35,"",2015-06-08 18:21:55.043276,2015-06-20 13:16:22.20775,12,f,f,

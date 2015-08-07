@@ -1,0 +1,10 @@
+$(document).ready(function(){
+     $("#myCarousel").carousel({
+         interval : 1000000,
+         pause: false
+     });
+});
+
+
+$('#bills').html("<%= escape_javascript render(:partial => 'claims/modal', :locals => { :bills => @bills }) %>");
+$("#claim-attachments").modal("show");

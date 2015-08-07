@@ -1,0 +1,164 @@
+<head>
+
+<style type="text/css">
+
+.item{
+    background: #333;    
+    text-align: center;
+    height: 300px !important;
+}
+.carousel{
+    margin-top: 20px;
+}
+.bs-example{
+	margin: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<%= form_tag :action => 'pay' do %>  
+
+<%= submit_tag "PAY NOW", {class: "btn btn-primary btn-sm" ,data: { confirm: "Are you sure?" } } %>
+
+</br></br>
+
+<div id="filterrific_results">
+   
+  <table class="table striped">
+    <tr>
+      <th>User email</th>
+      <th>Title</th>
+      <th>Created At</th>
+      <th>Amount</th>
+      <th>Status</th>
+      <th>View Claim</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+     
+    </tr>
+    <% total=0 %>
+    <% claims.each do |c| %>
+      <tr>
+        <td>
+                 <% if c.status=="Unpaid" %>
+                  <%= check_box_tag  "claims[]",c.id %> 
+                  <% end %>
+             
+               <% if c.user!= nil %>  
+               <%= c.user.email %>
+               <% else %>
+                  User deactivated
+               <% end %>     
+        </td>
+        <td><%= c.title %></td>
+         <td><%= c.created_at.strftime("%d/%m/%Y") %></td>
+         <td><%= c.amount %></td>
+        <td><%= c.status %></td>
+
+
+<td> <button class="btn btn-primary btn-sm" data-toggle="modal" data-target="#claim-<%= c.id %>" type="button"> View Claim </button>	
+	
+	<div class="modal fade" id="claim-<%= c.id %>" tabindex="-1" role="dialog" aria-labelledby="claim-<%= c.id %>-label" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title" id="claim-<%= c.id %>-label"> <%= c.title %></h1>
+        </div>
+        <div class="modal-body">
+		<dl class="dl-horizontal">		
+		<dt>Date of Expenditure: </dt> 	<dd><%= c.exp_date %> </dd>          
+		<dt> Created At:  </dt>		<dd><%= c.created_at %>	      </dd>
+		<dt> Summary:  </dt>		<dd><%= c.summary %>	      </dd>
+	  	<dt> Amount: </dt> 		<dd>Rs. <%= c.amount %>	      </dd>
+	  	<dt> Status: </dt>		<dd><%= c.status %>	      </dd>
+		</br> <dd> <% c.bills.all.each do |p| %>
+                           <% if p.content_type == "application/pdf" %>  
+      <%= link_to image_tag("pdf.jpg") , "/claims/#{c.id}/attachments", :remote => true %>
+      <% else %>
+      <%= link_to image_tag(p.file_url(:thumb)) , "/claims/#{c.id}/attachments", :remote => true %>
+      <% end %>
+                               <% end %>
+		 </dd>
+                </dl>
+	</div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+	</td>
+
+
+        <% if c.status=="Unpaid" %>
+        
+       <td> <%= link_to 'Update Claim', edit_claim_path(c.id),{class: "btn btn-primary btn-sm",method: :get} %></td>
+       
+       <td> <%= link_to 'Delete', c,{class: "btn btn-primary btn-sm",method: :delete, data: { confirm: "Are you sure?" } }  %></td>
+       
+
+       <% else %>
+        <td></td> <td></td>
+       <% end %>
+
+
+       
+        
+        <% unless c.bills.empty? %>
+<td>
+
+
+  
+   <%= link_to "Attachments", "/claims/#{c.id}/attachments", :remote => true, :class => 'btn btn-primary' %>
+
+   
+  </td>
+<% else %>
+<td></td>
+<% end %>
+
+
+        
+      </tr>
+       <% total=total+c.amount %> 
+    <% end %>
+    <tr><td></td> <td></td> <td></td> <td>  <h4> Total: <%= total.round(2) %> </h4></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td></tr>
+  </table>
+   <% end %>
+</div>
+<div style="font-size: 20px">
+<%= will_paginate claims %></div>
+</br></br></br></br></br>
+
+<div class="modal fade" id="claim-attachments" tabindex="-1" role="dialog" aria-labelledby="claim-label" aria-hidden="true">
+   
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1>BILLS</h1>
+        </div>
+        <div class="modal-body">
+    
+<div class="bs-example" id="bills">
+    
+</div>
+
+
+
+
+
+  </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>

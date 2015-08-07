@@ -1,0 +1,64 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+       <% counter2 = 0 %>
+       <% bills.each do |p| %>
+         <li data-target="#myCarousel" data-slide-to="<%= counter2 %>" ></li>
+         <% counter2+=1 %>
+       <% end %>
+
+            <!--li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li-->
+        </ol>   
+        <!-- Wrapper for carousel items -->
+        
+        <div class="carousel-inner">
+           
+        <% counter= 0 %>
+        <% n="active item" %>
+         
+
+       <% bills.each do |p| %>
+           
+          <% if counter==0 %>
+            <% n="active item" %>
+           <% else %>
+            <% n="item" %>
+          <% end %>
+              
+             <div class= "<%= n %>" >
+
+                 <% if p.content_type == "application/pdf" %>       
+                 <div style="position:relative; top:10%;">
+                 <a href="<%= p.file_url %>" target="_blank">
+                      <img src ="../images/pdf.jpg" alt="it is a pdf" width="200px" height="200px"/> 
+                 </a>
+                 </div>
+
+                 <% else %>
+                <%= image_tag p.file_url(:medium) %>
+                <% end %>
+                
+
+              <div class="carousel-caption">
+                 
+                </div>
+            </div>
+          
+          <% counter+=1 %>
+          
+            
+           <% end %>
+
+
+          
+        </div>
+        <!-- Carousel controls -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+    </div>
